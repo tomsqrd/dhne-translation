@@ -55,7 +55,7 @@ src/characters/cool_fish.lua:43		level up more		what is this
 src/characters/cool_fish.lua:66	dialogue	Oh, this jacket?\nIt was 3000¥	Oh, die Jacke?\nHat 3000¥ gekostet	intentionally omitting words for coolness
 src/characters/cool_fish.lua:67	dialogue	It's from Japan yeah	Ist aus Japan, ja	
 src/characters/dog.lua:2		Dog	Hund	
-src/characters/dog.lua:34		Fancy Fancy	 	
+src/characters/dog.lua:34		Fancy Fancy	Fein Fein	could be good because thats how we talk to dogs too
 src/characters/god.lua:15	dialogue from prompt	fall back		
 src/characters/god.lua:36 (+1 others)		soul		
 src/characters/god.lua:37		wager your soul		
@@ -88,8 +88,8 @@ src/characters/guy.lua:90 (+5 others)		Yes
 src/characters/guy.lua:93	dialogue from prompt	Live your truth		
 src/characters/guy.lua:107	dialogue	Ride on		
 src/characters/hotdog.lua:2		Hot Dawg		
-src/characters/king_fetus.lua:2		King Foetus		
-src/characters/king_fetus.lua:38		Foetus 2		
+src/characters/king_fetus.lua:2		King Foetus	Fötuskönig	
+src/characters/king_fetus.lua:38		Foetus 2	Fötus 2	
 src/characters/king_fetus.lua:39		development		
 src/characters/king_fetus.lua:58	dialogue	Reach level 7 to escape!		
 src/characters/king_fetus.lua:59 (+1 others)	dialogue	goo goo gaa gaa		
@@ -125,7 +125,7 @@ src/characters/shirin.lua:176	dialogue	Feeling lucky?
 src/characters/shirin.lua:184	dialogue from prompt	RIP		
 src/characters/shirin.lua:193	dialogue	Bad luck...		
 src/characters/shirin.lua:201	dialogue	Good luck!		
-src/characters/tooth_fairy.lua:2		Tooth Fairy		
+src/characters/tooth_fairy.lua:2		Tooth Fairy	Zahnfee	
 src/characters/tooth_fairy.lua:40	dialogue	Reach level 7 and I'll leave your teeth alone.		
 src/characters/tooth_fairy.lua:42	dialogue	Reach level 10 and I'll leave your teeth alone.		
 src/characters/tutorial_character.lua:38	dialogue	Hi! Welcome!	Hi! Willkommen!	
@@ -182,14 +182,14 @@ src/characters/tutorial_character.lua:305	dialogue	I didn't explain it all but y
 src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.		
 src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.		
 src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.		
-src/characters/wizard.lua:2		Wizard		
-src/characters/wizard.lua:43		Wizard 2		
-src/characters/wizard.lua:51		Wizard 3		
+src/characters/wizard.lua:2		Wizard	Zauberer	
+src/characters/wizard.lua:43		Wizard 2	Zauberer 2	
+src/characters/wizard.lua:51		Wizard 3	Zauberer 3	
 src/characters/wizard.lua:70	dialogue	Get to level 7, and you're free.		
 src/characters/wizard.lua:73	dialogue	Get to level 10, and you're free.		
 src/characters/wizard.lua:191	dialogue	...Want to see a magic trick?		
-src/characters/wizard.lua:199	dialogue from prompt	Boo :)		
-src/characters/wizard.lua:212	dialogue	Tada!		
+src/characters/wizard.lua:199	dialogue from prompt	Boo :)	Buh :)	
+src/characters/wizard.lua:212	dialogue	Tada!	Tada!	
 src/coloured_text.lua:8 (+104 others)		bust		
 src/coloured_text.lua:12		wipe		
 src/coloured_text.lua:14		instant		
@@ -232,21 +232,21 @@ src/endings/cool_fish.lua:29		lets hit that shit
 src/endings/cool_fish.lua:132	dialogue	wheels can't take you away from me		
 src/endings/cool_fish.lua:134	dialogue	pretty sick whip tho ngl		
 src/endings/dog.lua:67		throw that shit		
-src/endings/dog.lua:129	dialogue	what a good boy		
-src/endings/dog.lua:130	dialogue	i am neither good nor bad		
-src/endings/god.lua:65	dialogue	it was very brave of you to come back		
-src/endings/god.lua:68	dialogue	and i am god		
-src/endings/guy.lua:158	dialogue	have you looked into a mirror recently?		
-src/endings/guy.lua:159	dialogue	what do you see?		
-src/endings/guy.lua:160	dialogue	i see my bravest child		
+src/endings/dog.lua:129	dialogue	what a good boy	was ein guter junge	
+src/endings/dog.lua:130	dialogue	i am neither good nor bad	ich bin weder gut noch schlecht	
+src/endings/god.lua:65	dialogue	it was very brave of you to come back	es war sehr mutig von dir zurück zu kommen	
+src/endings/god.lua:68	dialogue	and i am god	und ich bin gott	
+src/endings/guy.lua:158	dialogue	have you looked into a mirror recently?	hast du mal in den spiegel geguckt?	
+src/endings/guy.lua:159	dialogue	what do you see?	was siehst du?	
+src/endings/guy.lua:160	dialogue	i see my bravest child	ich sehe mein mutigstes kind	
 src/endings/hotdog.lua:29		absolutely hit that shit		
 src/endings/hotdog.lua:75	dialogue	finally some good fucking food		
 src/endings/king_fetus.lua:52		nope nope nope		
-src/endings/liz.lua:129	dialogue	how did you do?		
-src/endings/liz.lua:130	dialogue	in the test, i mean		
+src/endings/liz.lua:129	dialogue	how did you do?	wie hast du abgeschnitten?	
+src/endings/liz.lua:130	dialogue	in the test, i mean	in dem test, meine ich	
 src/endings/liz.lua:131	dialogue	we all pass\nin one way or another		
-src/endings/marooned.lua:81	dialogue	i am your salvation		
-src/endings/marooned.lua:82	dialogue	you are not drowning		
+src/endings/marooned.lua:81	dialogue	i am your salvation	ich bin deine erlösung	
+src/endings/marooned.lua:82	dialogue	you are not drowning	du ertrinkst nicht	
 src/endings/party.lua:130	dialogue	You finished the Shallows!		
 src/endings/party.lua:131	dialogue	Unlock the next Depth from Star Guts for a bigger challenge.		
 src/endings/tooth_fairy.lua:129	dialogue	so the tooth fairy smokes now		
@@ -256,8 +256,8 @@ src/entities/bad_teeth_mode.lua:35		Bad Teeth: ${count}/${limit}
 src/entities/buttons_clump.lua:323		any bust:\ninstant wipe:		
 src/entities/cycle_baby.lua:7		Cycle Baby		
 src/entities/dice.lua:208		Bust		
-src/entities/dice.lua:217		Bonus\n+100 Points when scored		
-src/entities/dice.lua:227		Mult\n+2 Mult when scored		
+src/entities/dice.lua:217		Bonus\n+100 Points when scored	Bonus\n+100 Punkte bei Wertung	
+src/entities/dice.lua:227		Mult\n+2 Mult when scored	Mult\n+2 Mult bei Wertung	
 src/entities/dice.lua:237		Debust\n-1 Bust and -1 ♥ when scored		
 src/entities/dice.lua:246		Pig\nReroll for instant points		
 src/entities/dice.lua:255		Negative\n-50 Points when scored		
@@ -273,10 +273,10 @@ src/entities/dice.lua:348		Doom\n-3♥ when rolled
 src/entities/die_baby.lua:7		Die Baby		
 src/entities/dupe_baby.lua:7		Dupe Baby		
 src/entities/eye_baby.lua:7		Eye Baby		
-src/entities/power_ui.lua:94	ui	Use		
+src/entities/power_ui.lua:94	ui	Use	Benutzen	
 src/entities/power_ui.lua:127	ui	Power recharges each turn\nSelect a die with Left Click then press this button to use it		
 src/entities/shop.lua:82		TAB: ${total} ¥		
-src/entities/shop.lua:114		Dice $count/$limit		
+src/entities/shop.lua:114		Dice $count/$limit	Würfel $count/$limit	
 src/item_unlocks.lua:6		Basic Spells	Einfache Zauber	
 src/item_unlocks.lua:7		beginner magic	magie für anfänger	
 src/item_unlocks.lua:15		Basic Passives	Passive Fähigkeiten	can we use a singular word for this?
@@ -501,11 +501,11 @@ src/items.lua:1162		Flipped!
 src/items.lua:1167		Orange		
 src/items.lua:1168		Nudge all other dice one pip towards this die's value		
 src/items.lua:1196		Pull!		
-src/items.lua:1201		Tumor		
+src/items.lua:1201		Tumor	Tumor	
 src/items.lua:1202		Spawn a ghost clone of this die		
 src/items.lua:1244		Cloned!		
-src/items.lua:1249		Eye		
-src/items.lua:1250		Add 1 pip to the shown side		
+src/items.lua:1249		Eye	Auge	
+src/items.lua:1250		Add 1 pip to the shown side	Füge 1 Auge der gezeigten Seite hinzu	
 src/items.lua:1272		Bonus Puke		
 src/items.lua:1292		Mult Puke		
 src/items.lua:1293		Add 1 Mult side		
@@ -945,20 +945,20 @@ src/items.lua:6325		Barnacle
 src/items.lua:6326		+1 § per 10 § held at the start of each level		
 src/items.lua:6341		+ ${interest} §!		
 src/items.lua:6349		Ball Gag		
-src/items.lua:6350		Dice pip becomes 1		
-src/items.lua:6368		Peanut		
-src/items.lua:6369		Dice pip becomes 2		
+src/items.lua:6350		Dice pip becomes 1	Würfelauge wird 1	"are these ""pip"" or ""side turns to""?"
+src/items.lua:6368		Peanut	Erdnuss	
+src/items.lua:6369		Dice pip becomes 2	Würfelauge wird 2	
 src/items.lua:6387		Wood Sorrel		
 src/items.lua:6388		Dice pip becomes 3		
-src/items.lua:6406		Picture Frame		
-src/items.lua:6407		Dice pip becomes 4		
+src/items.lua:6406		Picture Frame	Bilderrahmen	
+src/items.lua:6407		Dice pip becomes 4	Würfelauge wird 4	
 src/items.lua:6425		Paper Star		
 src/items.lua:6426		Dice pip becomes 5		
 src/items.lua:6444		Honeycomb		
 src/items.lua:6445		Dice pip becomes 6		
-src/items.lua:6464		Scrambled Eggs		
-src/items.lua:6465		Dice pip becomes ???		
-src/items.lua:6485		${points}!		
+src/items.lua:6464		Scrambled Eggs	Rührei	
+src/items.lua:6465		Dice pip becomes ???	Würfelauge wird ???	
+src/items.lua:6485		${points}!	${points}!	
 src/items.lua:6492		Maths Test		
 src/items.lua:6495		Spawn 0-6 random numeracy foods		
 src/items.lua:6501		take test		
@@ -1011,18 +1011,18 @@ src/powers.lua:494		Take a big bite to regain all busts.
 src/powers.lua:578		Reincarnate		
 src/powers.lua:579		Selected die is reborn		
 src/screen_overlay.lua:59 (+24 others)	ui	all		
-src/states/catalogue.lua:49 (+5 others)		< back		
-src/states/catalogue.lua:77 (+11 others)		gamepad		
-src/states/catalogue.lua:85 (+4 others)		dawn mode		
-src/states/catalogue.lua:85 (+4 others)		night mode		
-src/states/catalogue.lua:120		day		
-src/states/catalogue.lua:121 (+1 others)		night		
+src/states/catalogue.lua:49 (+5 others)		< back	< zurück	
+src/states/catalogue.lua:77 (+11 others)		gamepad	controller	
+src/states/catalogue.lua:85 (+4 others)		dawn mode	Tagmodus	Dämmerungsmodus?
+src/states/catalogue.lua:85 (+4 others)		night mode	Nachtmodus	
+src/states/catalogue.lua:120		day	tag	
+src/states/catalogue.lua:121 (+1 others)		night	nacht	
 src/states/credits.lua:43		Created by		
-src/states/credits.lua:49		Translation		
+src/states/credits.lua:49		Translation	Übersetzung	
 src/states/credits.lua:56		Special Thanks		
 src/states/credits.lua:60		The Dice		
-src/states/credits.lua:61 (+1 others)		God		
-src/states/credits.lua:65		And you!		
+src/states/credits.lua:61 (+1 others)		God	Gott	
+src/states/credits.lua:65		And you!	Und Du!	Und dich?
 src/states/credits.lua:66		Thanks for playing! <3		
 src/states/customisation.lua:176		Nothing Available		
 src/states/customisation.lua:177		sorry sorry		
@@ -1121,49 +1121,49 @@ src/states/game.lua:1042		Losing all Turns ends the game.\nTurns refill at the s
 src/states/game.lua:1282 (+1 others)		MERGED		
 src/states/game.lua:1335 (+2 others)		active		
 src/states/game.lua:1461		Solo		
-src/states/game.lua:1472		Pair		
-src/states/game.lua:1473		1-1		
-src/states/game.lua:1482		Short Straight		
-src/states/game.lua:1483		1-2-3-4		
-src/states/game.lua:1524		Two Pair		
-src/states/game.lua:1525		1-1 2-2		
-src/states/game.lua:1535		Three Of A Kind		
-src/states/game.lua:1536		1-1-1		
-src/states/game.lua:1556		Full House		
-src/states/game.lua:1557		1-1-1 2-2		
-src/states/game.lua:1569		Four Of A Kind		
-src/states/game.lua:1570		1-1-1-1		
-src/states/game.lua:1580		Straight		
-src/states/game.lua:1581		1-2-3-4-5		
-src/states/game.lua:1633		Long Straight		
-src/states/game.lua:1634		1-2-3-4-5-6		
-src/states/game.lua:1644		Star Bonanza		
-src/states/game.lua:1645		1-1-1-1-1		
-src/states/game.lua:1655		Star Extravaganza		
-src/states/game.lua:1656		1-1-1-1-1-1		
-src/states/game.lua:1666		Star Bonanzovaganza		
-src/states/game.lua:1667		1-1-1-1-1-1-1		
-src/states/game.lua:1677		Three Pair		
-src/states/game.lua:1678		1-1-2-2-3-3		
-src/states/game.lua:1688		Flush		
-src/states/game.lua:1689		¤-¤-¤-¤		
-src/states/game.lua:1705		Straight Flush		
-src/states/game.lua:1706		¤1-2-3-4-5¤		
+src/states/game.lua:1472		Pair	Paar	
+src/states/game.lua:1473		1-1	1-1	
+src/states/game.lua:1482		Short Straight	Kurze Straße	
+src/states/game.lua:1483		1-2-3-4	1-2-3-4	
+src/states/game.lua:1524		Two Pair	Zwei Paar	
+src/states/game.lua:1525		1-1 2-2	1-1 2-2	
+src/states/game.lua:1535		Three Of A Kind	Drilling	
+src/states/game.lua:1536		1-1-1	1-1-1	
+src/states/game.lua:1556		Full House	Full House	
+src/states/game.lua:1557		1-1-1 2-2	1-1-1 2-2	
+src/states/game.lua:1569		Four Of A Kind	Vierling	
+src/states/game.lua:1570		1-1-1-1	1-1-1-1	
+src/states/game.lua:1580		Straight	Straße	
+src/states/game.lua:1581		1-2-3-4-5	1-2-3-4-5	
+src/states/game.lua:1633		Long Straight	Lange Straße	
+src/states/game.lua:1634		1-2-3-4-5-6	1-2-3-4-5-6	
+src/states/game.lua:1644		Star Bonanza	Stern-Bonanza	
+src/states/game.lua:1645		1-1-1-1-1	1-1-1-1-1	
+src/states/game.lua:1655		Star Extravaganza	Stern-Extravaganza	
+src/states/game.lua:1656		1-1-1-1-1-1	1-1-1-1-1-1	
+src/states/game.lua:1666		Star Bonanzovaganza	Stern-Bonanzovaganza	
+src/states/game.lua:1667		1-1-1-1-1-1-1	1-1-1-1-1-1-1	
+src/states/game.lua:1677		Three Pair	Drei Paar	
+src/states/game.lua:1678		1-1-2-2-3-3	1-1-2-2-3-3	
+src/states/game.lua:1688		Flush	Flush	Deutsche Version?
+src/states/game.lua:1689		¤-¤-¤-¤	¤-¤-¤-¤	
+src/states/game.lua:1705		Straight Flush	Straight Flush	Deutsche Version?
+src/states/game.lua:1706		¤1-2-3-4-5¤	¤1-2-3-4-5¤	
 src/states/game.lua:1747		Triple 7		
-src/states/game.lua:1748		7-7-7		
-src/states/game.lua:1761		JACKPOT		
+src/states/game.lua:1748		7-7-7	7-7-7	
+src/states/game.lua:1761		JACKPOT	JACKPOT	
 src/states/game.lua:1762		gain a gold star		
 src/states/game.lua:1770		Triple 8		
-src/states/game.lua:1771		8-8-8		
+src/states/game.lua:1771		8-8-8	8-8-8	
 src/states/game.lua:1783		BLESSED 		
 src/states/game.lua:1784		-1 bust		
 src/states/game.lua:1792		Lucky 8		
-src/states/game.lua:1793		1-1-1-1-1-1-1-1		
+src/states/game.lua:1793		1-1-1-1-1-1-1-1	1-1-1-1-1-1-1-1	
 src/states/game.lua:1803		Unlucky 13		
 src/states/game.lua:1814		Lucky 88		
-src/states/game.lua:1815		How?		
+src/states/game.lua:1815		How?	Wie?	
 src/states/game.lua:2110 (+2 others)		win		
-src/states/game.lua:2169		NIGHTMARE LEVEL		
+src/states/game.lua:2169		NIGHTMARE LEVEL	ALBTRAUM LEVEL	
 src/states/game.lua:2278 (+1 others)		Rift		
 src/states/game.lua:2309		fight		
 src/states/game.lua:2320		heal		
@@ -1177,8 +1177,8 @@ src/states/game.lua:2513	dialogue	no downside not allowed
 src/states/game.lua:2531	dialogue	WHAT	WAS	
 src/states/game.lua:2546		refilled		
 src/states/game.lua:2573		LAST TURN	LETZTER ZUG	
-src/states/game.lua:2692		- Out Of Dice -		
-src/states/game.lua:2693		never		
+src/states/game.lua:2692		- Out Of Dice -	- Keine Würfel Übrig -	lowercase ü?
+src/states/game.lua:2693		never	niemals	
 src/states/game.lua:2695		Looks like you're cooked\n\nGive up?		
 src/states/game.lua:2839		INSTANT WIPE		
 src/states/game.lua:2840		OUT OF 		
