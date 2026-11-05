@@ -1379,18 +1379,18 @@ src/states/intro.lua:67		Game by	Ein Spiel von
 src/states/intro.lua:95		Roll 6 to start.	Würfel 6 um das Spiel zu starten.	
 src/states/intro.lua:97		Roll 1 to quit.	Würfel 1 um das Spiel zu beenden.	
 src/states/intro.lua:121		right\nclick	rechtsklick	
-src/states/intro.lua:144		Press B To Roll	Drücke B zum würfeln	
-src/states/intro.lua:145		Right Click To Roll	Rechtsklick zum würfeln	
+src/states/intro.lua:144		Press B To Roll	Drücke B zum Würfeln	
+src/states/intro.lua:145		Right Click To Roll	Rechtsklick zum Würfeln	
 src/states/intro.lua:237		Franek & Max	Franek & Max	
-src/states/intro_greed.lua:60 (+1 others)		luck	glück	
-src/states/intro_greed.lua:61		skill	können	
-src/states/intro_greed.lua:62		talent	talent	
-src/states/intro_greed.lua:63		patience	geduld	
-src/states/intro_greed.lua:64		fate	schicksal	
-src/states/intro_greed.lua:65		destiny	bestimmung	
+src/states/intro_greed.lua:60 (+1 others)		luck	Glück	
+src/states/intro_greed.lua:61		skill	Können	
+src/states/intro_greed.lua:62		talent	Talent	
+src/states/intro_greed.lua:63		patience	Geduld	
+src/states/intro_greed.lua:64		fate	Schicksal	
+src/states/intro_greed.lua:65		destiny	Bestimmung	
 src/states/intro_greed.lua:78		Roll to gain Stars.	Würfel um Sterne zu bekommen.	
 src/states/intro_greed.lua:84		Roll 1 to lose Stars.	Würfel 1 um Sterne zu verlieren.	
-src/states/intro_greed.lua:115		This is a game about ${reason}.	Dieses Spiel dreht sich um ${reason}	What is inserted here?
+src/states/intro_greed.lua:115		This is a game about ${reason}.	Dieses Spiel dreht sich um ${reason}.	What is inserted here?
 src/states/intro_greed.lua:160		bank and start	banken und starten	
 src/states/intro_greed.lua:160		pass and start	passen und starten	
 src/states/intro_greed.lua:162		(A) 	(A)	
@@ -1400,35 +1400,35 @@ src/states/intro_greed.lua:201		pitiful	erbärmlich
 src/states/intro_greed.lua:202		uninspiring	langweilig	lauwarm? nicht inspirierend?
 src/states/intro_greed.lua:203 (+1 others)	dialogue	delicious	lecker	
 src/states/intro_greed.lua:204		excellent	exzellent	
-src/states/options.lua:86		Build ID: ${id}		
-src/states/options.lua:333		audio		
-src/states/options.lua:337		master		
-src/states/options.lua:338		music		
-src/states/options.lua:339		ambient		
-src/states/options.lua:340		sfx		
-src/states/options.lua:355		mute		
-src/states/options.lua:356 (+2 others)		no		
-src/states/options.lua:363		display		
-src/states/options.lua:365		fullscreen		
-src/states/options.lua:372		vsync		
-src/states/options.lua:379		chromab		
-src/states/options.lua:388		scanlines		
-src/states/options.lua:397		bulge		
-src/states/options.lua:407		accessibility		
-src/states/options.lua:409		screenshake		
-src/states/options.lua:418		tips		
-src/states/options.lua:425		slow computer		
-src/states/options.lua:432		fast animation		
-src/states/options.lua:439		scroll bgs		
-src/states/options.lua:450		danger zone		
-src/states/options.lua:454		locale		
-src/states/options.lua:458		nuke entire save		
-src/states/options.lua:463		Delete the entire game's save file\nresetting everything\nand losing all your progress forever?		
-src/states/options.lua:478		reset options		
-src/states/options.lua:483		Reset all the game options\nto their default values?		
-src/states/options.lua:504		reset tips		
-src/states/options.lua:509		reset all the hover tooltip counters\nso that all the tips show again?		
-src/states/options.lua:528		replay tutorial		
+src/states/options.lua:86		Build ID: ${id}	Build ID: ${id}	
+src/states/options.lua:333		audio	audio	
+src/states/options.lua:337		master	gesamt	
+src/states/options.lua:338		music	musik	
+src/states/options.lua:339		ambient	umgebung	
+src/states/options.lua:340		sfx	soundeffekte	
+src/states/options.lua:355		mute	stumm	
+src/states/options.lua:356 (+2 others)		no	nein	
+src/states/options.lua:363		display	anzeige	
+src/states/options.lua:365		fullscreen	vollbild	
+src/states/options.lua:372		vsync	vsync	
+src/states/options.lua:379		chromab	farbverschiebung	Farbverschiebung? Chromatische Aberration?
+src/states/options.lua:388		scanlines	röhren	Retro? Röhreneffekt?
+src/states/options.lua:397		bulge	wölbung	
+src/states/options.lua:407		accessibility	barrierefreiheit	
+src/states/options.lua:409		screenshake	bildschirmwackeln	
+src/states/options.lua:418		tips	tipps	
+src/states/options.lua:425		slow computer	schnelle performance	
+src/states/options.lua:432		fast animation	schnelle animation	
+src/states/options.lua:439		scroll bgs	hintergrundscroll	
+src/states/options.lua:450		danger zone	gefahrenzone	
+src/states/options.lua:454		locale	sprache	
+src/states/options.lua:458		nuke entire save	spielstand löschen	something cooler like nuke?
+src/states/options.lua:463		Delete the entire game's save file\nresetting everything\nand losing all your progress forever?	Willst du deinen ganzen Spielstand löschen,\nAlles zurücksetzen\nund deinen Fortschritt für immer verlieren?	
+src/states/options.lua:478		reset options	optionen zurücksetzen	
+src/states/options.lua:483		Reset all the game options\nto their default values?	Willst du alle Optionen/nauf ihren Standard zurücksetzen? 	
+src/states/options.lua:504		reset tips	tipps zurücksetzen	
+src/states/options.lua:509		reset all the hover tooltip counters\nso that all the tips show again?	Willst du alle Tipps/nwieder anzeigen lassen?	
+src/states/options.lua:528		replay tutorial	tutorial wiederholen	
 src/states/scoreboard.lua:36		Loading Scores...		
 src/states/scoreboard.lua:48		MOST_STARS		
 src/states/scoreboard.lua:49		Most Stars		
