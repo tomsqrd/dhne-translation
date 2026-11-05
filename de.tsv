@@ -166,7 +166,7 @@ src/characters/tutorial_character.lua:242	dialogue	You rolled too many BUSTs!
 src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked Points gone!		
 src/characters/tutorial_character.lua:245	dialogue	Don't worry, it happens.		
 src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)		
-src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...		
+src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...	Ah. Ja...	
 src/characters/tutorial_character.lua:261	dialogue	Instant WIPE		
 src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.		
 src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!		
@@ -217,7 +217,7 @@ src/coloured_text.lua:98		empty
 src/coloured_text.lua:136		clear		
 src/display_loc.lua:3		Normal	Normal	
 src/display_loc.lua:4		Pixel	Pixel	
-src/endings/alley.lua:56 (+1 others)		hit that shit		
+src/endings/alley.lua:56 (+1 others)		hit that shit		zieh den scheiß?
 src/endings/alley.lua:101	dialogue	at least the tooth fairy will come		
 src/endings/alley.lua:102	dialogue	i haven't lost my baby teeth yet		
 src/endings/alley.lua:103	dialogue	because i don't have baby teeth		
@@ -306,9 +306,9 @@ src/item_unlocks.lua:127		Multipliers
 src/item_unlocks.lua:128		make number go bigger		
 src/item_unlocks.lua:136		Maximalist		
 src/item_unlocks.lua:137		more dice more better		
-src/item_unlocks.lua:145		Self Control		
-src/item_unlocks.lua:146		as if		
-src/item_unlocks.lua:154		Pain		
+src/item_unlocks.lua:145		Self Control	Selbstkontrolle	
+src/item_unlocks.lua:146		as if	als ob	
+src/item_unlocks.lua:154		Pain	Schmerzen	
 src/item_unlocks.lua:155		it hurts but in a good way		
 src/item_unlocks.lua:164 (+1 others)		Comeback		
 src/item_unlocks.lua:165		you've still got plenty left		
@@ -328,13 +328,13 @@ src/item_unlocks.lua:232		Biscuit
 src/item_unlocks.lua:233		worth risking it for		
 src/item_unlocks.lua:241		Send It		
 src/item_unlocks.lua:242		when in doubt go flat out		
-src/item_unlocks.lua:251		Ghost		
+src/item_unlocks.lua:251		Ghost	Geist	
 src/item_unlocks.lua:252		pretty spooky		
-src/item_unlocks.lua:261 (+1 others)		Shield		
+src/item_unlocks.lua:261 (+1 others)		Shield	Schild	
 src/item_unlocks.lua:262		bust protection		
 src/item_unlocks.lua:271		Slow N Steady		
 src/item_unlocks.lua:272		gets you nowhere		
-src/item_unlocks.lua:280		Patience		
+src/item_unlocks.lua:280		Patience	Geduld	
 src/item_unlocks.lua:281		a virtue		
 src/item_unlocks.lua:290		Straights		
 src/item_unlocks.lua:291		they're at it again		
@@ -358,7 +358,7 @@ src/item_unlocks.lua:382		Sardine Magic
 src/item_unlocks.lua:383		abracadabra		
 src/item_unlocks.lua:390		Faves		
 src/item_unlocks.lua:391		play with your favourites		
-src/items.lua:10		Something fell from the sky		
+src/items.lua:10		Something fell from the sky	Etwas ist vom Himmel gefallen	
 src/items.lua:36		Power Limit Up		
 src/items.lua:39		Power Limit +1		
 src/items.lua:50		Power Limit +1!		
@@ -1411,7 +1411,7 @@ src/ui/game_setup_options.lua:16	ui	medium bet
 src/ui/game_setup_options.lua:17	ui	increase difficulty by 2		
 src/ui/game_setup_options.lua:28	ui	hard bet		
 src/ui/game_setup_options.lua:29	ui	increase difficulty by 3		
-src/ui/help_screen.lua:18	ui	HELP ME!		
+src/ui/help_screen.lua:18	ui	HELP ME!	HILFE!	
 src/ui/help_screen.lua:74	ui	INFO DUMP :)		
 src/ui/help_screen.lua:111 (+1 others)	ui	BUST		
 src/ui/help_screen.lua:112	ui	Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.		
