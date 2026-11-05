@@ -18,27 +18,27 @@ src/boards/rift.lua:3		Decide how deep you can go.
 src/boards/rift.lua:4		please mind the gap		
 src/boards/the_end.lua:2		The End		
 src/boards/the_end.lua:3		This is it.		
-src/boards/the_end.lua:4		thank you for visiting		
-src/character_unlocks.lua:10		never born but alive		
-src/character_unlocks.lua:21		tries her best		
-src/character_unlocks.lua:31		likes watching you bust		
-src/character_unlocks.lua:42		just a dude		
+src/boards/the_end.lua:4		thank you for visiting	danke für ihren besuch	
+src/character_unlocks.lua:10		never born but alive	nie geboren aber lebendig	
+src/character_unlocks.lua:21		tries her best	gibt ihr bestes	
+src/character_unlocks.lua:31		likes watching you bust	busts, busts, wir brauchen busts	"tries a different pun based on ""wir brauchen bass"" by das bo"
+src/character_unlocks.lua:42		just a dude	nur so ein typ	
 src/character_unlocks.lua:53		gets away with it		
-src/character_unlocks.lua:63		god stronger warrior		
-src/character_unlocks.lua:74 (+1 others)		woof		
-src/character_unlocks.lua:84		woof?		
-src/character_unlocks.lua:95		he's so cool		
-src/character_unlocks.lua:105		slimy		
-src/character_unlocks.lua:115		she's doing well for herself		
-src/character_unlocks.lua:120		Plasticine		
+src/character_unlocks.lua:63		god stronger warrior	gottes stärkster krieger	
+src/character_unlocks.lua:74 (+1 others)		woof	wuff	
+src/character_unlocks.lua:84		woof?	wuff?	
+src/character_unlocks.lua:95		he's so cool	er ist so cool	
+src/character_unlocks.lua:105		slimy	schleimig	
+src/character_unlocks.lua:115		she's doing well for herself	sie lässt es sich gut gehen	"makes sense or nah? maybe just ""sie hat es zu etwas gebracht""?"
+src/character_unlocks.lua:120		Plasticine	Knetmasse	
 src/character_unlocks.lua:121		like putty in your hands\ncharacter customisation option		
-src/character_unlocks.lua:133		Bets		
-src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward		
-src/character_unlocks.lua:145		Soul Wager		
-src/character_unlocks.lua:146		bet your save file for the ultimate reward		
-src/characters/anais.lua:2		Anais		
+src/character_unlocks.lua:133		Bets	Wetten	
+src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward	setze ¤ ein um schwierigkeit und belohnung zu steigern	
+src/character_unlocks.lua:145		Soul Wager	Teufelspakt	"literal ""devils pact"", aligns with goethes faust"
+src/character_unlocks.lua:146		bet your save file for the ultimate reward	setze deinen spielstand für den ultimativen preis	
+src/characters/anais.lua:2		Anais	Anais	
 src/characters/anais.lua:38		Biblically Accurate		
-src/characters/anais.lua:39		real angels dont have wings		
+src/characters/anais.lua:39		real angels dont have wings	echte engel haben keine flügel	
 src/characters/anais.lua:56	dialogue	Kill what you love		
 src/characters/business_fish.lua:2		Business Fish		
 src/characters/business_fish.lua:33		Promotion		
