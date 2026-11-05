@@ -1088,7 +1088,7 @@ src/powers.lua:75		Tell The Future
 src/powers.lua:76		Block 2 sides from being rolled on the selected die next roll.		
 src/powers.lua:104		Nudge Skip		
 src/powers.lua:105		+1 pip to the selected die, skipping values already showing.		
-src/powers.lua:139		Nudge Up		
+src/powers.lua:139		Nudge Up	Hoch Stupsen	kippen?
 src/powers.lua:140		+1 pip to the selected die		
 src/powers.lua:160		Flip		
 src/powers.lua:161		Flip the selected die to its opposite face.		
@@ -1123,16 +1123,16 @@ src/powers.lua:494		Take a big bite to regain all busts.
 src/powers.lua:578		Reincarnate		
 src/powers.lua:579		Selected die is reborn		
 src/screen_overlay.lua:59 (+41 others)	ui	all		
-src/states/catalogue.lua:49 (+5 others)		< back		
-src/states/catalogue.lua:85 (+4 others)		dawn mode		
-src/states/catalogue.lua:85 (+4 others)		night mode		
-src/states/catalogue.lua:120 (+1 others)		day		
-src/states/catalogue.lua:121 (+1 others)		night		
+src/states/catalogue.lua:49 (+5 others)		< back	< zurück	
+src/states/catalogue.lua:85 (+4 others)		dawn mode	tagmodus	"dämmerung? ohne ""modus""?"
+src/states/catalogue.lua:85 (+4 others)		night mode	nachtmodus	
+src/states/catalogue.lua:120 (+1 others)		day	tag	
+src/states/catalogue.lua:121 (+1 others)		night	nacht	
 src/states/credits.lua:43		Created by		
-src/states/credits.lua:49		Translation		
+src/states/credits.lua:49		Translation	Übersetzung	
 src/states/credits.lua:56		Special Thanks		
-src/states/credits.lua:60		The Dice		
-src/states/credits.lua:61 (+1 others)		God		
+src/states/credits.lua:60		The Dice	Die Würfel	
+src/states/credits.lua:61 (+1 others)		God	Gott	
 src/states/credits.lua:65		And you!		
 src/states/credits.lua:66		Thanks for playing! <3		
 src/states/customisation.lua:166		Nothing Available		
