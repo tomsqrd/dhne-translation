@@ -1236,30 +1236,30 @@ src/states/game.lua:1062		Losing all Turns ends the game.\nTurns refill at the s
 src/states/game.lua:1302 (+1 others)		MERGED		
 src/states/game.lua:1355 (+12 others)		active	aktiv	
 src/states/game.lua:1481		Solo	Solo	
-src/states/game.lua:1492		Pair		
-src/states/game.lua:1493		1-1		
-src/states/game.lua:1502		Short Straight		
-src/states/game.lua:1503		1-2-3-4		
-src/states/game.lua:1544		Two Pair		
-src/states/game.lua:1545		1-1 2-2		
-src/states/game.lua:1555		Three Of A Kind		
-src/states/game.lua:1556		1-1-1		
-src/states/game.lua:1576		Full House		
-src/states/game.lua:1577		1-1-1 2-2		
-src/states/game.lua:1589		Four Of A Kind		
-src/states/game.lua:1590		1-1-1-1		
-src/states/game.lua:1600		Straight		
-src/states/game.lua:1601		1-2-3-4-5		
-src/states/game.lua:1653		Long Straight		
-src/states/game.lua:1654		1-2-3-4-5-6		
-src/states/game.lua:1664		Star Bonanza		
-src/states/game.lua:1665		1-1-1-1-1		
-src/states/game.lua:1675		Star Extravaganza		
-src/states/game.lua:1676		1-1-1-1-1-1		
-src/states/game.lua:1686		Star Bonanzovaganza		
-src/states/game.lua:1687		1-1-1-1-1-1-1		
-src/states/game.lua:1697		Three Pair		
-src/states/game.lua:1698		1-1-2-2-3-3		
+src/states/game.lua:1492		Pair	Paar	
+src/states/game.lua:1493		1-1	1-1	
+src/states/game.lua:1502		Short Straight	Kurze Straße	
+src/states/game.lua:1503		1-2-3-4	1-2-3-4	
+src/states/game.lua:1544		Two Pair	Zwei Paare	
+src/states/game.lua:1545		1-1 2-2	1-1 2-2	
+src/states/game.lua:1555		Three Of A Kind	Dreierpasch	
+src/states/game.lua:1556		1-1-1	1-1-1	
+src/states/game.lua:1576		Full House	Full House	
+src/states/game.lua:1577		1-1-1 2-2	1-1-1 2-2	
+src/states/game.lua:1589		Four Of A Kind	Viererpasch	
+src/states/game.lua:1590		1-1-1-1	1-1-1-1	
+src/states/game.lua:1600		Straight	Straße	
+src/states/game.lua:1601		1-2-3-4-5	1-2-3-4-5	
+src/states/game.lua:1653		Long Straight	Lange Straße	
+src/states/game.lua:1654		1-2-3-4-5-6	1-2-3-4-5-6	
+src/states/game.lua:1664		Star Bonanza	Stern-Bonanza	
+src/states/game.lua:1665		1-1-1-1-1	1-1-1-1-1	
+src/states/game.lua:1675		Star Extravaganza	Stern-Extravaganza	
+src/states/game.lua:1676		1-1-1-1-1-1	1-1-1-1-1-1	
+src/states/game.lua:1686		Star Bonanzovaganza	Stern-Bonanzovaganza	
+src/states/game.lua:1687		1-1-1-1-1-1-1	1-1-1-1-1-1-1	
+src/states/game.lua:1697		Three Pair	Drei Paare	
+src/states/game.lua:1698		1-1-2-2-3-3	1-1-2-2-3-3	
 src/states/game.lua:1708		Flush		
 src/states/game.lua:1709		¤-¤-¤-¤		
 src/states/game.lua:1725		Straight Flush		
