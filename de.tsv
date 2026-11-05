@@ -1204,16 +1204,16 @@ src/states/fish_market.lua:193		Sell Fish
 src/states/fish_market.lua:222		-1¥ | +		
 src/states/fish_market.lua:222		Buy Fish		
 src/states/fish_market.lua:257		Next!		
-src/states/game.lua:31		tutorial		
-src/states/game.lua:105		screen		
-src/states/game.lua:129		PAUSE II		
-src/states/game.lua:134		Continue		
-src/states/game.lua:138		Cannot Restart Bet Runs		
-src/states/game.lua:141		Restart		
-src/states/game.lua:143		Restart the run from scratch\nand lose all gained stars?		
-src/states/game.lua:149 (+2 others)		Options		
-src/states/game.lua:154		Quit		
-src/states/game.lua:156		Quit to menu and lose all gained stars?		
+src/states/game.lua:31		tutorial	tutorial	
+src/states/game.lua:105		screen	bildschirm	what is this one?
+src/states/game.lua:129		PAUSE II	PAUSE II	
+src/states/game.lua:134		Continue	Weiter	
+src/states/game.lua:138		Cannot Restart Bet Runs	Kein Neustart Für Wetten	
+src/states/game.lua:141		Restart	Neustart	
+src/states/game.lua:143		Restart the run from scratch\nand lose all gained stars?	Willst du den Run neu starten\nund alle gesammelten Sterne verlieren?	
+src/states/game.lua:149 (+2 others)		Options	Optionen	
+src/states/game.lua:154		Quit	Hauptmenü	
+src/states/game.lua:156		Quit to menu and lose all gained stars?	Willst du ins Hauptmenü zurückkehren\nund alle gesammelten Sterne verlieren?	
 src/states/game.lua:425		secure the points\nend the turn\nrecharge character power\nclear momentum		
 src/states/game.lua:496		BANK		
 src/states/game.lua:530		you must have some points to bank		
@@ -1234,8 +1234,8 @@ src/states/game.lua:984		praying...
 src/states/game.lua:984		pray		
 src/states/game.lua:1062		Losing all Turns ends the game.\nTurns refill at the start of each level.		
 src/states/game.lua:1302 (+1 others)		MERGED		
-src/states/game.lua:1355 (+12 others)		active		
-src/states/game.lua:1481		Solo		
+src/states/game.lua:1355 (+12 others)		active	aktiv	
+src/states/game.lua:1481		Solo	Solo	
 src/states/game.lua:1492		Pair		
 src/states/game.lua:1493		1-1		
 src/states/game.lua:1502		Short Straight		
@@ -1537,8 +1537,8 @@ src/tapes.lua:117		Dreamy Synthwave
 src/ui/character_body.lua:291 (+2 others)	ui	LOCKED		
 src/ui/combination_table.lua:34 (+1 others)	ui	flush		
 src/ui/combination_table.lua:46	ui	%d  x%.2f		
-src/ui/combination_table.lua:48	ui	Combinations		
-src/ui/combination_table.lua:48	ui	hello :)		
+src/ui/combination_table.lua:48	ui	Combinations	Kombinationen	
+src/ui/combination_table.lua:48	ui	hello :)	hallo :)	
 src/ui/game_setup_options.lua:4	ui	easy bet		
 src/ui/game_setup_options.lua:5	ui	increase difficulty by 1		
 src/ui/game_setup_options.lua:16	ui	medium bet		
