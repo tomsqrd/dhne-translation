@@ -114,7 +114,7 @@ src/characters/liz.lua:140	dialogue	Hope it's worth it!	Hoffe, das war's wert!
 src/characters/mushroom.lua:2		Srop M.	Srop M.					
 src/characters/saimi.lua:2		Saimi	Saimi					
 src/characters/saimi.lua:31 (+2 others)	dialogue	Moi	Moi	Moi? French?				
-src/characters/saimi.lua:32	dialogue	Get past level ${count}, and you're free.	Komm an Level ${count} vorbei und du bist frei.	"Says ""get past"", is ""count"" the level you have to reach or the level you have to reach -1?"				
+src/characters/saimi.lua:32	dialogue	Get past level ${count}, and you're free.	Komm an Level ${count} vorbei und du bist frei.	Fix this or the others - Or keep them, is the same				
 src/characters/saimi.lua:50	dialogue	Keep going keep going	Weiter weiter					
 src/characters/saimi.lua:52 (+1 others)	dialogue	I'll revive you for $cost ¤ and difficulty increase.	Ich belebe dich für $cost ¤ und eine höhere Schwierigkeit wieder.	Too long?				
 src/characters/saimi.lua:58	dialogue	Lame :)	Langweilig :)					
@@ -151,7 +151,7 @@ src/characters/tutorial_character.lua:120	dialogue	BANK your Points to complete 
 src/characters/tutorial_character.lua:130	dialogue	You made it through the first level!	Du hast das erste Level geschafft!					
 src/characters/tutorial_character.lua:131	dialogue	Between levels, you'll visit The Shop, buy Trinkets, Snacks and Spells.\nAll the fun stuff.	Zwischen Levels wirst du den Shop besuchen um Schmuck, Snacks und Zauber zu kaufen.					
 src/characters/tutorial_character.lua:155		combo	combo	where is this displayed?				
-src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	Das ist ein/e ${combo_label}!	GENDERED LANGUAGE ALERT				
+src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	Das ist eine ${combo_label} Kombination!	GENDERED LANGUAGE ALERT				
 src/characters/tutorial_character.lua:157	dialogue	Select and score it!	Wähle die Würfel aus und werte sie!	GENDERED LANGUAGE ALERT				
 src/characters/tutorial_character.lua:169	dialogue	Nice, those Points are safe now.	Nice, die Punkte sind jetzt sicher.	"intentionally left ""NICE"", it's basically german now"				
 src/characters/tutorial_character.lua:170	dialogue	BANK refilled your Bust meter.	BANK hat dein BUST-Meter wieder aufgefüllt.					
