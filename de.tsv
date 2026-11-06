@@ -5,7 +5,7 @@ src/are_you_sure.lua:17		really?	wirklich?
 src/board_unlocks.lua:7		chill vibes						
 src/board_unlocks.lua:17		the real game begins						
 src/board_unlocks.lua:27		something smells fishy						
-src/boards/easy.lua:2		Shallows	Untiefen					
+src/boards/easy.lua:2		Shallows	Untiefen	Any other way to call this?				
 src/boards/easy.lua:3		Chill Vibes.\nShort run, extra bust limit, capped rewards.						
 src/boards/easy.lua:4		the friendliest pond around						
 src/boards/fish_board.lua:2		The Bay						
@@ -141,58 +141,58 @@ src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BAN
 src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	Du hast ${TURNS} Züge um dein Ziel zu erreichen.\nBANKen beendet deinen Zug.					
 src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	Größere Combos geben dir exponentiell größere Belohnungen.					
 src/characters/tutorial_character.lua:69		<- See what combos are available up here	<- Hier siehst du welche Combos es gibt					
-src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!						
-src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select						
-src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum						
-src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score						
-src/characters/tutorial_character.lua:109	dialogue	Your momentum is reset to zero at the start of each Turn.						
-src/characters/tutorial_character.lua:119	dialogue	You've hit the target!						
-src/characters/tutorial_character.lua:120	dialogue	BANK your Points to complete the level.						
-src/characters/tutorial_character.lua:130	dialogue	You made it through the first level!						
-src/characters/tutorial_character.lua:131	dialogue	Between levels, you'll visit The Shop, buy Trinkets, Snacks and Spells.\nAll the fun stuff.						
-src/characters/tutorial_character.lua:155		combo						
-src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!						
-src/characters/tutorial_character.lua:157	dialogue	Select and score it!						
-src/characters/tutorial_character.lua:169	dialogue	Nice, those Points are safe now.						
-src/characters/tutorial_character.lua:170	dialogue	BANK refilled your Bust meter.						
-src/characters/tutorial_character.lua:173	dialogue	You have $TURNS BANKS left, so make sure you only BANK when you need to!						
-src/characters/tutorial_character.lua:186	dialogue	Red sides are BUST! If you roll too many, you will WIPE!						
-src/characters/tutorial_character.lua:192		<- BUST meter here						
-src/characters/tutorial_character.lua:206	dialogue	One more BUST and you'll WIPE!						
-src/characters/tutorial_character.lua:207	dialogue	Consider BANKing your points now to keep them safe.						
-src/characters/tutorial_character.lua:219	dialogue	Now that you accumulated some points try banking!						
-src/characters/tutorial_character.lua:220	dialogue	Each time you BANK, you use up a Turn.						
-src/characters/tutorial_character.lua:221	dialogue	When you run out of Turns, the game ends.						
-src/characters/tutorial_character.lua:225		See turns left here ->						
-src/characters/tutorial_character.lua:231		<- Click here to bank						
-src/characters/tutorial_character.lua:242	dialogue	You rolled too many BUSTs!						
-src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked Points gone!						
-src/characters/tutorial_character.lua:245	dialogue	Don't worry, it happens.						
-src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)						
-src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...						
-src/characters/tutorial_character.lua:261	dialogue	Instant WIPE						
-src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.						
-src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!						
-src/characters/tutorial_character.lua:276	dialogue	This is your last turn.						
-src/characters/tutorial_character.lua:277	dialogue	You have to go all in now, no point in BANKing early.						
-src/characters/tutorial_character.lua:278	dialogue	You can still do it!						
-src/characters/tutorial_character.lua:288	dialogue	Well, you failed the tutorial.						
-src/characters/tutorial_character.lua:289	dialogue	I'll bring you back this time.						
-src/characters/tutorial_character.lua:293	dialogue	Be better.						
-src/characters/tutorial_character.lua:302	dialogue	Welp.						
-src/characters/tutorial_character.lua:303	dialogue	Pretty good for the first go.						
-src/characters/tutorial_character.lua:305	dialogue	I didn't explain it all but you're a smart cookie.						
-src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.						
-src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.						
-src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.						
-src/characters/wizard.lua:2		Wizard						
-src/characters/wizard.lua:43		Wizard 2						
-src/characters/wizard.lua:51		Wizard 3						
-src/characters/wizard.lua:70	dialogue	Get to level 7, and you're free.						
-src/characters/wizard.lua:73	dialogue	Get to level 10, and you're free.						
-src/characters/wizard.lua:189	dialogue	...Want to see a magic trick?						
-src/characters/wizard.lua:197	dialogue	Boo :)						
-src/characters/wizard.lua:210	dialogue	Tada!						
+src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Mach weiter und würfel die leeren Würfel!	"is ""BLANK"" even really correct? it's unrolled technically"				
+src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select	Achja, du kannst mit langem Linksklick eine Box aufziehen\n um mehrere Würfel gleichzeitig zu wählen					
+src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	Jedes mal wenn du in einem Zug Combos wertest\nbekommst du Momentum					
+src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score	Momentum gibt dir extra Punkte und Mult für deine nächste Wertung					
+src/characters/tutorial_character.lua:109	dialogue	Your momentum is reset to zero at the start of each Turn.	Dein Momentum wird am Anfang jedes Zuges zurückgesetzt.					
+src/characters/tutorial_character.lua:119	dialogue	You've hit the target!	Du hast das Ziel erreicht!					
+src/characters/tutorial_character.lua:120	dialogue	BANK your Points to complete the level.	BANKe deine Punkte um das Level zu beenden.					
+src/characters/tutorial_character.lua:130	dialogue	You made it through the first level!	Du hast das erste Level geschafft!					
+src/characters/tutorial_character.lua:131	dialogue	Between levels, you'll visit The Shop, buy Trinkets, Snacks and Spells.\nAll the fun stuff.	Zwischen Levels wirst du den Shop besuchen um Schmuck, Snacks und Zauber zu kaufen.					
+src/characters/tutorial_character.lua:155		combo	combo	where is this displayed?				
+src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	Das ist ein/e ${combo_label}!	GENDERED LANGUAGE ALERT				
+src/characters/tutorial_character.lua:157	dialogue	Select and score it!	Wähle die Würfel aus und werte sie!	GENDERED LANGUAGE ALERT				
+src/characters/tutorial_character.lua:169	dialogue	Nice, those Points are safe now.	Nice, die Punkte sind jetzt sicher.	"intentionally left ""NICE"", it's basically german now"				
+src/characters/tutorial_character.lua:170	dialogue	BANK refilled your Bust meter.	BANK hat dein BUST-Meter wieder aufgefüllt.					
+src/characters/tutorial_character.lua:173	dialogue	You have $TURNS BANKS left, so make sure you only BANK when you need to!	Du hast $TURNS BANKs übrig, also BANKe nur wenn du wirklich musst!					
+src/characters/tutorial_character.lua:186	dialogue	Red sides are BUST! If you roll too many, you will WIPE!	Rote Seiten sind BUSTs! Würfelst du zu viele, wirst du WIPEn!					
+src/characters/tutorial_character.lua:192		<- BUST meter here	<- Hier ist das BUST-Meter	a few lines above calls it Bust in non-allcaps				
+src/characters/tutorial_character.lua:206	dialogue	One more BUST and you'll WIPE!	Noch ein BUST und du WIPEst!					
+src/characters/tutorial_character.lua:207	dialogue	Consider BANKing your points now to keep them safe.	BANKe jetzt deine Punkte um sie zu behalten.					
+src/characters/tutorial_character.lua:219	dialogue	Now that you accumulated some points try banking!	Jetzt da du ein paar Punkte angesammelt hast, probiere zu BANKen!					
+src/characters/tutorial_character.lua:220	dialogue	Each time you BANK, you use up a Turn.	Jedes mal wenn du BANKst, benutzt du einen Zug.					
+src/characters/tutorial_character.lua:221	dialogue	When you run out of Turns, the game ends.	Wenn du keine Züge mehr hast, ist das Spiel vorbei.					
+src/characters/tutorial_character.lua:225		See turns left here ->	Hier sind deine übrigen Züge ->					
+src/characters/tutorial_character.lua:231		<- Click here to bank	<- Hier klicken zum BANKen	Uppercase?				
+src/characters/tutorial_character.lua:242	dialogue	You rolled too many BUSTs!	Du hast zu viele BUSTs gewürfelt!					
+src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked Points gone!	Das ist ein WIPE! Alle nicht geBANKten Punkte sind weg!					
+src/characters/tutorial_character.lua:245	dialogue	Don't worry, it happens.	Keine Angst, das passiert den Besten.					
+src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)	Nächstes mal solltest du BANKen bevor das passiert :)					
+src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...	Ah. Ja...					
+src/characters/tutorial_character.lua:261	dialogue	Instant WIPE	Instant WIPE					
+src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.	Wenn ALLE WÜRFEL einen BUST würfeln, ist dein Zug sofort vorbei.					
+src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!	Einen einzelnen Würfel würfeln ist daher sehr gefährlich,/naber es kann mit jedem Wurf passieren!					
+src/characters/tutorial_character.lua:276	dialogue	This is your last turn.	Dies ist dein letzter Zug.					
+src/characters/tutorial_character.lua:277	dialogue	You have to go all in now, no point in BANKing early.	Du musst jetzt alles auf's Spiel setzen, es bringt nichts früh zu BANKen.					
+src/characters/tutorial_character.lua:278	dialogue	You can still do it!	Du schaffst das noch!					
+src/characters/tutorial_character.lua:288	dialogue	Well, you failed the tutorial.	Okay, du hast im Tutorial versagt.					
+src/characters/tutorial_character.lua:289	dialogue	I'll bring you back this time.	Dieses eine mal bringe ich dich zurück.					
+src/characters/tutorial_character.lua:293	dialogue	Be better.	Sei besser.					
+src/characters/tutorial_character.lua:302	dialogue	Welp.	Ups.					
+src/characters/tutorial_character.lua:303	dialogue	Pretty good for the first go.	Ziemlich gut für dein erstes Mal.					
+src/characters/tutorial_character.lua:305	dialogue	I didn't explain it all but you're a smart cookie.	Ich hab nicht alles erklärt aber du bist nicht auf den Kopf gefallen.					
+src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	Den Rest findest du selbst heraus.					
+src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	Wir sehen uns im echten Spiel.					
+src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	Denk dran, Glück kann hilfreich sein.\nEntscheidungen sind wichtiger.					
+src/characters/wizard.lua:2		Wizard	Zauberer					
+src/characters/wizard.lua:43		Wizard 2	Zauberer 2					
+src/characters/wizard.lua:51		Wizard 3	Zauberer 3					
+src/characters/wizard.lua:70	dialogue	Get to level 7, and you're free.	Schaffst du es bis Level 7 bist du frei.					
+src/characters/wizard.lua:73	dialogue	Get to level 10, and you're free.	Schaffst du es bis Level 10 bist du frei.					
+src/characters/wizard.lua:189	dialogue	...Want to see a magic trick?	...Willst du einen Zaubertrick sehen?					
+src/characters/wizard.lua:197	dialogue	Boo :)	Buh :)					
+src/characters/wizard.lua:210	dialogue	Tada!	Tada!					
 src/coloured_text.lua:8 (+114 others)		bust						
 src/coloured_text.lua:12		wipe						
 src/coloured_text.lua:14		instant						
