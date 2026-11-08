@@ -1122,88 +1122,88 @@ src/powers.lua:493		Munch
 src/powers.lua:494		Take a big bite to regain all busts.						
 src/powers.lua:578		Reincarnate						
 src/powers.lua:579		Selected die is reborn						
-src/screen_overlay.lua:59 (+41 others)	ui	all						
+src/screen_overlay.lua:59 (+41 others)	ui	all	alle	context? alles?				
 src/states/catalogue.lua:49 (+5 others)		< back	< zurück					
 src/states/catalogue.lua:85 (+4 others)		dawn mode	tagmodus	"dämmerung? ohne ""modus""?"				
 src/states/catalogue.lua:85 (+4 others)		night mode	nachtmodus					
 src/states/catalogue.lua:120 (+1 others)		day	tag					
 src/states/catalogue.lua:121 (+1 others)		night	nacht					
-src/states/credits.lua:43		Created by						
+src/states/credits.lua:43		Created by	Ein Spiel von					
 src/states/credits.lua:49		Translation	Übersetzung					
-src/states/credits.lua:56		Special Thanks						
+src/states/credits.lua:56		Special Thanks	Besonderer Dank an					
 src/states/credits.lua:60		The Dice	Die Würfel					
 src/states/credits.lua:61 (+1 others)		God	Gott					
-src/states/credits.lua:65		And you!						
-src/states/credits.lua:66		Thanks for playing! <3						
-src/states/customisation.lua:166		Nothing Available						
-src/states/customisation.lua:167		sorry sorry						
-src/states/customisation.lua:202		outfit						
-src/states/customisation.lua:202		accessory						
-src/states/customisation.lua:224 (+2 others)		off						
-src/states/customisation.lua:358		Distort A						
-src/states/customisation.lua:359		Distort B						
-src/states/customisation.lua:440		stretch or squash						
-src/states/customisation.lua:453		stretch						
-src/states/customisation.lua:453		squash						
-src/states/customisation.lua:460		Dye						
-src/states/customisation.lua:461		recolour						
-src/states/ending.lua:9		party						
-src/states/ending.lua:151 (+2 others)		wait						
-src/states/ending.lua:228 (+9 others)		hit that shit?						
-src/states/ending.lua:253		only shows with DEBUG						
-src/states/ending.lua:286 (+4 others)		play						
-src/states/ending_bet.lua:56 (+3 others)		star						
-src/states/ending_bet.lua:74 (+4 others)		¤ banked						
-src/states/ending_bet.lua:154 (+1 others)	dialogue	how boring						
-src/states/ending_bet.lua:158	dialogue	no more waking up						
-src/states/ending_bet.lua:159	dialogue	i am god i forbid it						
-src/states/ending_bet.lua:162	dialogue	you won						
-src/states/ending_bet.lua:163	dialogue	toss a coin\n\ndouble or nothing						
-src/states/ending_bet.lua:164	dialogue	i create reality						
-src/states/ending_bet.lua:182	dialogue	nothing						
-src/states/ending_bet.lua:183	dialogue	not enough faith						
-src/states/ending_bet.lua:185 (+2 others)	dialogue	you are my bravest child						
-src/states/ending_bet.lua:186	dialogue	and i am your god						
-src/states/ending_bet.lua:238		pass and bank						
-src/states/ending_demo.lua:132 (+10 others)	dialogue	i am god						
-src/states/ending_demo.lua:133	dialogue	thats it for the demo						
-src/states/ending_demo.lua:135	dialogue	buy the game now						
-src/states/ending_demo.lua:137	dialogue	wishlist the game						
-src/states/ending_demo.lua:184 (+1 others)		Browser Opened!						
-src/states/ending_demo.lua:185 (+1 others)		Thanks <3						
-src/states/ending_demo.lua:187 (+1 others)		Buy Here						
-src/states/ending_demo.lua:187 (+1 others)		Wishlist Here						
-src/states/ending_demo.lua:215		back to title						
-src/states/ending_finale.lua:82	dialogue	well well well						
-src/states/ending_finale.lua:83	dialogue	how did we get here?						
-src/states/ending_finale.lua:86	dialogue	ah, i remember						
-src/states/ending_finale.lua:92	dialogue	you bet your soul						
-src/states/ending_finale.lua:94	dialogue	and you lost						
-src/states/ending_finale.lua:97	dialogue	embrace oblivion						
-src/states/ending_finale.lua:99	dialogue	none of this ever happened						
-src/states/ending_finale.lua:102	dialogue	... until we meet again						
-src/states/ending_finale.lua:104	dialogue	my bravest child						
-src/states/ending_finale.lua:159	dialogue	well done child						
-src/states/ending_finale.lua:160	dialogue	you are brave						
-src/states/ending_finale.lua:161	dialogue	you are worthy						
-src/states/ending_finale.lua:163	dialogue	i will offer you one final wager						
-src/states/ending_finale.lua:169	dialogue	heads: you're free						
-src/states/ending_finale.lua:176	dialogue	tails: i will personally destroy all the files i can access on this device						
-src/states/ending_finale.lua:192	dialogue	do it, all in						
-src/states/ending_finale.lua:194		flick it like you mean it						
-src/states/ending_finale.lua:194		this is real						
-src/states/ending_finale.lua:243		ending						
-src/states/ending_finale.lua:247	dialogue	hahaha						
-src/states/ending_finale.lua:248	dialogue	fair enough						
-src/states/ending_finale.lua:291		I can't do it						
-src/states/fish_market.lua:87		--  Fish Market  --						
-src/states/fish_market.lua:107		1 §						
-src/states/fish_market.lua:115		1 ¥						
-src/states/fish_market.lua:193		§ | +1¥						
-src/states/fish_market.lua:193		Sell Fish						
-src/states/fish_market.lua:222		-1¥ | +						
-src/states/fish_market.lua:222		Buy Fish						
-src/states/fish_market.lua:257		Next!						
+src/states/credits.lua:65		And you!	Und dich!					
+src/states/credits.lua:66		Thanks for playing! <3	Danke fürs Spielen! <3					
+src/states/customisation.lua:166		Nothing Available	Nichts Verfügbar					
+src/states/customisation.lua:167		sorry sorry	sorry sorry					
+src/states/customisation.lua:202		outfit	outfit					
+src/states/customisation.lua:202		accessory	accesoire					
+src/states/customisation.lua:224 (+2 others)		off	aus					
+src/states/customisation.lua:358		Distort A	Verzerrung A	"Distort as ""Verzerren?"" other wordß"				
+src/states/customisation.lua:359		Distort B	Verzerrung B					
+src/states/customisation.lua:440		stretch or squash	strecken oder stauchen					
+src/states/customisation.lua:453		stretch	strecken					
+src/states/customisation.lua:453		squash	stauchen					
+src/states/customisation.lua:460		Dye	Färbung	This is color, not dice, right?				
+src/states/customisation.lua:461		recolour	umfärben					
+src/states/ending.lua:9		party	party					
+src/states/ending.lua:151 (+2 others)		wait	warte					
+src/states/ending.lua:228 (+9 others)		hit that shit?	zieh den scheiß?	again context here being what lol				
+src/states/ending.lua:253		only shows with DEBUG	wird nur im DEBUG angezeigt					
+src/states/ending.lua:286 (+4 others)		play	spielen	spiel? context				
+src/states/ending_bet.lua:56 (+3 others)		star	stern					
+src/states/ending_bet.lua:74 (+4 others)		¤ banked	¤ in der bank	"is this even ""banked"" at the point where you double or nothing?"				
+src/states/ending_bet.lua:154 (+1 others)	dialogue	how boring	wie langweilig					
+src/states/ending_bet.lua:158	dialogue	no more waking up	wach nicht mehr auf					
+src/states/ending_bet.lua:159	dialogue	i am god i forbid it	ich bin gott ich verbiete es					
+src/states/ending_bet.lua:162	dialogue	you won	du hast gewonnen					
+src/states/ending_bet.lua:163	dialogue	toss a coin\n\ndouble or nothing	wirf eine münze\n\ndoppelt oder nichts					
+src/states/ending_bet.lua:164	dialogue	i create reality	ich schaffe die realität					
+src/states/ending_bet.lua:182	dialogue	nothing	nichts					
+src/states/ending_bet.lua:183	dialogue	not enough faith	nicht genug glaube					
+src/states/ending_bet.lua:185 (+2 others)	dialogue	you are my bravest child	du bist mein mutigstes kind					
+src/states/ending_bet.lua:186	dialogue	and i am your god	und ich bin dein gott					
+src/states/ending_bet.lua:238		pass and bank	passen und in die bank einzahlen					
+src/states/ending_demo.lua:132 (+10 others)	dialogue	i am god	ich bin gott					
+src/states/ending_demo.lua:133	dialogue	thats it for the demo	das war es für die demo					
+src/states/ending_demo.lua:135	dialogue	buy the game now	spiel jetzt kaufen					
+src/states/ending_demo.lua:137	dialogue	wishlist the game	auf die wunschliste setzen					
+src/states/ending_demo.lua:184 (+1 others)		Browser Opened!	Browser Geöffnet!					
+src/states/ending_demo.lua:185 (+1 others)		Thanks <3	Danke <3					
+src/states/ending_demo.lua:187 (+1 others)		Buy Here	Hier Kaufen					
+src/states/ending_demo.lua:187 (+1 others)		Wishlist Here	Auf Die Wunschliste					
+src/states/ending_demo.lua:215		back to title	zurück zum titelbild	titelbild? hauptmenü				
+src/states/ending_finale.lua:82	dialogue	well well well	sieh mal einer an					
+src/states/ending_finale.lua:83	dialogue	how did we get here?	wie bist du hier her gekommen?					
+src/states/ending_finale.lua:86	dialogue	ah, i remember	ah, ich entsinne mich					
+src/states/ending_finale.lua:92	dialogue	you bet your soul	du hast deine seele gewettet					
+src/states/ending_finale.lua:94	dialogue	and you lost	und verloren					
+src/states/ending_finale.lua:97	dialogue	embrace oblivion	ergib dich der leere					
+src/states/ending_finale.lua:99	dialogue	none of this ever happened	nichts hiervon ist je geschehen					
+src/states/ending_finale.lua:102	dialogue	... until we meet again	... auf wiedersehen					
+src/states/ending_finale.lua:104	dialogue	my bravest child	mein mutigstes kind					
+src/states/ending_finale.lua:159	dialogue	well done child	gut gemacht kind					
+src/states/ending_finale.lua:160	dialogue	you are brave	du bist mutig					
+src/states/ending_finale.lua:161	dialogue	you are worthy	du bist würdig					
+src/states/ending_finale.lua:163	dialogue	i will offer you one final wager	ich biete dir eine letzte wette					
+src/states/ending_finale.lua:169	dialogue	heads: you're free	kopf: du bist frei					
+src/states/ending_finale.lua:176	dialogue	tails: i will personally destroy all the files i can access on this device	zahl: ich persönlich zerstöre alle dateien auf dem gerät, auf die ich zugreifen kann					
+src/states/ending_finale.lua:192	dialogue	do it, all in	tu es, gehe all-in					
+src/states/ending_finale.lua:194		flick it like you mean it	wirf um dein leben	"""like you mean it"" doesnt work in german"				
+src/states/ending_finale.lua:194		this is real	Das hier ist echt	kinda clumsy, something more godlike?				
+src/states/ending_finale.lua:243		ending	ende					
+src/states/ending_finale.lua:247	dialogue	hahaha	hahaha					
+src/states/ending_finale.lua:248	dialogue	fair enough	na gut					
+src/states/ending_finale.lua:291		I can't do it	Ich kann es nicht tun					
+src/states/fish_market.lua:87		--  Fish Market  --	-- Fischmarkt --					
+src/states/fish_market.lua:107		1 §	1 §					
+src/states/fish_market.lua:115		1 ¥	1 ¥					
+src/states/fish_market.lua:193		§ | +1¥	§ | +1¥					
+src/states/fish_market.lua:193		Sell Fish	Fisch Verkaufen					
+src/states/fish_market.lua:222		-1¥ | +	-1¥ | +					
+src/states/fish_market.lua:222		Buy Fish	Fisch Kaufen					
+src/states/fish_market.lua:257		Next!	Nächster!	Nächste/r/s? context?				
 src/states/game.lua:31		tutorial	tutorial					
 src/states/game.lua:105		screen	bildschirm	what is this one?				
 src/states/game.lua:129		PAUSE II	PAUSE II					
