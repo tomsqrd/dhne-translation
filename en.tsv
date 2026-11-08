@@ -193,7 +193,7 @@ src/characters/wizard.lua:73	dialogue	Get to level 10, and you're free.
 src/characters/wizard.lua:189	dialogue	...Want to see a magic trick?	
 src/characters/wizard.lua:197	dialogue	Boo :)	
 src/characters/wizard.lua:210	dialogue	Tada!	
-src/coloured_text.lua:8 (+114 others)		bust	
+src/coloured_text.lua:8 (+115 others)		bust	
 src/coloured_text.lua:12		wipe	
 src/coloured_text.lua:14		instant	
 src/coloured_text.lua:16		turn	
@@ -386,7 +386,7 @@ src/entities/tape.lua:455		- web
 src/entities/title_text.lua:3		DICE HAVE\nNO EYES	
 src/entities/title_text.lua:5		DICE HAVE\nNÕ EYES	
 src/entities/title_text.lua:6		DICE HAVE\nNÖ EYES	
-src/entities/title_text.lua:120		DEMO	
+src/entities/title_text.lua:121		DEMO	
 src/item_unlocks.lua:6		Basic Spells	
 src/item_unlocks.lua:7		beginner magic	
 src/item_unlocks.lua:15		Basic Passives	
@@ -1212,7 +1212,7 @@ src/states/game.lua:138		Cannot Restart Bet Runs
 src/states/game.lua:141		Restart	
 src/states/game.lua:143		Restart the run from scratch\nand lose all gained stars?	
 src/states/game.lua:149 (+2 others)		Options	
-src/states/game.lua:154		Quit	
+src/states/game.lua:154 (+1 others)		Quit	
 src/states/game.lua:156		Quit to menu and lose all gained stars?	
 src/states/game.lua:425		secure the points\nend the turn\nrecharge character power\nclear momentum	
 src/states/game.lua:496		BANK	
@@ -1299,36 +1299,36 @@ src/states/game.lua:2715		Looks like you're cooked\n\nGive up?
 src/states/game.lua:2865		INSTANT WIPE	
 src/states/game.lua:2866		${rolled} OUT OF ${rolled} DICE ROLLED BUST	
 src/states/game.lua:2883		W I P E	
-src/states/game.lua:3262 (+8 others)		roll	
-src/states/game.lua:3299		SKIP ${pip}	
-src/states/game.lua:3311		SKIP LOOPED	
-src/states/game.lua:3550		Level Complete	
-src/states/game.lua:3591		Overshoot! +	
-src/states/game.lua:3622		Level Coins	
-src/states/game.lua:3633		Extra Turn Coins	
-src/states/game.lua:3645		Combine Coins	
-src/states/game.lua:3662		Bet bonus! +	
-src/states/game.lua:3712		--  Level ${number} Complete!  --	
-src/states/game.lua:3728		Score:	
-src/states/game.lua:3730		Reward:	
-src/states/game.lua:3731		Extra turns:	
-src/states/game.lua:3732		Bet bonus:	
-src/states/game.lua:3733		Overshoot:	
-src/states/game.lua:3735		Total:	
-src/states/game.lua:3779		Trade!	
-src/states/game.lua:3825		don't lose it	
-src/states/game.lua:3825		Soul on line	
-src/states/game.lua:3832		¤${BET} wagered	
-src/states/game.lua:3836		¤ Banked	
-src/states/game.lua:3837		Bank ¤${KEPT}?	
-src/states/game.lua:3838		Win To Bank ¤	
-src/states/game.lua:3839		Bank ¤ in ${LEVELS} lvl	
-src/states/game.lua:3853		Secure your Stars for the run\nyou won't be able to gain more this run	
-src/states/game.lua:3855		Stars already banked this run	
-src/states/game.lua:3857		Securing Stars available after each nightmare level	
-src/states/game.lua:3992		shop	
-src/states/game.lua:4389 (+8 others)		add	
-src/states/game.lua:4598		options	
+src/states/game.lua:3266 (+8 others)		roll	
+src/states/game.lua:3303		SKIP ${pip}	
+src/states/game.lua:3315		SKIP LOOPED	
+src/states/game.lua:3554		Level Complete	
+src/states/game.lua:3595		Overshoot! +	
+src/states/game.lua:3626		Level Coins	
+src/states/game.lua:3637		Extra Turn Coins	
+src/states/game.lua:3649		Combine Coins	
+src/states/game.lua:3666		Bet bonus! +	
+src/states/game.lua:3716		--  Level ${number} Complete!  --	
+src/states/game.lua:3732		Score:	
+src/states/game.lua:3734		Reward:	
+src/states/game.lua:3735		Extra turns:	
+src/states/game.lua:3736		Bet bonus:	
+src/states/game.lua:3737		Overshoot:	
+src/states/game.lua:3739		Total:	
+src/states/game.lua:3783		Trade!	
+src/states/game.lua:3829		don't lose it	
+src/states/game.lua:3829		Soul on line	
+src/states/game.lua:3836		¤${BET} wagered	
+src/states/game.lua:3840		¤ Banked	
+src/states/game.lua:3841		Bank ¤${KEPT}?	
+src/states/game.lua:3842		Win To Bank ¤	
+src/states/game.lua:3843		Bank ¤ in ${LEVELS} lvl	
+src/states/game.lua:3857		Secure your Stars for the run\nyou won't be able to gain more this run	
+src/states/game.lua:3859		Stars already banked this run	
+src/states/game.lua:3861		Securing Stars available after each nightmare level	
+src/states/game.lua:3996		shop	
+src/states/game.lua:4399 (+8 others)		add	
+src/states/game.lua:4608		options	
 src/states/game_setup.lua:161		play!	
 src/states/game_setup.lua:173 (+1 others)		Wager your Soul?	
 src/states/game_setup.lua:176 (+1 others)		You are betting your soul.\nIf you lose, your save is gone forever.	
@@ -1478,29 +1478,29 @@ src/states/tax_audit.lua:283		You've entered upper tax bracket.\nPay up ${amount
 src/states/tax_audit.lua:305 (+1 others)		Pay Up	
 src/states/tax_audit.lua:328 (+1 others)		Take on 2 Debt Dues	
 src/states/tax_audit.lua:348		You've been audited.\nYou haven't paid taxes.\nWe will be taking ${amount} § of your fish.	
-src/states/title.lua:129 (+5 others)	dialogue	so you chose to come back	
-src/states/title.lua:131 (+5 others)	dialogue	you will see, very soon	
-src/states/title.lua:185		GAMEPAD WARNING: support is still pretty rough - report bugs on steam or discord <3	
-src/states/title.lua:194		the world you grew up in no longer exists	
-src/states/title.lua:204		Roll 6 to Play	
-src/states/title.lua:208		roll the dice!	
-src/states/title.lua:227		Tutorial	
-src/states/title.lua:234		learn to play	
-src/states/title.lua:238		Star Guts	
-src/states/title.lua:242		unlock stuff	
-src/states/title.lua:292		Scoreboards	
-src/states/title.lua:296		be the goat	
-src/states/title.lua:306		game setup	
-src/states/title.lua:311		Roll 1 to Quit	
-src/states/title.lua:315		bye?	
-src/states/title.lua:382		brighten up	
-src/states/title.lua:383		rest your eyes	
-src/states/title.lua:392		discord	
-src/states/title.lua:394		community chat	
-src/states/title.lua:397		steam	
-src/states/title.lua:399		feedback and updates	
-src/states/title.lua:402		ost	
-src/states/title.lua:403		coming soon	
+src/states/title.lua:73		roll 6 to play\nroll 1 to quit	
+src/states/title.lua:153 (+5 others)	dialogue	so you chose to come back	
+src/states/title.lua:155 (+5 others)	dialogue	you will see, very soon	
+src/states/title.lua:209		GAMEPAD WARNING: support is still pretty rough - report bugs on steam or discord <3	
+src/states/title.lua:218		the world you grew up in no longer exists	
+src/states/title.lua:228		Play	
+src/states/title.lua:232		feeling lucky?	
+src/states/title.lua:251		Tutorial	
+src/states/title.lua:258		learn to play	
+src/states/title.lua:262		Star Guts	
+src/states/title.lua:266		unlock stuff	
+src/states/title.lua:316		Scoreboards	
+src/states/title.lua:320		be the goat	
+src/states/title.lua:330		game setup	
+src/states/title.lua:339		bye?	
+src/states/title.lua:406		brighten up	
+src/states/title.lua:407		rest your eyes	
+src/states/title.lua:416		discord	
+src/states/title.lua:418		community chat	
+src/states/title.lua:421		steam	
+src/states/title.lua:423		feedback and updates	
+src/states/title.lua:426		ost	
+src/states/title.lua:427		coming soon	
 src/states/unlock.lua:79		representations are still solidifying - physical form is meaningless - you're imagining it	
 src/states/unlock.lua:93		Upgrades	
 src/states/unlock.lua:94		buy upgrades with ¤	

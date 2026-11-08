@@ -22,6 +22,16 @@ There is also one tsv file per language in this repository, to make it easier to
 
 The `en.tsv` file should be taken as a template for a newly supported language (eg copy the file to `pl.tsv` to work on Polish, if it doesn't already exist), and a new line added to `meta.tsv`. This can all be done as one pull request for convenience.
 
+## Testing
+
+Note: Prior to release, this will only work with the test branch version from steam.
+
+- Create a folder named `locale_test` in your [save folder](https://www.love2d.org/wiki/love.filesystem).
+- Place the locale file (eg `pl.tsv`) there; it will be loaded over the shipped translations and can be modified and tested without re/building the game or the main locale file.
+- Put a copy of `meta.tsv` under locale_test, it will be preferentially loaded and allow you to add an entry for the new language in the first place.
+
+To stop testing (eg once a new version is released) you can disable the entire testing layer by just renaming the folder.
+
 ## Coordination
 
 Please tell us if something seems wrong! We're still finalising the strings to be translated as we go and there are probably some that are wrong, if something seems off don't just blindly translate it, ask us if we think it needs fixing or otherwise for clarification.
