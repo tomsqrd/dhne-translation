@@ -387,87 +387,87 @@ src/entities/title_text.lua:3		DICE HAVE\nNO EYES	DICE HAVE\nNO EYES
 src/entities/title_text.lua:5		DICE HAVE\nNÕ EYES	DICE HAVE\nNÕ EYES					
 src/entities/title_text.lua:6		DICE HAVE\nNÖ EYES	DICE HAVE\nNÖ EYES					
 src/entities/title_text.lua:120		DEMO	DEMO					
-src/item_unlocks.lua:6		Basic Spells						
-src/item_unlocks.lua:7		beginner magic						
-src/item_unlocks.lua:15		Basic Passives						
-src/item_unlocks.lua:16		situational benefits						
-src/item_unlocks.lua:24		Basic Combos						
-src/item_unlocks.lua:25		upgrade your faves						
-src/item_unlocks.lua:33		Basic Snacks						
-src/item_unlocks.lua:34		tasty treats for hungry dice						
-src/item_unlocks.lua:42		Basic Quests						
-src/item_unlocks.lua:53		Parenting						
-src/item_unlocks.lua:54		life comes at you fast						
-src/item_unlocks.lua:61		Hold						
-src/item_unlocks.lua:62		HOLD!!!						
-src/item_unlocks.lua:72		Numerology						
-src/item_unlocks.lua:73		special numbers are special						
-src/item_unlocks.lua:81		More Spells						
-src/item_unlocks.lua:82		advanced magic						
-src/item_unlocks.lua:90		More Snacks						
-src/item_unlocks.lua:91		get some variety in your diet						
-src/item_unlocks.lua:100		Diet Culture						
-src/item_unlocks.lua:101		its real bad for you						
-src/item_unlocks.lua:108		All In						
-src/item_unlocks.lua:109		for when youve got nothing to lose						
-src/item_unlocks.lua:118		Lover						
-src/item_unlocks.lua:119		everything to do with pairs						
-src/item_unlocks.lua:127		Multipliers						
-src/item_unlocks.lua:128		make number go bigger						
-src/item_unlocks.lua:136		Maximalist						
-src/item_unlocks.lua:137		more dice more better						
-src/item_unlocks.lua:145		Self Control						
-src/item_unlocks.lua:146		as if						
-src/item_unlocks.lua:154		Pain						
-src/item_unlocks.lua:155		it hurts but in a good way						
-src/item_unlocks.lua:164 (+1 others)		Comeback						
-src/item_unlocks.lua:165		you've still got plenty left						
-src/item_unlocks.lua:174		Momentum						
-src/item_unlocks.lua:175		chain combos forever						
-src/item_unlocks.lua:183		Workaholic						
-src/item_unlocks.lua:184		put your power back to work						
-src/item_unlocks.lua:193		Mind Expansion						
-src/item_unlocks.lua:194		gigabrained complicated nonsense						
-src/item_unlocks.lua:203		Actualisation						
-src/item_unlocks.lua:204		get actualised						
-src/item_unlocks.lua:212		Rich Man						
-src/item_unlocks.lua:213		money money money						
-src/item_unlocks.lua:222		Degenerate						
-src/item_unlocks.lua:223		as luck would have it						
-src/item_unlocks.lua:232		Biscuit						
-src/item_unlocks.lua:233		worth risking it for						
-src/item_unlocks.lua:241		Send It						
-src/item_unlocks.lua:242		when in doubt go flat out						
-src/item_unlocks.lua:251 (+1 others)		Ghost						
-src/item_unlocks.lua:252		pretty spooky						
-src/item_unlocks.lua:261 (+1 others)		Shield						
-src/item_unlocks.lua:262		bust protection						
-src/item_unlocks.lua:271		Slow N Steady						
-src/item_unlocks.lua:272		gets you nowhere						
-src/item_unlocks.lua:280		Patience						
-src/item_unlocks.lua:281		a virtue						
-src/item_unlocks.lua:290		Straights						
-src/item_unlocks.lua:291		they're at it again						
-src/item_unlocks.lua:299		Dumplings						
-src/item_unlocks.lua:300		yum yum in my tum						
-src/item_unlocks.lua:308		Pig						
-src/item_unlocks.lua:309		get greedy						
-src/item_unlocks.lua:319		Numeracy						
-src/item_unlocks.lua:320		make the numbers behave						
-src/item_unlocks.lua:332		Shop Expansion						
-src/item_unlocks.lua:333		more items more good						
-src/item_unlocks.lua:341		Mega Shop						
-src/item_unlocks.lua:342		more items more items more items						
-src/item_unlocks.lua:352		More Funky Dice						
-src/item_unlocks.lua:353		Special Side Effects in shops!\nMult, Debust, Power and Cracked						
-src/item_unlocks.lua:361		Even More Dice						
-src/item_unlocks.lua:362		Special Side Effects in shops!\nSkip, Mirror, Hardy and Doom						
-src/item_unlocks.lua:373		Fish Trinkets						
-src/item_unlocks.lua:374		from the sea						
-src/item_unlocks.lua:382		Sardine Magic						
-src/item_unlocks.lua:383		abracadabra						
-src/item_unlocks.lua:390		Faves						
-src/item_unlocks.lua:391		play with your favourites						
+src/item_unlocks.lua:6		Basic Spells	Einfache Zauber					
+src/item_unlocks.lua:7		beginner magic	magie für anfänger					
+src/item_unlocks.lua:15		Basic Passives	Einfache Glücksbringer					
+src/item_unlocks.lua:16		situational benefits	situationsabhängige vorteile					
+src/item_unlocks.lua:24		Basic Combos	Einfache Combos					
+src/item_unlocks.lua:25		upgrade your faves	verbesserte favoriten					
+src/item_unlocks.lua:33		Basic Snacks	Einfache Snacks					
+src/item_unlocks.lua:34		tasty treats for hungry dice	leckereien für hungrige würfel					
+src/item_unlocks.lua:42		Basic Quests	Einfache Quests					
+src/item_unlocks.lua:53		Parenting	Erziehung	NEED TO KNOW WHAT THIS DOES TO BE BETTER				
+src/item_unlocks.lua:54		life comes at you fast	man wird zu schnell erwachsen	NEED TO KNOW WHAT THIS DOES TO BE BETTER				
+src/item_unlocks.lua:61		Hold	Halten	NEED TO KNOW WHAT THIS DOES TO BE BETTER				
+src/item_unlocks.lua:62		HOLD!!!	HALTEN!!!	NEED TO KNOW WHAT THIS DOES TO BE BETTER				
+src/item_unlocks.lua:72		Numerology	Numerologie					
+src/item_unlocks.lua:73		special numbers are special	ganz besondere nummern					
+src/item_unlocks.lua:81		More Spells	Mehr Zauber					
+src/item_unlocks.lua:82		advanced magic	magie für fortgeschrittene					
+src/item_unlocks.lua:90		More Snacks	Mehr Snacks					
+src/item_unlocks.lua:91		get some variety in your diet	stell deine ernährung um					
+src/item_unlocks.lua:100		Diet Culture	Diätkultur					
+src/item_unlocks.lua:101		its real bad for you	tut dir nicht gut					
+src/item_unlocks.lua:108		All In	All-In					
+src/item_unlocks.lua:109		for when youve got nothing to lose	du hast nichts zu verlieren					
+src/item_unlocks.lua:118		Lover	Die Liebenden					
+src/item_unlocks.lua:119		everything to do with pairs	für paare mit niveau					
+src/item_unlocks.lua:127		Multipliers	Multiplikatoren					
+src/item_unlocks.lua:128		make number go bigger	mach nummer größer					
+src/item_unlocks.lua:136		Maximalist	Maximalist					
+src/item_unlocks.lua:137		more dice more better	mehr würfel mehr besser					
+src/item_unlocks.lua:145		Self Control	Selbstkontrolle					
+src/item_unlocks.lua:146		as if	als ob					
+src/item_unlocks.lua:154		Pain	Schmerz					
+src/item_unlocks.lua:155		it hurts but in a good way	es tut so gut weh					
+src/item_unlocks.lua:164 (+1 others)		Comeback	Comeback					
+src/item_unlocks.lua:165		you've still got plenty left	du hast noch so viel zu sehen					
+src/item_unlocks.lua:174		Momentum	Momentum					
+src/item_unlocks.lua:175		chain combos forever	nach der combo ist vor der combo					
+src/item_unlocks.lua:183		Workaholic	Workaholic					
+src/item_unlocks.lua:184		put your power back to work	lass deine power für dich arbeiten					
+src/item_unlocks.lua:193		Mind Expansion	Bewusstseinserweiterung					
+src/item_unlocks.lua:194		gigabrained complicated nonsense	überkomplizierter schwachsinn					
+src/item_unlocks.lua:203		Actualisation	Selbstverwirklichung	just verwirklichung maybe?				
+src/item_unlocks.lua:204		get actualised	macht wirkbar wirklich					
+src/item_unlocks.lua:212		Rich Man	Reicher Mann					
+src/item_unlocks.lua:213		money money money	money money money					
+src/item_unlocks.lua:222		Degenerate	Degeneriert	yo be veeeery careful with this in german lol, what items are in here? DEBUG				
+src/item_unlocks.lua:223		as luck would have it	wie es der zufall so will					
+src/item_unlocks.lua:232		Biscuit	Kekse					
+src/item_unlocks.lua:233		worth risking it for	verkrümel dich					
+src/item_unlocks.lua:241		Send It	Gib Ihm					
+src/item_unlocks.lua:242		when in doubt go flat out	im zweifel vollgas					
+src/item_unlocks.lua:251 (+1 others)		Ghost	Geist					
+src/item_unlocks.lua:252		pretty spooky	ziemlich gruselig					
+src/item_unlocks.lua:261 (+1 others)		Shield	Schild					
+src/item_unlocks.lua:262		bust protection	schutz vor busts					
+src/item_unlocks.lua:271		Slow N Steady	In Der Ruhe					
+src/item_unlocks.lua:272		gets you nowhere	liegt überhaupt nichts					
+src/item_unlocks.lua:280		Patience	Geduld					
+src/item_unlocks.lua:281		a virtue	eine tugend					
+src/item_unlocks.lua:290		Straights	Straßen					
+src/item_unlocks.lua:291		they're at it again	nach links und rechts gucken					
+src/item_unlocks.lua:299		Dumplings	Dumplings					
+src/item_unlocks.lua:300		yum yum in my tum	schmackofatz					
+src/item_unlocks.lua:308		Pig	Schwein					
+src/item_unlocks.lua:309		get greedy	gierige sau					
+src/item_unlocks.lua:319		Numeracy	Rechnen					
+src/item_unlocks.lua:320		make the numbers behave	damit hast du nicht gerechnet					
+src/item_unlocks.lua:332		Shop Expansion	Shop Erweiterung					
+src/item_unlocks.lua:333		more items more good	mehr items mehr gut					
+src/item_unlocks.lua:341		Mega Shop	Mega Shop					
+src/item_unlocks.lua:342		more items more items more items	mehr items mehr items mehr items					
+src/item_unlocks.lua:352		More Funky Dice	Mehr Würfel					
+src/item_unlocks.lua:353		Special Side Effects in shops!\nMult, Debust, Power and Cracked	Spezielle Seiten-Effekte im Shop!\nMulti, Debust, Power und Brüchig					
+src/item_unlocks.lua:361		Even More Dice	Noch Mehr Würfel					
+src/item_unlocks.lua:362		Special Side Effects in shops!\nSkip, Mirror, Hardy and Doom	Spezielle Seiten-Effekte im Shop!\nSkip, Spiegel, Zäh und Unheil					
+src/item_unlocks.lua:373		Fish Trinkets	Fisch-Glücksbringer					
+src/item_unlocks.lua:374		from the sea	unten im meer					
+src/item_unlocks.lua:382		Sardine Magic	Sardinenmagie					
+src/item_unlocks.lua:383		abracadabra	abrakadabra					
+src/item_unlocks.lua:390		Faves	Favoriten					
+src/item_unlocks.lua:391		play with your favourites	spiel mit deinen liebsten					
 src/items.lua:10		Something fell from the sky						
 src/items.lua:36		Power Limit Up						
 src/items.lua:39		Power Limit +1						
@@ -1289,7 +1289,7 @@ src/states/game.lua:2527		we shall not suffer such an unholy thing	wir werden so
 src/states/game.lua:2528		thou shalt not shy from risk	du sollst nicht vor risiko scheuen					
 src/states/game.lua:2529		you thought you could get away with this?	dachtest du, du kommst damit davon?					
 src/states/game.lua:2530		extremely naughty	extrem ungezogen					
-src/states/game.lua:2533	dialogue	no downside not allowed		so what does that even mean lol				
+src/states/game.lua:2533	dialogue	no downside not allowed	kein nachteil? nicht erlaubt					
 src/states/game.lua:2551	dialogue	WHAT	WAS					
 src/states/game.lua:2566		refilled	aufgefüllt					
 src/states/game.lua:2593		LAST TURN	LETZTER ZUG					
