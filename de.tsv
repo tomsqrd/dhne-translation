@@ -1214,26 +1214,26 @@ src/states/game.lua:143		Restart the run from scratch\nand lose all gained stars
 src/states/game.lua:149 (+2 others)		Options	Optionen					
 src/states/game.lua:154		Quit	Hauptmenü					
 src/states/game.lua:156		Quit to menu and lose all gained stars?	Willst du ins Hauptmenü zurückkehren\nund alle gesammelten Sterne verlieren?					
-src/states/game.lua:425		secure the points\nend the turn\nrecharge character power\nclear momentum						
+src/states/game.lua:425		secure the points\nend the turn\nrecharge character power\nclear momentum	sichert die punkte\nbeendet den zug\nlädt charakter power auf\nsetzt momentum zurück					
 src/states/game.lua:496		BANK	BANK					
-src/states/game.lua:530		you must have some points to bank	du musst punkte haben um zu BANKen					
-src/states/game.lua:631		momentum: 	momentum:	schwung? momentum?				
-src/states/game.lua:634		adds extra 						
-src/states/game.lua:634		points and mult						
-src/states/game.lua:819		Losing all Busts ends the turn.\nBusts refill at the start of each Turn						
-src/states/game.lua:823		Blocks up to 						
-src/states/game.lua:823		busts, disappears when damaged						
-src/states/game.lua:842		ALL BUST BLOCKED						
-src/states/game.lua:858		SHIELD OVERLOADED						
-src/states/game.lua:859		BLOCKED						
-src/states/game.lua:909		bet 						
-src/states/game.lua:912		${STARS} Stars Unbanked						
+src/states/game.lua:530		you must have some points to bank	du kannst ohne punkte nicht in die BANK einzahlen					
+src/states/game.lua:631		momentum: 	momentum:					
+src/states/game.lua:634		adds extra 	fügt extra	ONE TEXT?				
+src/states/game.lua:634		points and mult	punkte und multi hinzu	ONE TEXT?				
+src/states/game.lua:819		Losing all Busts ends the turn.\nBusts refill at the start of each Turn	Alle BUSTs zu verlieren beendet deinen Zug.\nBUSTs werden beim Start eines Zuges wieder aufgefüllt.					
+src/states/game.lua:823		Blocks up to 	Blockiert bis zu					
+src/states/game.lua:823		busts, disappears when damaged	BUSTs, verschwindet wenn beschädigt	clunky				
+src/states/game.lua:842		ALL BUST BLOCKED	ALLE BUSTS GEBLOCKT					
+src/states/game.lua:858		SHIELD OVERLOADED	SCHILD ÜBERLADEN					
+src/states/game.lua:859		BLOCKED	GEBLOCKT					
+src/states/game.lua:909		bet 	wetten	wette? context?				
+src/states/game.lua:912		${STARS} Stars Unbanked	${STARS} Sterne nicht in der BANK	too long?				
 src/states/game.lua:914								
-src/states/game.lua:914		bank stars after each nightmare level or win the run to secure them						
-src/states/game.lua:984		praying...						
-src/states/game.lua:984		pray						
-src/states/game.lua:1062		Losing all Turns ends the game.\nTurns refill at the start of each level.						
-src/states/game.lua:1302 (+1 others)		MERGED						
+src/states/game.lua:914		bank stars after each nightmare level or win the run to secure them	zahle sterne in die BANK nach einem albtraum-level oder gewinne den run um sie zu sichern					
+src/states/game.lua:984		praying...	betet...	betend?				
+src/states/game.lua:984		pray	bete					
+src/states/game.lua:1062		Losing all Turns ends the game.\nTurns refill at the start of each level.	Alle Züge zu verlieren beendet das Spiel.\nZüge werden beim Start eines Levels wieder aufgefüllt.					
+src/states/game.lua:1302 (+1 others)		MERGED	VERSCHMOLZEN					
 src/states/game.lua:1355 (+12 others)		active	aktiv					
 src/states/game.lua:1481		Solo	Solo					
 src/states/game.lua:1492		Pair	Paar					
@@ -1260,76 +1260,76 @@ src/states/game.lua:1686		Star Bonanzovaganza	Stern-Bonanzovaganza
 src/states/game.lua:1687		1-1-1-1-1-1-1	1-1-1-1-1-1-1					
 src/states/game.lua:1697		Three Pair	Drei Paare					
 src/states/game.lua:1698		1-1-2-2-3-3	1-1-2-2-3-3					
-src/states/game.lua:1708		Flush						
-src/states/game.lua:1709		¤-¤-¤-¤						
-src/states/game.lua:1725		Straight Flush						
-src/states/game.lua:1726		¤1-2-3-4-5¤						
-src/states/game.lua:1767		Triple 7						
-src/states/game.lua:1768		7-7-7						
-src/states/game.lua:1781		JACKPOT						
-src/states/game.lua:1782		gain a gold star						
-src/states/game.lua:1790		Triple 8						
-src/states/game.lua:1791		8-8-8						
-src/states/game.lua:1803		BLESSED 						
-src/states/game.lua:1804		-1 bust						
-src/states/game.lua:1812		Lucky 8						
-src/states/game.lua:1813		1-1-1-1-1-1-1-1						
-src/states/game.lua:1823		Unlucky 13						
-src/states/game.lua:1834		Lucky 88						
-src/states/game.lua:1835		How?						
-src/states/game.lua:2130 (+2 others)		win						
-src/states/game.lua:2137 (+1 others)		Level $level/$count $name						
+src/states/game.lua:1708		Flush	Flush					
+src/states/game.lua:1709		¤-¤-¤-¤	¤-¤-¤-¤					
+src/states/game.lua:1725		Straight Flush	Straight Flush					
+src/states/game.lua:1726		¤1-2-3-4-5¤	¤1-2-3-4-5¤					
+src/states/game.lua:1767		Triple 7	777					
+src/states/game.lua:1768		7-7-7	7-7-7					
+src/states/game.lua:1781		JACKPOT	JACKPOT					
+src/states/game.lua:1782		gain a gold star	du bekommst einen goldenen stern					
+src/states/game.lua:1790		Triple 8	888					
+src/states/game.lua:1791		8-8-8	8-8-8					
+src/states/game.lua:1803		BLESSED 	GESEGNET					
+src/states/game.lua:1804		-1 bust	-1 BUST					
+src/states/game.lua:1812		Lucky 8	Glückszahl 8					
+src/states/game.lua:1813		1-1-1-1-1-1-1-1	1-1-1-1-1-1-1-1					
+src/states/game.lua:1823		Unlucky 13	Unglückszahl 13					
+src/states/game.lua:1834		Lucky 88	Glückszahl 88					
+src/states/game.lua:1835		How?	Wie?					
+src/states/game.lua:2130 (+2 others)		win	gewinnen	instructive? imperativ?				
+src/states/game.lua:2137 (+1 others)		Level $level/$count $name	Level $level/$count $name					
 src/states/game.lua:2189		NIGHTMARE LEVEL	ALBTRAUM-LEVEL					
-src/states/game.lua:2298 (+1 others)		Rift						
-src/states/game.lua:2329		fight						
-src/states/game.lua:2340		heal						
-src/states/game.lua:2525		this coin is an affront to life itself						
-src/states/game.lua:2526		this die is an affront to life itself						
-src/states/game.lua:2527		we shall not suffer such an unholy thing						
-src/states/game.lua:2528		thou shalt not shy from risk						
-src/states/game.lua:2529		you thought you could get away with this?						
-src/states/game.lua:2530		extremely naughty						
+src/states/game.lua:2298 (+1 others)		Rift	Riss	more sea? rift? spalt? kluft?				
+src/states/game.lua:2329		fight	kämpfen	"oder ""kampf""?"				
+src/states/game.lua:2340		heal	heilen					
+src/states/game.lua:2525		this coin is an affront to life itself	diese münze ist eine beleidigung des lebens selbst					
+src/states/game.lua:2526		this die is an affront to life itself	dieser würfel ist eine beleidigung des lebens selbst					
+src/states/game.lua:2527		we shall not suffer such an unholy thing	wir werden solch unheiliger dinge nicht erliegen					
+src/states/game.lua:2528		thou shalt not shy from risk	du sollst nicht vor risiko scheuen					
+src/states/game.lua:2529		you thought you could get away with this?	dachtest du, du kommst damit davon?					
+src/states/game.lua:2530		extremely naughty	extrem ungezogen					
 src/states/game.lua:2533	dialogue	no downside not allowed		so what does that even mean lol				
 src/states/game.lua:2551	dialogue	WHAT	WAS					
-src/states/game.lua:2566		refilled						
+src/states/game.lua:2566		refilled	aufgefüllt					
 src/states/game.lua:2593		LAST TURN	LETZTER ZUG					
-src/states/game.lua:2712		- Out Of Dice -						
-src/states/game.lua:2713		never						
-src/states/game.lua:2715		Looks like you're cooked\n\nGive up?						
-src/states/game.lua:2865		INSTANT WIPE						
-src/states/game.lua:2866		${rolled} OUT OF ${rolled} DICE ROLLED BUST						
-src/states/game.lua:2883		W I P E						
-src/states/game.lua:3262 (+8 others)		roll						
-src/states/game.lua:3299		SKIP ${pip}						
-src/states/game.lua:3311		SKIP LOOPED						
-src/states/game.lua:3550		Level Complete						
-src/states/game.lua:3591		Overshoot! +						
-src/states/game.lua:3622		Level Coins						
-src/states/game.lua:3633		Extra Turn Coins						
-src/states/game.lua:3645		Combine Coins						
-src/states/game.lua:3662		Bet bonus! +						
-src/states/game.lua:3712		--  Level ${number} Complete!  --						
-src/states/game.lua:3728		Score:						
-src/states/game.lua:3730		Reward:						
-src/states/game.lua:3731		Extra turns:						
-src/states/game.lua:3732		Bet bonus:						
-src/states/game.lua:3733		Overshoot:						
-src/states/game.lua:3735		Total:						
-src/states/game.lua:3779		Trade!						
-src/states/game.lua:3825		don't lose it						
-src/states/game.lua:3825		Soul on line						
-src/states/game.lua:3832		¤${BET} wagered						
-src/states/game.lua:3836		¤ Banked						
-src/states/game.lua:3837		Bank ¤${KEPT}?						
-src/states/game.lua:3838		Win To Bank ¤						
-src/states/game.lua:3839		Bank ¤ in ${LEVELS} lvl						
-src/states/game.lua:3853		Secure your Stars for the run\nyou won't be able to gain more this run						
-src/states/game.lua:3855		Stars already banked this run						
-src/states/game.lua:3857		Securing Stars available after each nightmare level						
-src/states/game.lua:3992		shop						
-src/states/game.lua:4389 (+8 others)		add						
-src/states/game.lua:4598		options						
-src/states/game_setup.lua:161		play!						
+src/states/game.lua:2712		- Out Of Dice -	- Keine Würfel Mehr -					
+src/states/game.lua:2713		never	niemals					
+src/states/game.lua:2715		Looks like you're cooked\n\nGive up?	Sieht so aus als ob du cooked bist\n\nAufgeben?	cooked funnily enough made it into german language				
+src/states/game.lua:2865		INSTANT WIPE	INSTANT WIPE					
+src/states/game.lua:2866		${rolled} OUT OF ${rolled} DICE ROLLED BUST	${rolled} VON ${rolled} WÜRFELN HABEN BUST GEWORFEN					
+src/states/game.lua:2883		W I P E	W I P E					
+src/states/game.lua:3262 (+8 others)		roll	würfeln	? context exactly				
+src/states/game.lua:3299		SKIP ${pip}	SKIP ${pip}					
+src/states/game.lua:3311		SKIP LOOPED	SKIP SCHLEIFE					
+src/states/game.lua:3550		Level Complete	Level Geschafft					
+src/states/game.lua:3591		Overshoot! +	Überschuss! +					
+src/states/game.lua:3622		Level Coins	Level Münzen					
+src/states/game.lua:3633		Extra Turn Coins	Extra-Zug Münzen					
+src/states/game.lua:3645		Combine Coins	Münzen Kombinieren	What are those?				
+src/states/game.lua:3662		Bet bonus! +	Wettgewinn! +					
+src/states/game.lua:3712		--  Level ${number} Complete!  --	--  Level ${number} Geschafft!  --					
+src/states/game.lua:3728		Score:	Punktzahl:					
+src/states/game.lua:3730		Reward:	Belohnung:					
+src/states/game.lua:3731		Extra turns:	Extra-Züge:					
+src/states/game.lua:3732		Bet bonus:	Wettgewinn:	wetten-bonus?				
+src/states/game.lua:3733		Overshoot:	Überschuss:					
+src/states/game.lua:3735		Total:	Gesamt:					
+src/states/game.lua:3779		Trade!	Handeln!					
+src/states/game.lua:3825		don't lose it	verlier sie nicht					
+src/states/game.lua:3825		Soul on line	Seele auf dem Spiel					
+src/states/game.lua:3832		¤${BET} wagered	¤${BET} gewettet					
+src/states/game.lua:3836		¤ Banked	¤ in der BANK					
+src/states/game.lua:3837		Bank ¤${KEPT}?	¤${KEPT} in der BANK sichern?					
+src/states/game.lua:3838		Win To Bank ¤	Gewinne, um ¤ in der BANK zu sichern					
+src/states/game.lua:3839		Bank ¤ in ${LEVELS} lvl	¤ sichern in ${LEVELS} lvl					
+src/states/game.lua:3853		Secure your Stars for the run\nyou won't be able to gain more this run	Sichere deine Sterne für diesen Run\ndu kannst diesen Run keine Sterne mehr sammeln					
+src/states/game.lua:3855		Stars already banked this run	Sterne in diesem Run schon gesichert					
+src/states/game.lua:3857		Securing Stars available after each nightmare level	Sterne Sichern ist nach jedem Albtraum-Level möglich					
+src/states/game.lua:3992		shop	shop					
+src/states/game.lua:4389 (+8 others)		add	hinzufügen					
+src/states/game.lua:4598		options	optionen					
+src/states/game_setup.lua:161		play!	spielen!	spiel? spiele?				
 src/states/game_setup.lua:173 (+1 others)		Wager your Soul?						
 src/states/game_setup.lua:176 (+1 others)		You are betting your soul.\nIf you lose, your save is gone forever.						
 src/states/game_setup.lua:206		the young will inherit the earth						
