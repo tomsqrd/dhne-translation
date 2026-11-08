@@ -299,7 +299,7 @@ src/entities/dice.lua:384 (+1 others)		colours	farben
 src/entities/dice.lua:392		pattern	muster					
 src/entities/dice.lua:623		CRACK	KRACK	Bruch?				
 src/entities/dice.lua:1625 (+1 others)		puke	kotze	kotzen? context?				
-src/entities/dice.lua:1648		Purged +	Gesäubert +					
+src/entities/dice.lua:1648		Purged +	Entleert +	This is more about puking it all out right?				
 src/entities/dice.lua:1648		pukes	kotzen	context?				
 src/entities/dice.lua:2092 (+1 others)		chomp	mampf					
 src/entities/dice.lua:2216		permanent	permanent					
@@ -1478,23 +1478,23 @@ src/states/tax_audit.lua:283		You've entered upper tax bracket.\nPay up ${amount
 src/states/tax_audit.lua:305 (+1 others)		Pay Up						
 src/states/tax_audit.lua:328 (+1 others)		Take on 2 Debt Dues						
 src/states/tax_audit.lua:348		You've been audited.\nYou haven't paid taxes.\nWe will be taking ${amount} § of your fish.						
-src/states/title.lua:129 (+5 others)	dialogue	so you chose to come back						
-src/states/title.lua:131 (+5 others)	dialogue	you will see, very soon						
-src/states/title.lua:185		GAMEPAD WARNING: support is still pretty rough - report bugs on steam or discord <3						
+src/states/title.lua:129 (+5 others)	dialogue	so you chose to come back	du bist zurückgekehrt					
+src/states/title.lua:131 (+5 others)	dialogue	you will see, very soon	du wirst es sehr bald sehen	context?				
+src/states/title.lua:185		GAMEPAD WARNING: support is still pretty rough - report bugs on steam or discord <3	WARNUNG FÜR CONTROLLER: noch wenig unterstützt - melde bugs auf steam oder discord <3					
 src/states/title.lua:194		the world you grew up in no longer exists	die welt in der du aufgewachsen bist existiert nicht mehr					
 src/states/title.lua:204		Roll 6 to Play	Würfel 6 um zu spielen					
 src/states/title.lua:208		roll the dice!	wirf die würfel!					
 src/states/title.lua:227		Tutorial	Tutorial					
 src/states/title.lua:234		learn to play	lern das spiel					
-src/states/title.lua:238		Star Guts						
+src/states/title.lua:238		Star Guts	Sterngeweide					
 src/states/title.lua:242		unlock stuff	schalt dinge frei					
-src/states/title.lua:292		Scoreboards						
+src/states/title.lua:292		Scoreboards	Scoreboards	Just direkt translation because no good word?				
 src/states/title.lua:296		be the goat	sei besser als der rest	sei der/die beste?				
-src/states/title.lua:306		game setup						
+src/states/title.lua:306		game setup	setup des spiels	Context?				
 src/states/title.lua:311		Roll 1 to Quit	Würfel 1 um das Spiel zu beenden					
-src/states/title.lua:315		bye?						
-src/states/title.lua:382		brighten up						
-src/states/title.lua:383		rest your eyes						
+src/states/title.lua:315		bye?	tschau?	german colloquial bye				
+src/states/title.lua:382		brighten up	bring licht in die sache					
+src/states/title.lua:383		rest your eyes	schone deine augen					
 src/states/title.lua:392		discord	discord					
 src/states/title.lua:394		community chat	chat mit der community					
 src/states/title.lua:397		steam	steam					
@@ -1535,7 +1535,7 @@ src/tapes.lua:85 (+2 others)		noname	noname
 src/tapes.lua:86 (+2 others)		Yume no Ato	Yume no Ato					
 src/tapes.lua:117		Dreamy Synthwave	Dreamy Synthwave					
 src/ui/character_body.lua:291 (+2 others)	ui	LOCKED	GESPERRT					
-src/ui/combination_table.lua:34 (+1 others)	ui	flush		context? like the combo?				
+src/ui/combination_table.lua:34 (+1 others)	ui	flush	flush	context? like the combo? spülen?				
 src/ui/combination_table.lua:46	ui	%d  x%.2f	%d  x%.2f					
 src/ui/combination_table.lua:48	ui	Combinations	Kombinationen					
 src/ui/combination_table.lua:48	ui	hello :)	hallo :)					
