@@ -1088,7 +1088,7 @@ src/powers.lua:75		Tell The Future
 src/powers.lua:76		Block 2 sides from being rolled on the selected die next roll.						
 src/powers.lua:104		Nudge Skip						
 src/powers.lua:105		+1 pip to the selected die, skipping values already showing.						
-src/powers.lua:139		Nudge Up	Hoch Stupsen	kippen?				
+src/powers.lua:139		Nudge Up	Hoch Kippen	kippen?				
 src/powers.lua:140		+1 pip to the selected die						
 src/powers.lua:160		Flip						
 src/powers.lua:161		Flip the selected die to its opposite face.						
@@ -1330,42 +1330,42 @@ src/states/game.lua:3992		shop	shop
 src/states/game.lua:4389 (+8 others)		add	hinzufügen					
 src/states/game.lua:4598		options	optionen					
 src/states/game_setup.lua:161		play!	spielen!	spiel? spiele?				
-src/states/game_setup.lua:173 (+1 others)		Wager your Soul?						
-src/states/game_setup.lua:176 (+1 others)		You are betting your soul.\nIf you lose, your save is gone forever.						
-src/states/game_setup.lua:206		the young will inherit the earth						
-src/states/game_setup.lua:269		???						
-src/states/game_setup.lua:609		get more gold ¤ with wagers						
-src/states/game_setup.lua:707		A modest wager.\nWin and keep your stars plus a small bonus.						
-src/states/game_setup.lua:717		Wager half your stars.\nMinimum 500 ¤\nHigher stakes, more stars.						
-src/states/game_setup.lua:727		Wager all your stars.\nMinimum 1000 ¤\nEven more star rewards.						
-src/states/game_setup.lua:737		Your soul is the wager.\nSpecial reward.\nFail and lose EVERYTHING.						
-src/states/game_setup.lua:795		Wager						
-src/states/game_setup.lua:885		Levels						
-src/states/game_setup.lua:892		Wager stars to add levels,\nnext level 						
-src/states/game_setup.lua:970		favourite items						
-src/states/game_setup.lua:971		all items						
-src/states/game_setup.lua:1100		Difficulty						
-src/states/game_setup.lua:1103		${stars} ¤ reward limit						
-src/states/game_setup.lua:1170		levels						
-src/states/gameover.lua:185		SOUL OVER						
-src/states/gameover.lua:241		Congratulations, you lost.						
-src/states/gameover.lua:242		Better luck next time.						
-src/states/gameover.lua:243		Maybe next time.						
-src/states/gameover.lua:283		Bet ${BET}¤						
-src/states/gameover.lua:291		Death Tax ${STARS}¤						
-src/states/gameover.lua:300		GAME OVER						
-src/states/gameover.lua:311		--  Run Summary  --						
-src/states/gameover.lua:325		Level reached:						
-src/states/gameover.lua:326		Points scored:						
-src/states/gameover.lua:327		Dice rolled:						
-src/states/gameover.lua:328		Ones rolled:						
-src/states/gameover.lua:330		Run stars:						
-src/states/gameover.lua:331		Death tax:						
-src/states/gameover.lua:347		run info						
-src/states/gameover.lua:386		restart						
-src/states/gameover.lua:443		Press B To Toss						
-src/states/gameover.lua:443		Right Click To Toss						
-src/states/intro.lua:50 (+7 others)		spawn						
+src/states/game_setup.lua:173 (+1 others)		Wager your Soul?	Willst du deine Seele auf's Spiel setzen?					
+src/states/game_setup.lua:176 (+1 others)		You are betting your soul.\nIf you lose, your save is gone forever.	Du wettest deine Seele.\nFalls du verlierst ist dein Spielstand für immer verschollen.					
+src/states/game_setup.lua:206		the young will inherit the earth	die jugend wird die erde erben					
+src/states/game_setup.lua:269		???	???					
+src/states/game_setup.lua:609		get more gold ¤ with wagers	bekomme mehr gold ¤ mit wetten					
+src/states/game_setup.lua:707		A modest wager.\nWin and keep your stars plus a small bonus.	Eine bescheidene Wette.\nGewinne um deine Sterne mit einem kleinen Gewinn zu behalten.					
+src/states/game_setup.lua:717		Wager half your stars.\nMinimum 500 ¤\nHigher stakes, more stars.	Setze die Hälfte deiner Sterne ein.\nMindestens 500 ¤\nHöherer Einsatz, mehr Sterne.					
+src/states/game_setup.lua:727		Wager all your stars.\nMinimum 1000 ¤\nEven more star rewards.	Setze alle deine Sterne ein.\nMindestens 1000 ¤\nNoch mehr Stern-Gewinn.					
+src/states/game_setup.lua:737		Your soul is the wager.\nSpecial reward.\nFail and lose EVERYTHING.	Deine Seele ist der Einsatz.\nBesondere Belohnung.\nVersage und verliere ALLES.					
+src/states/game_setup.lua:795		Wager	Wette					
+src/states/game_setup.lua:885		Levels	Level					
+src/states/game_setup.lua:892		Wager stars to add levels,\nnext level 	Wette sterne um Level hinzuzufügen,\nnächstes Level					
+src/states/game_setup.lua:970		favourite items	favorisierte-items					
+src/states/game_setup.lua:971		all items	alle items					
+src/states/game_setup.lua:1100		Difficulty	Schwierigkeit					
+src/states/game_setup.lua:1103		${stars} ¤ reward limit	${stars} ¤ Belohnungs-Limit					
+src/states/game_setup.lua:1170		levels	level					
+src/states/gameover.lua:185		SOUL OVER	SOUL OVER	Seele Over?				
+src/states/gameover.lua:241		Congratulations, you lost.	Herzlichen Glückwunsch, du hast verloren.					
+src/states/gameover.lua:242		Better luck next time.	Mehr Glück beim nächsten Mal.					
+src/states/gameover.lua:243		Maybe next time.	Vielleicht beim nächsten Mal.					
+src/states/gameover.lua:283		Bet ${BET}¤	Wette ${BET}¤					
+src/states/gameover.lua:291		Death Tax ${STARS}¤	Todessteuer ${STARS}¤	Erbschaftssteuer? context?				
+src/states/gameover.lua:300		GAME OVER	GAME OVER					
+src/states/gameover.lua:311		--  Run Summary  --	-- Run-Zusammenfassung --					
+src/states/gameover.lua:325		Level reached:	Level erreicht:					
+src/states/gameover.lua:326		Points scored:	Punkte gesammelt:					
+src/states/gameover.lua:327		Dice rolled:	Würfel geworfen:					
+src/states/gameover.lua:328		Ones rolled:	Einser geworfen:					
+src/states/gameover.lua:330		Run stars:	Run-Sterne:					
+src/states/gameover.lua:331		Death tax:	Todessteuer:					
+src/states/gameover.lua:347		run info	run infos					
+src/states/gameover.lua:386		restart	neu starten					
+src/states/gameover.lua:443		Press B To Toss	Drücke B Zum Werfen					
+src/states/gameover.lua:443		Right Click To Toss	Rechtsklick Zum Werfen					
+src/states/intro.lua:50 (+7 others)		spawn	spawn	context?				
 src/states/intro.lua:54		This is a game about luck.	Dieses Spiel dreht sich um Glück.					
 src/states/intro.lua:55		This is still a game about luck.	Dieses Spiel dreht sich immer noch um Glück.					
 src/states/intro.lua:56		This is a game about rolling ones, apparently.	Dieses Spiel dreht sich anscheinend um Einsen.	Einserwürfe?				
@@ -1395,7 +1395,7 @@ src/states/intro_greed.lua:160		bank and start	banken und starten
 src/states/intro_greed.lua:160		pass and start	passen und starten					
 src/states/intro_greed.lua:162		(A) 	(A)					
 src/states/intro_greed.lua:179		nothing ventured, nothing gained	wer nicht wagt, der nicht gewinnt					
-src/states/intro_greed.lua:199		best today!		meaning?				
+src/states/intro_greed.lua:199		best today!	der beste heute!	meaning?				
 src/states/intro_greed.lua:201		pitiful	erbärmlich					
 src/states/intro_greed.lua:202		uninspiring	langweilig	lauwarm? nicht inspirierend?				
 src/states/intro_greed.lua:203 (+1 others)	dialogue	delicious	lecker					
@@ -1429,44 +1429,44 @@ src/states/options.lua:483		Reset all the game options\nto their default values?
 src/states/options.lua:504		reset tips	tipps zurücksetzen					
 src/states/options.lua:509		reset all the hover tooltip counters\nso that all the tips show again?	Willst du alle Tipps/nwieder anzeigen lassen?					
 src/states/options.lua:528		replay tutorial	tutorial wiederholen					
-src/states/scoreboard.lua:36		Loading Scores...						
-src/states/scoreboard.lua:48		MOST_STARS						
-src/states/scoreboard.lua:49		Most Stars						
-src/states/scoreboard.lua:54		stars held						
-src/states/scoreboard.lua:61		HIGHEST_LEVEL						
-src/states/scoreboard.lua:62		Highest Level						
-src/states/scoreboard.lua:67		level						
-src/states/scoreboard.lua:73		LEVEL_SCORE						
-src/states/scoreboard.lua:74		Best Level Score						
-src/states/scoreboard.lua:85		HAND_SCORE						
-src/states/scoreboard.lua:86		Biggest Hand						
-src/states/scoreboard.lua:97		GREED_INTRO						
-src/states/scoreboard.lua:98		Greed Intro						
-src/states/scoreboard.lua:103		stars won						
-src/states/scoreboard.lua:109		MOST_WINS						
-src/states/scoreboard.lua:110		Most Wins						
-src/states/scoreboard.lua:115		wins						
-src/states/scoreboard.lua:121		MOST_FISH						
-src/states/scoreboard.lua:122		Most Fish						
-src/states/scoreboard.lua:127		fish in a run						
-src/states/scoreboard.lua:130 (+3 others)		(data did not load)						
-src/states/scoreboard.lua:137 (+1 others)		LUCK						
-src/states/scoreboard.lua:180		${rank}. ${name}						
-src/states/scoreboard.lua:215		you						
-src/states/scoreboard.lua:227		Global						
-src/states/scoreboard.lua:302		-- ${title} --						
-src/states/scoreboard.lua:304		# player						
-src/states/scoreboard.lua:368		Your Luck						
-src/states/scoreboard.lua:372		luckier than ${percent}%						
-src/states/scoreboard.lua:380		rolls						
-src/states/scoreboard.lua:384		busts						
-src/states/scoreboard.lua:388		your bust rate						
-src/states/scoreboard.lua:392		expected						
-src/states/scoreboard.lua:396		player average						
-src/states/scoreboard.lua:401		Completion						
-src/states/scoreboard.lua:408		runs played						
-src/states/scoreboard.lua:412		runs won						
-src/states/scoreboard.lua:416		achievements						
+src/states/scoreboard.lua:36		Loading Scores...	Lädt Punkte...					
+src/states/scoreboard.lua:48		MOST_STARS	MEISTE_STERNE	should these even be localized?				
+src/states/scoreboard.lua:49		Most Stars	Meiste Sterne					
+src/states/scoreboard.lua:54		stars held	sterne gehalten	wording? meaning?				
+src/states/scoreboard.lua:61		HIGHEST_LEVEL	Höchstes Level					
+src/states/scoreboard.lua:62		Highest Level	Höchstes Level					
+src/states/scoreboard.lua:67		level	level					
+src/states/scoreboard.lua:73		LEVEL_SCORE	LEVEL_PUNKTE					
+src/states/scoreboard.lua:74		Best Level Score	Beste Level-Punkte					
+src/states/scoreboard.lua:85		HAND_SCORE	HAND_PUNKTE					
+src/states/scoreboard.lua:86		Biggest Hand	Größte Hand					
+src/states/scoreboard.lua:97		GREED_INTRO	GIER_INTRO					
+src/states/scoreboard.lua:98		Greed Intro	Gier Intro					
+src/states/scoreboard.lua:103		stars won	sterne gewonnen					
+src/states/scoreboard.lua:109		MOST_WINS	MEISTE_GEWINNE					
+src/states/scoreboard.lua:110		Most Wins	Meiste Gewinne					
+src/states/scoreboard.lua:115		wins	gewinne					
+src/states/scoreboard.lua:121		MOST_FISH	MEISTE_FISCHE					
+src/states/scoreboard.lua:122		Most Fish	Meiste Fische					
+src/states/scoreboard.lua:127		fish in a run	fische in einem run					
+src/states/scoreboard.lua:130 (+3 others)		(data did not load)	(daten nicht geladen)					
+src/states/scoreboard.lua:137 (+1 others)		LUCK	GLÜCK					
+src/states/scoreboard.lua:180		${rank}. ${name}	${rank}. ${name}					
+src/states/scoreboard.lua:215		you	du					
+src/states/scoreboard.lua:227		Global	Global					
+src/states/scoreboard.lua:302		-- ${title} --	-- ${title} --					
+src/states/scoreboard.lua:304		# player	# spieler					
+src/states/scoreboard.lua:368		Your Luck	Dein Glück					
+src/states/scoreboard.lua:372		luckier than ${percent}%	glücklicher als ${percent}%					
+src/states/scoreboard.lua:380		rolls	würfe					
+src/states/scoreboard.lua:384		busts	busts					
+src/states/scoreboard.lua:388		your bust rate	deine bust-rate					
+src/states/scoreboard.lua:392		expected	erwartet					
+src/states/scoreboard.lua:396		player average	spieler-durschnitt					
+src/states/scoreboard.lua:401		Completion	Fortschritt					
+src/states/scoreboard.lua:408		runs played	runs gespielt					
+src/states/scoreboard.lua:412		runs won	runs gewonnen					
+src/states/scoreboard.lua:416		achievements	erfolge					
 src/states/tax_audit.lua:43		--  TAX AUDIT  --	-- STEUERPRÜFUNG --					
 src/states/tax_audit.lua:77		You haven't paid your debt.\nPay ${debt} § or bribe your way out.	Du hast unbezahlte Schulden.\nBezahle ${debt} § oder versuche es mit Schmiergeld.					
 src/states/tax_audit.lua:100		Pay ${debt} §	Bezahle ${debt} §					
