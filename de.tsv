@@ -1478,13 +1478,13 @@ src/states/tax_audit.lua:283		You've entered upper tax bracket.\nPay up ${amount
 src/states/tax_audit.lua:305 (+1 others)		Pay Up	Bezahlen					
 src/states/tax_audit.lua:328 (+1 others)		Take on 2 Debt Dues	Nimm 2 Schulden auf	"Debt ""due""? Fällige Schulden? context"				
 src/states/tax_audit.lua:348		You've been audited.\nYou haven't paid taxes.\nWe will be taking ${amount} § of your fish.	Du wurdest geprüft.\nDeine Steuern wurden nicht gezahlt.\nWir beschlagnahmen ${amount} § deiner Fische.					
-src/states/title.lua:73		roll 6 to play\nroll 1 to quit						
+src/states/title.lua:73		roll 6 to play\nroll 1 to quit	wirf 6 zum spielen\nwirf 1 zum beenden	zum? is that good?				
 src/states/title.lua:153 (+5 others)	dialogue	so you chose to come back	du bist zurückgekehrt					
 src/states/title.lua:155 (+5 others)	dialogue	you will see, very soon	du wirst es sehr bald sehen	context?				
 src/states/title.lua:209		GAMEPAD WARNING: support is still pretty rough - report bugs on steam or discord <3	WARNUNG FÜR CONTROLLER: noch wenig unterstützt - melde bugs auf steam oder discord <3					
 src/states/title.lua:218		the world you grew up in no longer exists	die welt in der du aufgewachsen bist existiert nicht mehr					
-src/states/title.lua:228		Play						
-src/states/title.lua:232		feeling lucky?						
+src/states/title.lua:228		Play	Spielen					
+src/states/title.lua:232		feeling lucky?	hast du Glück?	i hate feeling lucky so much because why is there no translation				
 src/states/title.lua:251		Tutorial	Tutorial					
 src/states/title.lua:258		learn to play	lern das spiel					
 src/states/title.lua:262		Star Guts	Sterngeweide					
