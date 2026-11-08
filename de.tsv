@@ -1548,21 +1548,21 @@ src/ui/game_setup_options.lua:29	ui	increase difficulty by 3	schwierigkeit um 3 
 src/ui/help_screen.lua:18	ui	HELP ME!	HILFE!					
 src/ui/help_screen.lua:74	ui	INFO DUMP :)	INFO DUMP :)	better local? Viele infos?				
 src/ui/help_screen.lua:111 (+1 others)	ui	BUST	BUST					
-src/ui/help_screen.lua:112	ui	Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.						
-src/ui/help_screen.lua:115	ui	ALL BUST - INSTANT WIPE						
-src/ui/help_screen.lua:116	ui	The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust						
-src/ui/help_screen.lua:119	ui	BANKING						
-src/ui/help_screen.lua:120	ui	BANK to lock in your points and refill the Bust meter.\nEach BANK ends your Turn.						
-src/ui/help_screen.lua:123	ui	TURN						
-src/ui/help_screen.lua:124	ui	Each level you get limited Turns.\nTurns end when you BANK or WIPE.\nWhen you run out of Turns the game is over.\nBust meter and Power charge refill each turn.						
-src/ui/help_screen.lua:129	ui	SCORING						
-src/ui/help_screen.lua:130	ui	Select dice that form a combo and score them.\nPoints x Mult = Score.\nBigger combos score exponentially more.\nScore multiple combos in one Turn to build Momentum for extra Points and Mult						
-src/ui/help_screen.lua:133	ui	TRINKETS, SPELLS & SNACKS						
-src/ui/help_screen.lua:134	ui	- Trinkets are passive, they trigger automatically.\n- Spells are one time use!\n- Snacks are dragged onto a die to add special effects.						
-src/ui/help_screen.lua:137	ui	CHARACTER POWER						
-src/ui/help_screen.lua:138	ui	Each character has a unique Power. Use them to modify dice, reduce risk and get better combos.\n\nPower recharges each turn or with die side effects and items.						
-src/ui/help_screen.lua:141	ui	BASIC TACTICS						
-src/ui/help_screen.lua:142	ui	The more dice you roll at once the bigger chance of any Bust, but smaller chance of All Bust.\n\nRerolling a single die is ballsy! Prioritize rerolling blank dice. Scoring a single big combo is better than few pairs.						
+src/ui/help_screen.lua:112	ui	Each die has a red Bust side.\nRolling Bust side reduces your Bust meter.\n\nIf Bust meter goes to 0 you WIPE.\nAll unbanked points are gone, turn ends.	Jeder Würfel hat eine rote BUST Seite.\nEinen BUST zu werfen reduziert dein BUST-Meter.\n\nWenn dein BUST-Meter bei 0 ankommt, WIPEst du.\nAlle Punkte außerhalb der BANK gehen verloren, und dein Zug endet.					
+src/ui/help_screen.lua:115	ui	ALL BUST - INSTANT WIPE	ALLE BUST - INSTANT WIPE					
+src/ui/help_screen.lua:116	ui	The tricky part!\n\nIf all dice you rolled at once show Bust,\nyou WIPE instantly, regardless of the Bust meter.\n\nExample: 3 out of 3 dice rolled Bust	Jetzt wird es spannend!\n\nWenn alle Würfel BUST werfen,\nWIPEst du sofort, unabhängig vom BUST-Meter.\n\nBeispiel: 3 aus 3 Würfel zeigen BUST					
+src/ui/help_screen.lua:119	ui	BANKING	BANK					
+src/ui/help_screen.lua:120	ui	BANK to lock in your points and refill the Bust meter.\nEach BANK ends your Turn.	Zahle Punkte in die BANK ein um sie zu behalten und dein BUST-Meter aufzufüllen.\nJede BANK-Einzahlung beendet deinen Zug.					
+src/ui/help_screen.lua:123	ui	TURN	ZUG					
+src/ui/help_screen.lua:124	ui	Each level you get limited Turns.\nTurns end when you BANK or WIPE.\nWhen you run out of Turns the game is over.\nBust meter and Power charge refill each turn.	In jedem Level hast du eine begrenzte Anzahl an Zügen.\nZüge enden mit der BANK oder einem WIPE.\nWenn du keine Züge mehr hast, ist das Spiel vorbei.\nDein BUST-Meter und deine Power werden jeden Zug wieder aufgefüllt.					
+src/ui/help_screen.lua:129	ui	SCORING	WERTUNG					
+src/ui/help_screen.lua:130	ui	Select dice that form a combo and score them.\nPoints x Mult = Score.\nBigger combos score exponentially more.\nScore multiple combos in one Turn to build Momentum for extra Points and Mult	Wähle Würfel die zusammen eine Combo ergeben und werte sie.\nPunkte x Multi = Wert.\nGrößere Combos werten exponentiell höher.\nWerte mehrere Combos in einem Zug um Momentum aufzubauen, was extra Punkte und Multi gibt.					
+src/ui/help_screen.lua:133	ui	TRINKETS, SPELLS & SNACKS	GLÜCKSBRINGER, ZAUBER & SNACKS					
+src/ui/help_screen.lua:134	ui	- Trinkets are passive, they trigger automatically.\n- Spells are one time use!\n- Snacks are dragged onto a die to add special effects.	- Glücksbringer sind passiv, ihre Effekte werden automatisch ausgelöst.\n- Zauber können nur einmal benutzt werden!\n- Snacks zieht man auf geworfene Würfel, um ihre Effekte auszulösen.					
+src/ui/help_screen.lua:137	ui	CHARACTER POWER	CHARAKTER POWER					
+src/ui/help_screen.lua:138	ui	Each character has a unique Power. Use them to modify dice, reduce risk and get better combos.\n\nPower recharges each turn or with die side effects and items.	Jeder Charakter hat eine einzigartige Power. Benutze sie um Würfel zu manipulieren, Risiko zu mindern und bessere Combos zu werten.\n\nPower wird jeden Zug, so wie mit Würfel-Effekten und Items wieder aufgefüllt.					
+src/ui/help_screen.lua:141	ui	BASIC TACTICS	EINFACHE TAKTIKEN					
+src/ui/help_screen.lua:142	ui	The more dice you roll at once the bigger chance of any Bust, but smaller chance of All Bust.\n\nRerolling a single die is ballsy! Prioritize rerolling blank dice. Scoring a single big combo is better than few pairs.	Je mehr Würfel du wirfst, desto höher die Chance auf einen BUST, aber desto niedriger die Chance auf instant WIPE.\n\nEinzelne Würfel werfen ist mutig! Wirf erstmal deine blanken Würfel. Eine einzelne große Combo ist besser als kleine Paare.					
 src/ui/item_hover.lua:72 (+4 others)	ui	SPELL	ZAUBER					
 src/ui/level_map.lua:65	ui	LEVEL MAP	LEVEL KARTE					
 src/ui/level_map.lua:165	ui	Level 	Level					
