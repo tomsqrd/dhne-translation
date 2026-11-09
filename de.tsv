@@ -1,4 +1,4 @@
-location	extra context	en	translation	notes (delete column)				
+location	extra context	en	de	notes (delete column)				
 src/are_you_sure.lua:14 (+3 others)		Are you sure?	Bist du dir sicher?					
 src/are_you_sure.lua:15 (+13 others)		yes	ja					
 src/are_you_sure.lua:17		really?	wirklich?					
@@ -684,63 +684,63 @@ src/items.lua:1902		+1 Mult per die scored	+1 Multi pro gewertetem Würfel
 src/items.lua:1918		Powered Claw	Kraftklaue					
 src/items.lua:1921		+5 Mult, uses 1 Power	+5 Multi, benutzt 1 Power					
 src/items.lua:1936		POY SIAN	POY SIAN					
-src/items.lua:1939		+40 Points for each unrolled 4	+40 Punkte für jede nicht geworfene 4	"what is an ""unrolled"" 4"				
-src/items.lua:1957		Hold The Ones	Ohne Einser Bitte	hold the x, drinking metaphor?				
-src/items.lua:1960		+1 Mult for each unrolled 1	+1 Multi für jede nicht geworfene 1					
+src/items.lua:1939		+40 Points for each unrolled 4	+40 Punkte bei Wurf für jeden Würfel der bereits 4 zeigt	is this correct? confirm				
+src/items.lua:1957		Hold The Ones	Einser Halten	hold the x, drinking metaphor? but it wants the ones				
+src/items.lua:1960		+1 Mult for each unrolled 1	+1 Multi bei Wurf für jeden Würfel, der bereits 1 zeigt					
 src/items.lua:1981		Zero Bust Turbo	Null-Bust-Turbo	Zero Dark Thirty?				
 src/items.lua:1984		Banking with no Busts starts next turn with 10 Momentum	Ohne Busts In die Bank einzuzahlen startet den nächsten Zug mit 10 Momentum					
 src/items.lua:1999		10 momentum!	10 momentum!					
 src/items.lua:2006		Mushieltador	Mushieltador	Is this a matador? confirm visually				
-src/items.lua:2009		Gain a Bust Shield when banking if last hand was any Straight						
-src/items.lua:2035		Survival Instinct						
-src/items.lua:2038		x2 Mult on 1 turn left						
-src/items.lua:2069		Mandarine Peel						
-src/items.lua:2072		+5 Mult for first scored hand each turn						
-src/items.lua:2093		Octupus Ting						
-src/items.lua:2096		x3 Mult for your first scored hand each level						
-src/items.lua:2121		Four Legged Star						
-src/items.lua:2124		+300 points for hand containing Four Of A Kind						
-src/items.lua:2142		Minnesota Fats						
-src/items.lua:2145		+200 points for any Straight						
-src/items.lua:2151 (+2 others)		straight						
-src/items.lua:2158		Bimber						
-src/items.lua:2161		+200 points for a Full House						
-src/items.lua:2175		Kind Berry Three						
-src/items.lua:2178		+200 points for Three Of A Kind						
-src/items.lua:2192		Two Pair Cat						
-src/items.lua:2195		+200 points for hand containing Two Pair						
-src/items.lua:2209		Just A Pair						
-src/items.lua:2212		+100 points for a Pair						
-src/items.lua:2218 (+6 others)		pair						
-src/items.lua:2230		Fifteen sum						
-src/items.lua:2233		x3 Mult if the scored dice sum to 15						
-src/items.lua:2241 (+13 others)		dice						
-src/items.lua:2253		Sumush						
-src/items.lua:2256		x2 Mult if the scored dice sum to 10						
-src/items.lua:2275		Lil' Choy						
-src/items.lua:2278		x2 Mult when scoring 3 or fewer dice						
-src/items.lua:2296		Toad Hut						
-src/items.lua:2299		x2 Mult for hand containing Four Of A Kind						
-src/items.lua:2320		Pink Top						
-src/items.lua:2323		x2 Mult for any Straight						
-src/items.lua:2338		Absinthe						
-src/items.lua:2341		x2 Mult for Full House						
-src/items.lua:2356		Three Legged Pirate						
-src/items.lua:2359		x2 Mult for Three Of A Kind						
-src/items.lua:2375 (+1 others)		Two Pair Mult Cat						
-src/items.lua:2378		x1.5 Mult for hand containing Two Pair						
-src/items.lua:2386 (+1 others)		x1.5						
-src/items.lua:2394		Pair Mult Dog						
-src/items.lua:2397		x1.5 Mult for Pair, Two Pair and Three Pair						
-src/items.lua:2414		Poppy						
-src/items.lua:2417		x2 Mult for hand containing three 6s						
-src/items.lua:2433		Sunnies						
+src/items.lua:2009		Gain a Bust Shield when banking if last hand was any Straight	Bekomme bei Bankeinzahlung ein Bust-Schild wenn die letzte Wertung irgendeine Straße war					
+src/items.lua:2035		Survival Instinct	Überlebensinstinkt					
+src/items.lua:2038		x2 Mult on 1 turn left	x2 Multi wenn nur noch 1 Zug übrig ist					
+src/items.lua:2069		Mandarine Peel	Mandarinenschale					
+src/items.lua:2072		+5 Mult for first scored hand each turn	+5 Multi für die erste Wertung pro Zug					
+src/items.lua:2093		Octupus Ting	Octupus Ting	what is this? misspelled?				
+src/items.lua:2096		x3 Mult for your first scored hand each level	x3 Multi für die erste Wertung pro Level					
+src/items.lua:2121		Four Legged Star	Vierbeiniger Stern					
+src/items.lua:2124		+300 points for hand containing Four Of A Kind	+300 Punkte für eine Wertung mit einem Vierling	Is this different to Three Of A Kind?				
+src/items.lua:2142		Minnesota Fats	Minnesota Fats	Rudolf Wanderone? lmao				
+src/items.lua:2145		+200 points for any Straight	+200 Punkte für jegliche Straße					
+src/items.lua:2151 (+2 others)		straight	straße					
+src/items.lua:2158		Bimber	Bimber	Polish Moonshine - Keep OG name				
+src/items.lua:2161		+200 points for a Full House	+200 Punkte für ein Full House					
+src/items.lua:2175		Kind Berry Three	Die Drei Beeren	context? Just three berries? bear pun?				
+src/items.lua:2178		+200 points for Three Of A Kind	+200 Punkte für einen Drilling					
+src/items.lua:2192		Two Pair Cat	Zwei-Paar-Katze	visual confirmation, different name maybe?				
+src/items.lua:2195		+200 points for hand containing Two Pair	+200 Punkte für eine Wertung mit zwei Paaren					
+src/items.lua:2209		Just A Pair	Nur Ein Paar					
+src/items.lua:2212		+100 points for a Pair	+100 Punkte für ein Paar					
+src/items.lua:2218 (+6 others)		pair	paar					
+src/items.lua:2230		Fifteen sum	Fünfzehnersumme	No Big Letter here? Not the name?				
+src/items.lua:2233		x3 Mult if the scored dice sum to 15	x3 Multi wenn die gewerteten Würfel in Summe 15 Augen zeigen					
+src/items.lua:2241 (+13 others)		dice	würfel					
+src/items.lua:2253		Sumush	Sumush					
+src/items.lua:2256		x2 Mult if the scored dice sum to 10	x2 Multi wenn die gewerteten Würfel in Summe 10 Augen zeigen					
+src/items.lua:2275		Lil' Choy	Lil' Choy					
+src/items.lua:2278		x2 Mult when scoring 3 or fewer dice	x2 Multi wenn 3 oder weniger Würfel gewertet werden					
+src/items.lua:2296		Toad Hut	Krötenhütte	Hut? Hütte?				
+src/items.lua:2299		x2 Mult for hand containing Four Of A Kind	x2 Multi für Wertungen, die einen Vierling enthalten					
+src/items.lua:2320		Pink Top	Pinkes Top	Clothing?				
+src/items.lua:2323		x2 Mult for any Straight	x2 Multi für jegliche Straße					
+src/items.lua:2338		Absinthe	Absinth					
+src/items.lua:2341		x2 Mult for Full House	x2 Multi für ein Full House					
+src/items.lua:2356		Three Legged Pirate	Dreibeiniger Pirat					
+src/items.lua:2359		x2 Mult for Three Of A Kind	x2 Multi für einen Drilling					
+src/items.lua:2375 (+1 others)		Two Pair Mult Cat	Zwei-Paar-Multi-Katze					
+src/items.lua:2378		x1.5 Mult for hand containing Two Pair	x1,5 Multi für Wertungen, die zwei Paare enthalten					
+src/items.lua:2386 (+1 others)		x1.5	x1,5					
+src/items.lua:2394		Pair Mult Dog	Paar-Multi-Hund					
+src/items.lua:2397		x1.5 Mult for Pair, Two Pair and Three Pair	x1,5 Multi für ein Paar, zwei Paare und drei Paare					
+src/items.lua:2414		Poppy	Mohnblume					
+src/items.lua:2417		x2 Mult for hand containing three 6s	x2 Multi für Wertungen, die drei 6er enthalten					
+src/items.lua:2433		Sunnies	Sonnenbrille					
 src/items.lua:2436		0.5x Mult for each scored 2						
-src/items.lua:2447 (+1 others)		x${mult}						
-src/items.lua:2454		Cactus						
+src/items.lua:2447 (+1 others)		x${mult}	x${mult}					
+src/items.lua:2454		Cactus	Kaktus					
 src/items.lua:2457		+0.5x Mult per scored die						
-src/items.lua:2475		Yolk						
-src/items.lua:2478		Flipping a single coin +5 Mult						
+src/items.lua:2475		Yolk	Eigelb					
+src/items.lua:2478		Flipping a single coin +5 Mult	+5 Multi wenn eine einzelne Münze geworfen wird					
 src/items.lua:2494		Lucky Leaf						
 src/items.lua:2497		x2 Mult if a coin is scored						
 src/items.lua:2514		Soy Fish						
