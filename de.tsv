@@ -735,10 +735,10 @@ src/items.lua:2397		x1.5 Mult for Pair, Two Pair and Three Pair	x1,5 Multi für 
 src/items.lua:2414		Poppy	Mohnblume	
 src/items.lua:2417		x2 Mult for hand containing three 6s	x2 Multi für eine Hand mit drei 6ern	
 src/items.lua:2433		Sunnies	Sonnenbrille	
-src/items.lua:2436		0.5x Mult for each scored 2		0,5 pro gewerteter 2, x Multi
+src/items.lua:2436		0.5x Mult for each scored 2	(0,5 pro gewerteter 2)x Multi	0,5 pro gewerteter 2, x Multi
 src/items.lua:2447 (+1 others)		x${mult}	x${mult}	
 src/items.lua:2454		Cactus	Kaktus	
-src/items.lua:2457		+0.5x Mult per scored die		0,5 pro gewertetem Würfel, x Multi
+src/items.lua:2457		+0.5x Mult per scored die	(0,5 pro gewertetem Würfel)x Multi	0,5 pro gewertetem Würfel, x Multi
 src/items.lua:2475		Yolk	Eidotter	
 src/items.lua:2478		Flipping a single coin +5 Mult	+5 Multi wenn eine einzelne Münze geworfen wird	
 src/items.lua:2494		Lucky Leaf	Glücksblatt	
@@ -762,7 +762,7 @@ src/items.lua:2633		Masochist Rock	Masochistenstein
 src/items.lua:2636		x2 Mult on Bust	x2 Multi, wenn ein Bust geworfen wird	
 src/items.lua:2645		x2 Mult	x2 Multi	
 src/items.lua:2678		Palosanto	Palo Santo	confirm visuals
-src/items.lua:2681		If hand Mult is over 10: +5 Mult		what is the hand mult??
+src/items.lua:2681		If hand Mult is over 10: +5 Mult	+5 Multi, wenn Hand-Multi höher als 10 ist	what is the hand mult??
 src/items.lua:2694		Chestnut	Kastanie	
 src/items.lua:2697		+50 points when any item triggers	+50 Punkte, wenn ein anderes Item triggert	
 src/items.lua:2710		Dolphin	Delphin	
@@ -991,7 +991,7 @@ src/items.lua:5440		No Bonanza	Keine Bonanza	Ruhestörung? Was ist eine Bonanza 
 src/items.lua:5441		Star Bonanza gives no score	Sternbonanza wertet keine Punkte	
 src/items.lua:5467		Slippery 6s	Scheue Sechser	slippery to shy?
 src/items.lua:5468		Auto-reroll dice that show a 6	Würfel, die auf 6 landen, werden automatisch neu geworfen	
-src/items.lua:5487		Dice randomly reroll on their own.		
+src/items.lua:5487		Dice randomly reroll on their own.	Würfel werfen sich zufällig neu.	randomly hier manchmal? ab und zuß
 src/items.lua:5577		Slippery Threes	Scheuer Dreier	
 src/items.lua:5578		Auto-reroll dice that show a 3, score 33 Points for each	Würfel, die auf 3 landen, werden automatisch neu geworfen	
 src/items.lua:5599 (+4 others)		Bad Tooth	Schlechter Zahn	nur schlecht? faulig?
