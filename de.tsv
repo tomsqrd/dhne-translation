@@ -903,7 +903,7 @@ src/items.lua:4310		Shattered!	Zerbrochen!
 src/items.lua:4325		Four Cell	Viererzelle	what is this? visual
 src/items.lua:4328		If you would bust, each unrolled 4 gives a 20% chance to cancel it	Jede bereits geworfene 4 hat eine 20% Chance, einen BUST zu verhindern	unrolled templating here
 src/items.lua:4355		Candle	Kerze	
-src/items.lua:4356		1 in 2 chance to turn instant wipe into a single Bust.	1 in 2 Chance, einen Instant Wipe in einen einzelnen Bust zu verwandeln.	
+src/items.lua:4356		1 in 2 chance to turn instant wipe into a single Bust.	1 in 2 Chance, einen Instant Wipe in einen einzelnen Bust zu verwandeln	
 src/items.lua:4367		oof	uff	
 src/items.lua:4379		Reduced!	Reduziert!	
 src/items.lua:4391		Anis Star	Sternanis	
@@ -958,170 +958,170 @@ src/items.lua:5029		Halfs the mult	Halbiert Multi
 src/items.lua:5044 (+1 others)		Bad Momentum	Schlechtes Momentum	Fun name? Morgenmuffel? Slow Start?
 src/items.lua:5045 (+1 others)		-1 Momentum	-1 Momentum	
 src/items.lua:5061 (+1 others)		-2 Momentum	-2 Momentum	
-src/items.lua:5077		6s and 4s to 1s		
-src/items.lua:5078		6s and 4s always reroll into 1s		
-src/items.lua:5108		6s to 1s		
-src/items.lua:5109		6s always reroll into 1s		
-src/items.lua:5140		Minus Max Bust		
-src/items.lua:5141		Max Bust -1.		
-src/items.lua:5158		Turn Down Power Up		
-src/items.lua:5159		Turn Limit -1, Power Limit +2		
-src/items.lua:5184 (+1 others)		Cursed Score		
-src/items.lua:5190 (+1 others)		Feels bad for you		
-src/items.lua:5191		Each time you score, 1 random die takes damage		
-src/items.lua:5208 (+1 others)		cursed!		
-src/items.lua:5220		Each time you score, 2 random dice takes damage		
-src/items.lua:5247		Small Minded		
-src/items.lua:5248		Combos above 4 dice give no score		
-src/items.lua:5286		Bad Threes		
-src/items.lua:5287		-3 Mult per scored 3		
-src/items.lua:5304		Bad Fours		
-src/items.lua:5305		-4 Mult per scored 4		
-src/items.lua:5322		Bad Sixes		
-src/items.lua:5323		-6 Mult per scored 6		
-src/items.lua:5341		Pair Aversion		
-src/items.lua:5342		Combos containing a Pair -3 Mult		
-src/items.lua:5362		Triple Trouble		
-src/items.lua:5363		Combos containing Three Of A Kind -4 Mult		
-src/items.lua:5387		No Four Kind		
-src/items.lua:5388		Four Of A Kind gives no score		
-src/items.lua:5413		No Full House		
-src/items.lua:5414		Full House gives no score		
-src/items.lua:5440		No Bonanza		
-src/items.lua:5441		Star Bonanza gives no score		
-src/items.lua:5467		Slippery 6s		
-src/items.lua:5468		Auto-reroll dice that show a 6		
+src/items.lua:5077		6s and 4s to 1s	6er und 4er zu 1er	something more fun?
+src/items.lua:5078		6s and 4s always reroll into 1s	6er und 4er landen bei Neuwurf immer auf 1	
+src/items.lua:5108		6s to 1s	6er zu 1er	
+src/items.lua:5109		6s always reroll into 1s	6er landen bei Neuwurf immer auf 1	
+src/items.lua:5140		Minus Max Bust	Minus Max Bust	something more fun?
+src/items.lua:5141		Max Bust -1.	-1 Bust-Limit	
+src/items.lua:5158		Turn Down Power Up	Zug Hoch Power Runter	
+src/items.lua:5159		Turn Limit -1, Power Limit +2	-1 Zug-Limit, +2 Power Limit	
+src/items.lua:5184 (+1 others)		Cursed Score	Verfluchte Punkte	
+src/items.lua:5190 (+1 others)		Feels bad for you	Fühlt sich schlecht an	
+src/items.lua:5191		Each time you score, 1 random die takes damage	Bei jeder Wertung nimmt 1 zufälliger Würfel Schaden	
+src/items.lua:5208 (+1 others)		cursed!	verflucht!	
+src/items.lua:5220		Each time you score, 2 random dice takes damage	Bei jeder Wertung nehmen 2 zufällige Würfel Schaden	
+src/items.lua:5247		Small Minded	Kleinkariert	
+src/items.lua:5248		Combos above 4 dice give no score	Combos mit mehr als 4 Würfeln werten keine Punkte	
+src/items.lua:5286		Bad Threes	Schlechte Dreier	is this too sexual
+src/items.lua:5287		-3 Mult per scored 3	-3 Multi pro gewerteter 3	
+src/items.lua:5304		Bad Fours	Schlechte Vierer	
+src/items.lua:5305		-4 Mult per scored 4	-4 Multi pro gewerteter 4	
+src/items.lua:5322		Bad Sixes	Schlechte Sechser	
+src/items.lua:5323		-6 Mult per scored 6	-6 Multi pro gewerteter 6	
+src/items.lua:5341		Pair Aversion	Paar Abneigung	Paarungs Angst? Commiutment issues?
+src/items.lua:5342		Combos containing a Pair -3 Mult	-3 Multi für Combos mit einem Paar	
+src/items.lua:5362		Triple Trouble	Dreiecks-Drama	fun but maybe too far removed
+src/items.lua:5363		Combos containing Three Of A Kind -4 Mult	-4 Multi für Combos mit einem Drilling	
+src/items.lua:5387		No Four Kind	Keine Vierlinge	four of a kind so maybe differnt word here
+src/items.lua:5388		Four Of A Kind gives no score	Vierlinge werten keine Punkte	
+src/items.lua:5413		No Full House	Kein Full House	Leeres Haus?
+src/items.lua:5414		Full House gives no score	Full House wertet keine Punkte	
+src/items.lua:5440		No Bonanza	Keine Bonanza	Ruhestörung? Was ist eine Bonanza lol
+src/items.lua:5441		Star Bonanza gives no score	Sternbonanza wertet keine Punkte	
+src/items.lua:5467		Slippery 6s	Scheue Sechser	slippery to shy?
+src/items.lua:5468		Auto-reroll dice that show a 6	Würfel, die auf 6 landen, werden automatisch neu geworfen	
 src/items.lua:5487		Dice randomly reroll on their own.		
-src/items.lua:5577		Slippery Threes		
-src/items.lua:5578		Auto-reroll dice that show a 3, score 33 Points for each		
-src/items.lua:5599 (+4 others)		Bad Tooth		
-src/items.lua:5628		-1 Dice Space		
-src/items.lua:5689 (+12 others)		Dues		
-src/items.lua:5690		Rerolls all dice and coins.\n5% chance to activate on dice rolls.		
-src/items.lua:5711		Rerolled!		
-src/items.lua:5717		Rerolls a single random coin.\n5% chance to activate on dice rolls.		
-src/items.lua:5739		Coin rerolled!		
-src/items.lua:5745		All dice roll 1s.\n5% chance to activate on dice rolls.		
-src/items.lua:5772		Deal 4 damage spread randomly across dice.\n5% chance to activate on dice rolls.		
-src/items.lua:5789 (+1 others)		No dice!		
-src/items.lua:5798		Cursed!		
-src/items.lua:5805		Deal 1 damage to all dice.\n5% chance to activate on dice rolls.		
-src/items.lua:5829		Damaged!		
-src/items.lua:5835		Deal 2 damage to the selected die.\n5% chance to activate on dice rolls.		
-src/items.lua:5857 (+4 others)		Select 1 die		
-src/items.lua:5867		Add a Bust side to the selected die.\n5% chance to activate on dice rolls.		
-src/items.lua:5900 (+2 others)		No free side		
-src/items.lua:5911		Destroy the selected die.\n5% chance to activate on dice rolls.		
-src/items.lua:5943		Add a Cracked side to the selected die.\n5% chance to activate on dice rolls.		
-src/items.lua:5987		Add a Doom side to the selected die.\n5% chance to activate on dice rolls.		
-src/items.lua:6031		+1 Bust.\n5% chance to activate on dice rolls.		
-src/items.lua:6047		+1 Bust		
-src/items.lua:6058		+3 Bust.\n5% chance to activate on dice rolls.		
-src/items.lua:6074		+3 Bust		
-src/items.lua:6085		-1 Turn.\n5% chance to activate on dice rolls.		
-src/items.lua:6102		-1 Turn		
-src/items.lua:6115		Fish Bucket		
-src/items.lua:6116		+15 §		
-src/items.lua:6125		No fish power!		
-src/items.lua:6135		+15 Fish!		
-src/items.lua:6140		Fish Offering		
-src/items.lua:6141		-10§, -5% difficulty		
-src/items.lua:6150		Need 10 fish!		
-src/items.lua:6157		-5% difficulty!		
-src/items.lua:6162		Option Call		
-src/items.lua:6163		-20 §, +5¥		
-src/items.lua:6172		Need 20 fish!		
-src/items.lua:6182		+5¥!		
-src/items.lua:6188		Pump		
-src/items.lua:6189		+10 § price at the next market		
-src/items.lua:6199		Price pumped!		
-src/items.lua:6204		Dump		
-src/items.lua:6205		-10 § price at the next market		
-src/items.lua:6215		Price dumped!		
-src/items.lua:6222		Roe		
-src/items.lua:6223		+3 § at the start of each level		
-src/items.lua:6237		+3 §!		
-src/items.lua:6244		Whale Oil		
-src/items.lua:6245		+1 Points per § on score		
-src/items.lua:6259		Carp Aspic		
-src/items.lua:6260		+1 Mult per 5 § spent this level		
-src/items.lua:6268		+${MULT} Mult, +1 per 5 § spent this level		
-src/items.lua:6291		Piranha		
-src/items.lua:6292		+5 Mult.\nEats 10 § at the start of each level.\nIf you can't feed it, it eats a die instead.		
-src/items.lua:6303		-10 §!		
-src/items.lua:6313		Ate a die!		
-src/items.lua:6315		Hungry!		
-src/items.lua:6325		Barnacle		
-src/items.lua:6326		+1 § per 10 § held at the start of each level		
-src/items.lua:6341		+ ${interest} §!		
-src/items.lua:6349		Ball Gag		
-src/items.lua:6350		Dice pip becomes 1		
-src/items.lua:6368		Peanut		
-src/items.lua:6369		Dice pip becomes 2		
-src/items.lua:6387		Wood Sorrel		
-src/items.lua:6388		Dice pip becomes 3		
-src/items.lua:6406		Picture Frame		
-src/items.lua:6407		Dice pip becomes 4		
-src/items.lua:6425		Paper Star		
-src/items.lua:6426		Dice pip becomes 5		
-src/items.lua:6444		Honeycomb		
-src/items.lua:6445		Dice pip becomes 6		
-src/items.lua:6464		Scrambled Eggs		
-src/items.lua:6465		Dice pip becomes ???		
-src/items.lua:6485		${points}!		
-src/items.lua:6492		Maths Test		
-src/items.lua:6495		Spawn 0-6 random numeracy foods		
-src/items.lua:6501		take test		
-src/items.lua:6525		Result: $grade / $total		
-src/items.lua:6536		Clown Shoes		
-src/items.lua:6539		Nudge all dice either -1 or +3 pips		
-src/items.lua:6548 (+1 others)		roll dice first		
-src/items.lua:6566		Bamboozle		
-src/items.lua:6569		Nudge all dice individually between +0 and +2 pips.		
+src/items.lua:5577		Slippery Threes	Scheuer Dreier	
+src/items.lua:5578		Auto-reroll dice that show a 3, score 33 Points for each	Würfel, die auf 3 landen, werden automatisch neu geworfen	
+src/items.lua:5599 (+4 others)		Bad Tooth	Schlechter Zahn	nur schlecht? faulig?
+src/items.lua:5628		-1 Dice Space	-1 Würfel Platz	what's this? Like the limit of dice?
+src/items.lua:5689 (+12 others)		Dues	Fällige Rechnungen	is that what this is?
+src/items.lua:5690		Rerolls all dice and coins.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf alle Würfel und Münzen neu zu werfen	
+src/items.lua:5711		Rerolled!	Neu geworfen!	
+src/items.lua:5717		Rerolls a single random coin.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf eine einzelne Münze neu zu werfen	
+src/items.lua:5739		Coin rerolled!	Münze neu geworfen!	
+src/items.lua:5745		All dice roll 1s.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf alle Würfel auf 1 landen	
+src/items.lua:5772		Deal 4 damage spread randomly across dice.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf 4 Schaden auf zufällige Würfel verteilt wird	
+src/items.lua:5789 (+1 others)		No dice!	Keine Würfel!	
+src/items.lua:5798		Cursed!	Verflucht!	
+src/items.lua:5805		Deal 1 damage to all dice.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf alle Würfel 1 Schaden nehmen	
+src/items.lua:5829		Damaged!	Beschädigt!	
+src/items.lua:5835		Deal 2 damage to the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl 2 Schaden nimmt	
+src/items.lua:5857 (+4 others)		Select 1 die	Wähle 1 Würfel	
+src/items.lua:5867		Add a Bust side to the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl eine Bust-Seite bekommt	
+src/items.lua:5900 (+2 others)		No free side	Keine freie Seite	
+src/items.lua:5911		Destroy the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl zerstört wird	
+src/items.lua:5943		Add a Cracked side to the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl eine Brüchig-Seite bekommt	
+src/items.lua:5987		Add a Doom side to the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl eine Unheil-Seite bekommt	
+src/items.lua:6031		+1 Bust.\n5% chance to activate on dice rolls.	5% Chance, dass du bei Würfelwurf +1 Bust bekommst	
+src/items.lua:6047		+1 Bust	+1 Bust	
+src/items.lua:6058		+3 Bust.\n5% chance to activate on dice rolls.	5% Chance, dass du bei Würfelwurf +3 Bust bekommst	
+src/items.lua:6074		+3 Bust	+3 Bust	
+src/items.lua:6085		-1 Turn.\n5% chance to activate on dice rolls.	5% Chance, dass du bei Würfelwurf -1 Zug bekommst	
+src/items.lua:6102		-1 Turn	-1 Zug	
+src/items.lua:6115		Fish Bucket	Fischeimer	Angeleimer?
+src/items.lua:6116		+15 §	+15 §	
+src/items.lua:6125		No fish power!	Keine Fisch-Power!	
+src/items.lua:6135		+15 Fish!	+15 Fische!	
+src/items.lua:6140		Fish Offering	Fisch-Angebot	
+src/items.lua:6141		-10§, -5% difficulty	-10 §, -5% Schwierigkeit	
+src/items.lua:6150		Need 10 fish!	Braucht 10 Fische!	
+src/items.lua:6157		-5% difficulty!	-5% Schwierigkeit!	
+src/items.lua:6162		Option Call	Kaufoption	
+src/items.lua:6163		-20 §, +5¥	-20 §, +5¥	
+src/items.lua:6172		Need 20 fish!	Braucht 20 Fische!	
+src/items.lua:6182		+5¥!	+5¥!	
+src/items.lua:6188		Pump	Pump	
+src/items.lua:6189		+10 § price at the next market	+10 §-Preis beim nächsten Markt	
+src/items.lua:6199		Price pumped!	Preis gepumpt!	
+src/items.lua:6204		Dump	Dump	
+src/items.lua:6205		-10 § price at the next market	-10 §-Preis beim nächsten Markt	
+src/items.lua:6215		Price dumped!	Preis gedumpt!	
+src/items.lua:6222		Roe	Rogen	
+src/items.lua:6223		+3 § at the start of each level	+3 § am Anfang jedes Levels	
+src/items.lua:6237		+3 §!	+3 §!	
+src/items.lua:6244		Whale Oil	Waltran	Blubbertran?
+src/items.lua:6245		+1 Points per § on score	+1 Punkt pro § bei Wertung	
+src/items.lua:6259		Carp Aspic	Karpfen In Aspik	
+src/items.lua:6260		+1 Mult per 5 § spent this level	+1 Multi pro 5 § die in diesem Level ausgegeben wurden	
+src/items.lua:6268		+${MULT} Mult, +1 per 5 § spent this level	+${MULT} Multi, +1 pro 5 § die in diesem Level ausgegeben wurden	
+src/items.lua:6291		Piranha	Piranha	
+src/items.lua:6292		+5 Mult.\nEats 10 § at the start of each level.\nIf you can't feed it, it eats a die instead.	+5 Multi.\nFrisst 10 § am Anfang jedes Levels.\nHast du nicht genug §, frisst er stattdessen einen Würfel.	
+src/items.lua:6303		-10 §!	-10 §!	
+src/items.lua:6313		Ate a die!	Fraß einen Würfel!	
+src/items.lua:6315		Hungry!	Hungrig!	
+src/items.lua:6325		Barnacle	Seepocken	Singular?
+src/items.lua:6326		+1 § per 10 § held at the start of each level	+1 § pro 10 § am Anfang jedes Levels	
+src/items.lua:6341		+ ${interest} §!	+ ${interest} §!	
+src/items.lua:6349		Ball Gag	Ballknebel	
+src/items.lua:6350		Dice pip becomes 1	Würfelauge wird 1	
+src/items.lua:6368		Peanut	Erdnuss	
+src/items.lua:6369		Dice pip becomes 2	Würfelauge wird 2	
+src/items.lua:6387		Wood Sorrel	Sauerklee	
+src/items.lua:6388		Dice pip becomes 3	Würfelauge wird 3	
+src/items.lua:6406		Picture Frame	Bilderrahmen	
+src/items.lua:6407		Dice pip becomes 4	Würfelauge wird 4	
+src/items.lua:6425		Paper Star	Papierstern	Fröbelstern?
+src/items.lua:6426		Dice pip becomes 5	Würfelauge wird 5	
+src/items.lua:6444		Honeycomb	Bienenwabe	
+src/items.lua:6445		Dice pip becomes 6	Würfelauge wird 6	
+src/items.lua:6464		Scrambled Eggs	Rührei	
+src/items.lua:6465		Dice pip becomes ???	Würfelauge wird ???	
+src/items.lua:6485		${points}!	${points}!	
+src/items.lua:6492		Maths Test	Mathetest	
+src/items.lua:6495		Spawn 0-6 random numeracy foods	Erzeuge 0-6 zufällige Rechnen-Snacks	foods?
+src/items.lua:6501		take test	test schreiben	take? right is schreiben right
+src/items.lua:6525		Result: $grade / $total	Ergebnis: $grade / $total	
+src/items.lua:6536		Clown Shoes	Clown-Schuhe	
+src/items.lua:6539		Nudge all dice either -1 or +3 pips	Kippe alle Würfel entweder -1 oder +3 Augen	WürfelaugeN?
+src/items.lua:6548 (+1 others)		roll dice first	keine geworfenen würfel	
+src/items.lua:6566		Bamboozle	Verwirrung	something funnier?
+src/items.lua:6569		Nudge all dice individually between +0 and +2 pips.	Kippe jeden Würfel einzeln von +0 bis +2 Augen	
 src/powers.lua:7		Stuck Debust	Klebrig-Debust	
-src/powers.lua:8		Add Stuck to the selected die's current face. -1 Bust.		
-src/powers.lua:30		Hard Reset		
-src/powers.lua:31		Lock one selected die, -1 Bust.		
-src/powers.lua:51		Ghost Trade		
-src/powers.lua:52		Lock one selected die. Spawn 2 ghost dice.		
-src/powers.lua:75		Tell The Future		
-src/powers.lua:76		Block 2 sides from being rolled on the selected die next roll.		
-src/powers.lua:104		Nudge Skip		
-src/powers.lua:105		+1 pip to the selected die, skipping values already showing.		
-src/powers.lua:139		Nudge Up	Hoch Kippen	kippen?
-src/powers.lua:140		+1 pip to the selected die		
-src/powers.lua:160		Flip		
-src/powers.lua:161		Flip the selected die to its opposite face.		
-src/powers.lua:181		Smite		
-src/powers.lua:182		Sacrifice selected die, +3 ¥		
-src/powers.lua:213		Pip Pip		
-src/powers.lua:214		Set the second selected die to the same pip value as the first.		
-src/powers.lua:235		Ghost Clone		
-src/powers.lua:236		Spawn a ghost copy of the selected die.		
-src/powers.lua:284		Reroll		
-src/powers.lua:285		Reroll all selected dice. 1s can't be rolled.		
-src/powers.lua:304		Roll over		
-src/powers.lua:305		Reroll two selected dice to their next lower value.		
-src/powers.lua:312 (+3 others)		item		
-src/powers.lua:328		Mystery Die		
-src/powers.lua:329		Spawn a random die.		
-src/powers.lua:352		Gain a Bust Shield.		
-src/powers.lua:369		Ghost Bust		
-src/powers.lua:370		Gain an extra blue Bust for this turn.		
-src/powers.lua:385		Fishy Deal		
-src/powers.lua:386		-1 Bust, +1 ¥. Bump difficulty.		
-src/powers.lua:405		Level Skip		
-src/powers.lua:406		Skip a level. Spawns a random die.		
-src/powers.lua:434		Fishy Loan		
-src/powers.lua:435		+100 Points, +1 ¥. Take on debt.		
-src/powers.lua:476		${s} ${bites}/${total}		
-src/powers.lua:485		Nibble		
-src/powers.lua:486		${nibble}% chance to take a proper bite\nRegain 1 bust.${die}		
-src/powers.lua:488		You might be finished		
-src/powers.lua:493		Munch		
-src/powers.lua:494		Take a big bite to regain all busts.		
-src/powers.lua:578		Reincarnate		
-src/powers.lua:579		Selected die is reborn		
+src/powers.lua:8		Add Stuck to the selected die's current face. -1 Bust.	-1 Bust. Die gezeigte Seite des gewälten Würfels wird Klebrig.	
+src/powers.lua:30		Hard Reset	Hard-Reset	german word? something smarter? what does it have to do with effect
+src/powers.lua:31		Lock one selected die, -1 Bust.	-1 Bust. Sperre den gewählten Würfel.	"is it ""of your choice"" or just one of the selected ones? den gewählten würfel?"
+src/powers.lua:51		Ghost Trade	Geisterhandel	trade? ;) 
+src/powers.lua:52		Lock one selected die. Spawn 2 ghost dice.	Erzeuge 2 Geisterwürfel. Sperre den gewählten Würfel.	
+src/powers.lua:75		Tell The Future	Wahrsagerei	Or a person?
+src/powers.lua:76		Block 2 sides from being rolled on the selected die next roll.	Verhindere 2 Seiten für den nächsten Wurf.	
+src/powers.lua:104		Nudge Skip	Skip-Kippen	
+src/powers.lua:105		+1 pip to the selected die, skipping values already showing.	Kippt den gewählten Würfel +1 Auge. Überspringt dabei Augenzahlen, welche andere Würfel zeigen	this is clunky
+src/powers.lua:139		Nudge Up	Hoch Kippen	
+src/powers.lua:140		+1 pip to the selected die	Kippt den gewählten Würfel +1 Auge.	
+src/powers.lua:160		Flip	Umdrehen	
+src/powers.lua:161		Flip the selected die to its opposite face.	Dreht den gewählten Würfel auf die gegenüberliegende Seite.	
+src/powers.lua:181		Smite	Opfergabe	this is not smite but we dont have this
+src/powers.lua:182		Sacrifice selected die, +3 ¥	Opfert den gewählten Würfel für +3¥.	
+src/powers.lua:213		Pip Pip	Auge Auge	There has to be smth, staring contest?
+src/powers.lua:214		Set the second selected die to the same pip value as the first.	Setzt den zweiten gewählten Würfel auf den Augenwert des ersten.	setzt? kippt?
+src/powers.lua:235		Ghost Clone	Geist-Klon	better
+src/powers.lua:236		Spawn a ghost copy of the selected die.	Erzeugt eine Geist-Kopie des gewählten Würfels.	
+src/powers.lua:284		Reroll	Neuwurf	
+src/powers.lua:285		Reroll all selected dice. 1s can't be rolled.	Wirft alle gewählten Würfel neu. Die Würfel können nicht auf 1 landen.	
+src/powers.lua:304		Roll over	Zurückrollen	
+src/powers.lua:305		Reroll two selected dice to their next lower value.	Wirft zwei gewählte Würfel auf ihren nächsten niedrigeren Augenwert.	"""reroll""? clunky long?"
+src/powers.lua:312 (+3 others)		item	item	
+src/powers.lua:328		Mystery Die	Rätselwürfel	
+src/powers.lua:329		Spawn a random die.	Erzeugt einen zufälligen Würfel.	
+src/powers.lua:352		Gain a Bust Shield.	Erzeugt ein Bust-Schild. 	"only one that says ""gain"" instead of ""creates"", what do?"
+src/powers.lua:369		Ghost Bust	Geist-Bust	
+src/powers.lua:370		Gain an extra blue Bust for this turn.	Erzeugt einen extra blauen Bust für diesen Zug.	"""extra"" superfluous?"
+src/powers.lua:385		Fishy Deal	Fauler Deal	"""fishy"" gets lost, is this a fish power?"
+src/powers.lua:386		-1 Bust, +1 ¥. Bump difficulty.	-1 Bust, +1¥. Erhöht die Schwierigkeit.	
+src/powers.lua:405		Level Skip	Level Überspringen	
+src/powers.lua:406		Skip a level. Spawns a random die.	Überspringt ein Level. Erzeugt einen zufälligen Würfel.	
+src/powers.lua:434		Fishy Loan	Fauler Kredit	"""fishy"" gets lost, is this a fish power?"
+src/powers.lua:435		+100 Points, +1 ¥. Take on debt.	+100 Punkte, +1¥. Nimm Schulden auf.	
+src/powers.lua:476		${s} ${bites}/${total}	${s} ${bites}/${total}	
+src/powers.lua:485		Nibble	Knabbern	
+src/powers.lua:486		${nibble}% chance to take a proper bite\nRegain 1 bust.${die}	${nibble}% Chance, einen ganzen Bissen zu nehmen.\nFüllt 1 Bust auf.${die}	what does die at the end do?
+src/powers.lua:488		You might be finished	Das könnte es für dich gewesen sein	finished as in dead or good finished?
+src/powers.lua:493		Munch	Mampf	
+src/powers.lua:494		Take a big bite to regain all busts.	Nimm einen großen Bissen um alle Busts aufzufüllen.	
+src/powers.lua:578		Reincarnate	Wiedergeburt	
+src/powers.lua:579		Selected die is reborn	Der gewählte Würfel wird wiedergeboren.	
 src/screen_overlay.lua:59 (+41 others)	ui	all	alle	context? alles?
 src/states/catalogue.lua:49 (+5 others)		< back	< zurück	
 src/states/catalogue.lua:85 (+4 others)		dawn mode	tagmodus	"dämmerung? ohne ""modus""?"
@@ -1220,7 +1220,7 @@ src/states/game.lua:530		you must have some points to bank	du kannst ohne punkte
 src/states/game.lua:631		momentum: 	momentum:	
 src/states/game.lua:634		adds extra 	fügt extra	ONE TEXT?
 src/states/game.lua:634		points and mult	punkte und multi hinzu	ONE TEXT?
-src/states/game.lua:819		Losing all Busts ends the turn.\nBusts refill at the start of each Turn	Alle BUSTs zu verlieren beendet deinen Zug.\nBUSTs werden beim Start eines Zuges wieder aufgefüllt.	
+src/states/game.lua:819		Losing all Busts ends the turn.\nBusts refill at the start of each Turn	Alle BUSTs zu verlieren beendet deinen Zug.\nBUSTs werden am Anfang eines Zuges wieder aufgefüllt.	
 src/states/game.lua:823		Blocks up to 	Blockiert bis zu	
 src/states/game.lua:823		busts, disappears when damaged	BUSTs, verschwindet wenn beschädigt	clunky
 src/states/game.lua:842		ALL BUST BLOCKED	ALLE BUSTS GEBLOCKT	
@@ -1232,7 +1232,7 @@ src/states/game.lua:914
 src/states/game.lua:914		bank stars after each nightmare level or win the run to secure them	zahle sterne in die BANK nach einem albtraum-level oder gewinne den run um sie zu sichern	
 src/states/game.lua:984		praying...	betet...	betend?
 src/states/game.lua:984		pray	bete	
-src/states/game.lua:1062		Losing all Turns ends the game.\nTurns refill at the start of each level.	Alle Züge zu verlieren beendet das Spiel.\nZüge werden beim Start eines Levels wieder aufgefüllt.	
+src/states/game.lua:1062		Losing all Turns ends the game.\nTurns refill at the start of each level.	Alle Züge zu verlieren beendet das Spiel.\nZüge werden am Anfang jedes Levels wieder aufgefüllt.	
 src/states/game.lua:1302 (+1 others)		MERGED	VERSCHMOLZEN	
 src/states/game.lua:1355 (+12 others)		active	aktiv	
 src/states/game.lua:1481		Solo	Solo	
