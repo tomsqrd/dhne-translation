@@ -263,7 +263,7 @@ src/endings/liz.lua:132	dialogue	eventually	irgendwann
 src/endings/marooned.lua:75	dialogue	i am your salvation	ich bin deine erlösung
 src/endings/marooned.lua:76	dialogue	you are not drowning	jetzt ertrinkst du
 src/endings/party.lua:130	dialogue	You finished the Shallows!	Du hast Seichte Gewässer beendet!
-src/endings/party.lua:131	dialogue	Unlock the next Depth from Star Guts for a bigger challenge.	Schalte die nächste Tiefe aus den Sterngeweiden frei für eine größere Herausforderung.
+src/endings/party.lua:131	dialogue	Unlock the next Depth from Star Guts for a bigger challenge.	Schalte die nächste Tiefe aus den Sternereien frei für eine größere Herausforderung.
 src/endings/tooth_fairy.lua:129	dialogue	so the tooth fairy smokes now	die zahnfee raucht also jetzt
 src/endings/tooth_fairy.lua:130	dialogue	i knew it	ich wusste es
 src/endings/tooth_fairy.lua:132	dialogue	i know everything	ich weiß alles
@@ -1277,8 +1277,8 @@ src/states/intro_greed.lua:64		talent	Talent
 src/states/intro_greed.lua:65		patience	Geduld
 src/states/intro_greed.lua:66		fate	Schicksal
 src/states/intro_greed.lua:67		destiny	Bestimmung
-src/states/intro_greed.lua:79		Roll to gain Stars.	Würfel um Sterne zu bekommen.
-src/states/intro_greed.lua:80		Roll 1 to lose Stars.	Würfel 1 um Sterne zu verlieren.
+src/states/intro_greed.lua:79		Roll to gain Stars.	Wirf den Würfel, um Sterne zu bekommen.
+src/states/intro_greed.lua:80		Roll 1 to lose Stars.	Wirf eine 1, um Sterne zu verlieren.
 src/states/intro_greed.lua:103		This is a game about ${reason}.	Dieses Spiel dreht sich um ${reason}.
 src/states/intro_greed.lua:145		bank and start	banken und starten
 src/states/intro_greed.lua:145		pass and start	passen und starten
@@ -1320,7 +1320,7 @@ src/states/scoreboard.lua:200		busts	busts
 src/states/scoreboard.lua:204		your bust rate	deine bust-rate
 src/states/scoreboard.lua:208		expected	erwartet
 src/states/scoreboard.lua:212		player average	spieler-durschnitt
-src/states/scoreboard.lua:217		Guts Completion	Geweiden-Fortschritt
+src/states/scoreboard.lua:217		Guts Completion	Sternereien-Fortschritt
 src/states/scoreboard.lua:227		runs played	runs gespielt
 src/states/scoreboard.lua:231		runs won	runs gewonnen
 src/states/scoreboard.lua:235		achievements	erfolge
@@ -1341,20 +1341,20 @@ src/states/title.lua:161 (+5 others)	dialogue	you will see, very soon	du wirst e
 src/states/title.lua:215		GAMEPAD WARNING: support is still pretty rough - report bugs on steam or discord <3	WARNUNG FÜR CONTROLLER: noch wenig unterstützt - melde bugs auf steam oder discord <3
 src/states/title.lua:224 (+1 others)		the world you grew up in no longer exists	die welt in der du aufgewachsen bist existiert nicht mehr
 src/states/title.lua:234		Play	Spielen
-src/states/title.lua:238		feeling lucky?	hast du Glück?
+src/states/title.lua:238		feeling lucky?	glück im spiel...
 src/states/title.lua:257 (+1 others)		Tutorial	Tutorial
-src/states/title.lua:264 (+1 others)		learn to play	lern das spiel
-src/states/title.lua:268		Star Guts	Sterngeweide
-src/states/title.lua:272		unlock stuff	schalt dinge frei
-src/states/title.lua:336 (+1 others)		game setup	setup des spiels
-src/states/title.lua:345 (+1 others)		bye?	tschau?
-src/states/title.lua:413		brighten up	bring licht in die sache
-src/states/title.lua:414		rest your eyes	schone deine augen
-src/states/title.lua:425		community chat	chat mit der community
+src/states/title.lua:264 (+1 others)		learn to play	spielen lernen
+src/states/title.lua:268		Star Guts	Sternereien
+src/states/title.lua:272		unlock stuff	zeug freischalten
+src/states/title.lua:336 (+1 others)		game setup	konfigurieren
+src/states/title.lua:345 (+1 others)		bye?	bye?
+src/states/title.lua:413		brighten up	licht reinlassen
+src/states/title.lua:414		rest your eyes	die augen schonen
+src/states/title.lua:425		community chat	community chat
 src/states/title.lua:430		feedback and updates	feedback und updates
 src/states/title.lua:433 (+1 others)		ost	soundtrack
 src/states/title.lua:434		coming soon	kommt bald
-src/states/unlock.lua:79		representations are still solidifying - physical form is meaningless - you're imagining it	darstellungen noch schwammig - form is bedeutungslos - du bildest es dir ein
+src/states/unlock.lua:79		representations are still solidifying - physical form is meaningless - you're imagining it	darstellungen noch schwammig - form ist bedeutungslos - du bildest es dir ein
 src/states/unlock.lua:93		Upgrades	Upgrades
 src/states/unlock.lua:94		buy upgrades with ¤	kauf upgrades mit ¤
 src/states/unlock.lua:112		you have to do something to unlock this :)	du musst etwas tun um dies freizuschalten :)
