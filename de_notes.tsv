@@ -600,7 +600,7 @@ src/items.lua:1533		Finger	Finger
 src/items.lua:1534		Puke a special effect out	Kotze einen Seiten-Effekt aus	
 src/items.lua:1558		Emetique (TM)	Emetique (TM)	
 src/items.lua:1559		Puke all special effects out	Kotze alle Seiten-Effekte aus	
-src/items.lua:1599		Pig Run	Schwein-Run	visual? anything better like Glücksschwein?
+src/items.lua:1599		Pig Run	Schweine Run	visual? anything better like Glücksschwein?
 src/items.lua:1602		Pig sides score +${dynamic} points, +5 per pig rerolled this turn. Resets each turn.	Schwein-Seiten werten +${dynamic} Punkte, +5 pro Schwein das in diesem Zug neu geworfen wurde. Setzt sich jeden Zug zurück.	
 src/items.lua:1626		pig bonus +${amount}!	schwein bonus +{amount}!	
 src/items.lua:1631		Thurible	Räucherfass	confirm visual what it is, weihrauch weihrauchfass censer ziborium
@@ -728,7 +728,7 @@ src/items.lua:2836		+2 Mult for Pair, Two Pair and Three Pair	+2 Multi für Paar
 src/items.lua:2853		Threes Gobber	Dreiäugiger Gobber	
 src/items.lua:2856		+100 Points for a hand containing Three Of A Kind	+100 Punkte für eine Hand mit einem Dreierpasch	
 src/items.lua:2889		Gay Moth	Queere Motte	just gay? in german queer is more inclusive
-src/items.lua:2892		+60 Points for rerolling a 6	+60 Punkte, wenn eine 6 verworfen wird	
+src/items.lua:2892		+60 Points for rerolling a 6	+60 Punkte, wenn eine 6 neu geworfen wird	
 src/items.lua:2911		Mini Goob	Mini Goob	what is this, visual conf
 src/items.lua:2914		+0.1 Mult per die rolled	+0,1 Multi pro geworfenem Würfel	
 src/items.lua:2929		Faster	Schneller	
@@ -737,9 +737,9 @@ src/items.lua:2940 (+1 others)		+1 momentum	+1 momentum
 src/items.lua:2945		Spite	Bosheit	
 src/items.lua:2948		On Bust, gain +1 Momentum	+1 Momentum, wenn ein Bust geworfen wird	
 src/items.lua:2963		Shortbread Biscuit	Butterkeks	
-src/items.lua:2966		+100 Points for rerolling a single die	+100 Punkte, wenn ein einzelner Würfel verworfen wird	
+src/items.lua:2966		+100 Points for rerolling a single die	+100 Punkte, wenn ein einzelner Würfel neu geworfen wird	
 src/items.lua:3024		Banksia	Banksie	
-src/items.lua:3027		Rerolling a Pair recharges Power	Power lädt auf, wenn ein Paar verworfen wird	lädt auf oder nach? wie viele power pips?
+src/items.lua:3027		Rerolling a Pair recharges Power	Power lädt auf, wenn ein Paar neu geworfen wird	lädt auf oder nach? wie viele power pips?
 src/items.lua:3039 (+4 others)		Power Recharged	Power Aufgeladen	
 src/items.lua:3046		Lycheye	Litschi	eye pun lost? visual
 src/items.lua:3047		Two Pair recharges Power	Power lädt auf, wenn Zwei Paare gewertet wird	What does the pair have to do? Be rolled or scored?
@@ -748,7 +748,7 @@ src/items.lua:3069		Scoring a Full House recharges Power	Power lädt auf, wenn e
 src/items.lua:3086		Full Send	Gib Ihm	
 src/items.lua:3089		Rerolling 5 or more dice recharges Power	Power lädt auf, wenn 5 oder mehr Würfel neu geworfen werden	
 src/items.lua:3106		God Give Me Strength	Gott Gib Mir Kraft	
-src/items.lua:3109		Rerolling a single die recharges Power	Power lädt auf, wenn ein einzelner Würfel verworfen wird	
+src/items.lua:3109		Rerolling a single die recharges Power	Power lädt auf, wenn ein einzelner Würfel neu geworfen wird	
 src/items.lua:3130		High Roller	Hochwurf	German word? Something Kniffel?
 src/items.lua:3133		+1 Mult for each 6 scored	+1 Multi für jede gewertete 6	
 src/items.lua:3148		Low Ball	Flachwurf	This duos if i keep Hochwurf, is it even fine
@@ -796,7 +796,7 @@ src/items.lua:3718		Rerolling a combo upgrades it permanently. Fades with use.	E
 src/items.lua:3722		On Roll	Bei Wurf	whats this?
 src/items.lua:3743		${combo} Upgraded	${combo} Verbessert	
 src/items.lua:3756		Gouda	Gouda	
-src/items.lua:3759		Rerolling a Three Of A Kind gives 2¥	+2¥, wenn ein Dreierpasch verworfen wird	
+src/items.lua:3759		Rerolling a Three Of A Kind gives 2¥	+2¥, wenn ein Dreierpasch neu geworfen wird	
 src/items.lua:3781		Pearl	Perle	
 src/items.lua:3784		+1¥ for every two scored 1s	+1¥ je zwei gewerteten 1ern	better?
 src/items.lua:3807		Queen's Jug	Königinnenkrug	
@@ -811,11 +811,11 @@ src/items.lua:3881		Pig Points x2	Schweine-Punkte x2
 src/items.lua:3896		Piglet	Schweinchen	
 src/items.lua:3899		+3 Mult for rerolling 3 or more Pig sides	+3 Multi, wenn 3 oder mehr Schwein-Seiten neu geworfen werden	
 src/items.lua:3918		Chew Toy	Kauspielzeug	
-src/items.lua:3921		1 in 6 chance to spawn a coin when rerolling a Pig side	1 in 6 Chance, eine Münze zu erzeugen, wenn eine Schwein-Seite verworfen wird	
+src/items.lua:3921		1 in 6 chance to spawn a coin when rerolling a Pig side	1 in 6 Chance, eine Münze zu erzeugen, wenn eine Schwein-Seite neu geworfen wird	
 src/items.lua:3976		Paw	Pfote	
-src/items.lua:3979		Rolling a single die adds +2 Mult	+2 Multi, wenn ein einzelner Würfel verworfen wird	
+src/items.lua:3979		Rolling a single die adds +2 Mult	+2 Multi, wenn ein einzelner Würfel neu geworfen wird	
 src/items.lua:3992		Incel	Incel	
-src/items.lua:3995		Rerolling a hand containing a Pair gives +100 Points and +1 Mult	+100 Punkte und +1 Multi wenn eine Hand mit einem Paar verworfen wird	
+src/items.lua:3995		Rerolling a hand containing a Pair gives +100 Points and +1 Mult	+100 Punkte und +1 Multi wenn eine Hand mit einem Paar neu geworfen wird	
 src/items.lua:4022		Ghost Carriage	Geisterkutsche	confirm visual for this. FE?
 src/items.lua:4025		Scoring a Full House spawns a ghost die	Erzeugt einen Geisterwürfel, wenn ein Full House gewertet wird	
 src/items.lua:4039 (+5 others)		Ghost!	Geist!	
@@ -828,7 +828,7 @@ src/items.lua:4094		Roll exactly 1 die - if it's a 2, +1¥	+1¥, wenn ein einzel
 src/items.lua:4115		Mult Biscuit	Multi-Keks	Are these consumables? Snacks? check them out in game, differnt templating
 src/items.lua:4118		Roll exactly 1 die - if it's a 3 or 4, +1 Mult	+1 Multi, wenn ein einzelner Würfel geworden wird und auf 3 oder 4 landet	
 src/items.lua:4136		Flask Of Ghost	Geisterflasche	Flask? Flaschengeist? Already exists right
-src/items.lua:4139		Rerolling a hand that contains a Three Of A Kind creates 2 ghost dice	Erzeugt 2 Geisterwürfel, wenn eine Hand mit einem Dreierpasch verworfen wird	
+src/items.lua:4139		Rerolling a hand that contains a Three Of A Kind creates 2 ghost dice	Erzeugt 2 Geisterwürfel, wenn eine Hand mit einem Dreierpasch neu geworfen wird	
 src/items.lua:4161		Bone	Knochen	
 src/items.lua:4164		Hands containing a ghost die score +100 Points	+100 Punkte für eine Hand mit einem Geisterwürfel	
 src/items.lua:4182		Razor	Rasierer	Rasierklinge?
