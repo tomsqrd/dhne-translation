@@ -10,7 +10,7 @@ src/board_unlocks.lua:17		the real game begins	das spiel beginnt
 src/board_unlocks.lua:27		something smells fishy	irgendwas riecht nach fisch
 src/boards/easy.lua:2		Shallows	Seichte Gewässer
 src/boards/easy.lua:3		Chill Vibes.\nShort run, extra bust limit, capped rewards.	Chillige Vibes.\nKurzer Run, höheres Bust-Limit, Sterne gedeckelt
-src/boards/easy.lua:4		the friendliest pond around	der freundlichste teich in der nachbarschaft
+src/boards/easy.lua:4		the friendliest pond around	der freundlichste teich\nin der nachbarschaft
 src/boards/fish_board.lua:2		The Bay	Die Bucht
 src/boards/fish_board.lua:3		Smells Fishy	Riecht Nach Fisch
 src/boards/fish_board.lua:4		come for the fish, stay for the fish	komm für die fische, bleib für die fische
@@ -26,17 +26,17 @@ src/character_unlocks.lua:10		never born but alive	nie geboren aber lebendig
 src/character_unlocks.lua:21		tries her best	gibt ihr bestes
 src/character_unlocks.lua:31		likes watching you bust	busts, busts, wir brauchen busts
 src/character_unlocks.lua:42		just a dude	nur so ein typ
-src/character_unlocks.lua:53		gets away with it	kommt damit davon
+src/character_unlocks.lua:53		gets away with it	einfach bezaubernd
 src/character_unlocks.lua:63		god stronger warrior	gottes stärkster krieger
-src/character_unlocks.lua:74		woof	wuff
-src/character_unlocks.lua:84 (+1 others)	dialogue	woof?	wuff?
+src/character_unlocks.lua:74		woof	wau
+src/character_unlocks.lua:84 (+1 others)	dialogue	woof?	wau?
 src/character_unlocks.lua:95		he's so cool	er ist so cool
 src/character_unlocks.lua:105		slimy	schleimig
 src/character_unlocks.lua:115		she's doing well for herself	sie lässt es sich gut gehen
 src/character_unlocks.lua:120		Plasticine	Knetmasse
 src/character_unlocks.lua:121		like putty in your hands\ncharacter customisation option	wie wachs in deinen händen\ncharakteranpassungen
 src/character_unlocks.lua:133		Bets	Wetten
-src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward	setze ¤ ein um schwierigkeit und belohnung zu steigern
+src/character_unlocks.lua:134		bet ¤ to increase difficulty and reward	setze ¤ um schwierigkeit und belohnung zu steigern
 src/character_unlocks.lua:145		Soul Wager	Seelen-Wette
 src/character_unlocks.lua:146		bet your save file for the ultimate reward	setze deinen spielstand für den ultimativen preis
 src/characters/anais.lua:2		Anais	Anais
@@ -125,7 +125,7 @@ src/characters/mushroom.lua:2		Srop M.	Srop M.
 src/characters/saimi.lua:2		Saimi	Saimi
 src/characters/saimi.lua:31 (+2 others)	dialogue	Moi	Moi
 src/characters/saimi.lua:32	dialogue	Get past level ${count}, and you're free.	Komm an Level ${count} vorbei und du bist frei.
-src/characters/shirin.lua:2		Shirin	Shirin.
+src/characters/shirin.lua:2		Shirin	Shirin
 src/characters/shirin.lua:49 (+1 others)	dialogue	Oh. You’re mine now.	Oh. Jetzt gehörst du mir.
 src/characters/shirin.lua:50	dialogue	I’ll let you go if you reach level 7.	Ich lass dich los, wenn du Level 7 erreichst.
 src/characters/shirin.lua:53	dialogue	I’ll let you go if you reach level 10.	Ich lass dich los, wenn du Level 10 erreichst.
@@ -424,8 +424,8 @@ src/item_unlocks.lua:362		Special Side Effects in shops!\nSkip, Mirror, Hardy an
 src/item_unlocks.lua:373		Fish Trinkets	Fisch-Glücksbringer
 src/item_unlocks.lua:374		from the sea	unten im meer
 src/item_unlocks.lua:382		Sardine Magic	Sardinenmagie
-src/item_unlocks.lua:383		abracadabra	abrakadabra
-src/item_unlocks.lua:390		Bans	Verbannung
+src/item_unlocks.lua:383		abracadabra	abrakoidabra simsalaschwimm
+src/item_unlocks.lua:390		Bans	Exil
 src/item_unlocks.lua:391		ban item sets from your runs	verbanne items aus deinen runs
 src/item_unlocks.lua:402 (+1 others)		Scoreboards	Scoreboards
 src/item_unlocks.lua:403 (+1 others)		be the goat	sei besser als der rest
@@ -648,13 +648,13 @@ src/items.lua:2072		+5 Mult for your first scored hand each turn	+5 Multi für d
 src/items.lua:2093		Octopus Ting	Oktopus Ting
 src/items.lua:2096		x3 Mult for your first scored hand each level	x3 Multi für die erste Wertung pro Level
 src/items.lua:2121		Four Legged Star	Vierbeiniger Stern
-src/items.lua:2124		+300 Points for a hand containing Four Of A Kind	+300 Punkte für eine Hand mit einem Vierling
+src/items.lua:2124		+300 Points for a hand containing Four Of A Kind	+300 Punkte für eine Hand mit einem Viererpasch
 src/items.lua:2142		Minnesota Fats	Minnesota Fats
 src/items.lua:2145		+200 Points for any Straight	+200 Punkte für jegliche Straße
 src/items.lua:2158		Bimber	Bimber
 src/items.lua:2161		+200 Points for a Full House	+200 Punkte für ein Full House
 src/items.lua:2175		Kind Berry Three	Die Drei Beeren
-src/items.lua:2178		+200 Points for Three Of A Kind	+200 Punkte für einen Drilling
+src/items.lua:2178		+200 Points for Three Of A Kind	+200 Punkte für einen Dreierpasch
 src/items.lua:2192		Two Pair Cat	Zwei-Paar-Katze
 src/items.lua:2195		+200 Points for a hand containing Two Pair	+200 Punkte für eine Hand mit zwei Paaren
 src/items.lua:2209		Just A Pair	Nur Ein Paar
@@ -666,13 +666,13 @@ src/items.lua:2256		x2 Mult if the scored dice sum to 10	x2 Multi wenn die gewer
 src/items.lua:2275		Lil' Choy	Lil' Choy
 src/items.lua:2278		x2 Mult when scoring 3 or fewer dice	x2 Multi wenn 3 oder weniger Würfel gewertet werden
 src/items.lua:2296		Toad Hut	Krötenhütte
-src/items.lua:2299		x2 Mult for a hand containing Four Of A Kind	x2 Multi für eine Hand mit einem Vierling
+src/items.lua:2299		x2 Mult for a hand containing Four Of A Kind	x2 Multi für eine Hand mit einem Viererpasch
 src/items.lua:2320		Pink Top	Pinkes Top
 src/items.lua:2323		x2 Mult for any Straight	x2 Multi für jegliche Straße
 src/items.lua:2338		Absinthe	Absinth
 src/items.lua:2341		x2 Mult for a Full House	x2 Multi für ein Full House
 src/items.lua:2356		Three Legged Pirate	Dreibeiniger Pirat
-src/items.lua:2359		x2 Mult for Three Of A Kind	x2 Multi für einen Drilling
+src/items.lua:2359		x2 Mult for Three Of A Kind	x2 Multi für einen Dreierpasch
 src/items.lua:2375 (+1 others)		Two Pair Mult Cat	Zwei-Paar-Multi-Katze
 src/items.lua:2378		x1.5 Mult for a hand containing Two Pair	x1,5 Multi für eine Hand mit zwei Paaren
 src/items.lua:2394		Pair Mult Dog	Paar-Multi-Hund
@@ -719,14 +719,14 @@ src/items.lua:2739		+50 Points per trinket on board	+50 Punkte pro Glücksbringe
 src/items.lua:2756		Double Down	Einsatz Verdoppeln
 src/items.lua:2759		Flipping a single coin x2 Mult	x2 Multi wenn eine einzelne Münze geworfen wird
 src/items.lua:2784		Just An Anxious Guy	Nur Ein Besorgter Typ
-src/items.lua:2787		+4 Mult for Four Of A Kind	+4 Multi für einen Vierling
+src/items.lua:2787		+4 Mult for Four Of A Kind	+4 Multi für einen Viererpasch
 src/items.lua:2801		Double Three Blibber	Doppel Dreier Blubber
-src/items.lua:2804		+3 Mult for Three Of A Kind	+3 Multi für einen Drilling
+src/items.lua:2804		+3 Mult for Three Of A Kind	+3 Multi für einen Dreierpasch
 src/items.lua:2820		+4 Mult for Two Pair	+4 Multi für Zwei Paare
 src/items.lua:2833		Pair Cat	Paarkatze
 src/items.lua:2836		+2 Mult for Pair, Two Pair and Three Pair	+2 Multi für Paar, Zwei Paare und Drei Paare
 src/items.lua:2853		Threes Gobber	Dreier Gobber
-src/items.lua:2856		+100 Points for a hand containing Three Of A Kind	+100 Punkte für eine Hand mit einem Drilling
+src/items.lua:2856		+100 Points for a hand containing Three Of A Kind	+100 Punkte für eine Hand mit einem Dreierpasch
 src/items.lua:2889		Gay Moth	Queere Motte
 src/items.lua:2892		+60 Points for rerolling a 6	+60 Punkte, wenn eine 6 neu geworfen wird
 src/items.lua:2911		Mini Goob	Mini Goob
@@ -788,7 +788,7 @@ src/items.lua:3516		Each Power side scored gives +2 Mult	Jede gewertete Power-Se
 src/items.lua:3553		Rowan	Eberesche
 src/items.lua:3556		+5 Mult if the hand contains at least three 1s	+5 Multi, wenn die Hand mindestens drei 1er beinhaltet
 src/items.lua:3680		House Stamp	Haus-Briefmarke
-src/items.lua:3683		Rerolling a Three Of A Kind permanently upgrades Full House. Fades with use.	Einen Drilling neu werfen verbessert Full House für den Run. Verblasst nach Benutzung.
+src/items.lua:3683		Rerolling a Three Of A Kind permanently upgrades Full House. Fades with use.	Einen Dreierpasch neu werfen verbessert Full House für den Run. Verblasst nach Benutzung.
 src/items.lua:3698 (+1 others)		Faded	Verblasst
 src/items.lua:3707		Full House Upgraded	Full House Verbessert
 src/items.lua:3715		Stamp	Briefmarke
@@ -796,7 +796,7 @@ src/items.lua:3718		Rerolling a combo upgrades it permanently. Fades with use.	E
 src/items.lua:3722		On Roll	Bei Wurf
 src/items.lua:3743		${combo} Upgraded	${combo} Verbessert
 src/items.lua:3756		Gouda	Gouda
-src/items.lua:3759		Rerolling a Three Of A Kind gives 2¥	+2¥, wenn ein Drilling neu geworfen wird
+src/items.lua:3759		Rerolling a Three Of A Kind gives 2¥	+2¥, wenn ein Dreierpasch neu geworfen wird
 src/items.lua:3781		Pearl	Perle
 src/items.lua:3784		+1¥ for every two scored 1s	+1¥ je zwei gewerteten 1ern
 src/items.lua:3807		Queen's Jug	Damenkrug
@@ -828,7 +828,7 @@ src/items.lua:4094		Roll exactly 1 die - if it's a 2, +1¥	+1¥, wenn ein einzel
 src/items.lua:4115		Mult Biscuit	Multi-Keks
 src/items.lua:4118		Roll exactly 1 die - if it's a 3 or 4, +1 Mult	+1 Multi, wenn ein einzelner Würfel geworden wird und auf 3 oder 4 landet
 src/items.lua:4136		Flask Of Ghost	Geisterflasche
-src/items.lua:4139		Rerolling a hand that contains a Three Of A Kind creates 2 ghost dice	Erzeugt 2 Geisterwürfel, wenn eine Hand mit einem Drilling neu geworfen wird
+src/items.lua:4139		Rerolling a hand that contains a Three Of A Kind creates 2 ghost dice	Erzeugt 2 Geisterwürfel, wenn eine Hand mit einem Dreierpasch neu geworfen wird
 src/items.lua:4161		Bone	Knochen
 src/items.lua:4164		Hands containing a ghost die score +100 Points	+100 Punkte für eine Hand mit einem Geisterwürfel
 src/items.lua:4182		Razor	Rasierer
@@ -922,9 +922,9 @@ src/items.lua:5296		-6 Mult per scored 6	-6 Multi pro gewerteter 6
 src/items.lua:5314		Pair Aversion	Paar Abneigung
 src/items.lua:5315		Combos containing a Pair -3 Mult	-3 Multi für Combos mit einem Paar
 src/items.lua:5335		Triple Trouble	Dreiecks-Drama
-src/items.lua:5336		Combos containing Three Of A Kind -4 Mult	-4 Multi für Combos mit einem Drilling
-src/items.lua:5360		No Four Kind	Keine Vierlinge
-src/items.lua:5361		Four Of A Kind gives no score	Vierlinge werten keine Punkte
+src/items.lua:5336		Combos containing Three Of A Kind -4 Mult	-4 Multi für Combos mit einem Dreierpasch
+src/items.lua:5360		No Four Kind	Keine Viererpasche
+src/items.lua:5361		Four Of A Kind gives no score	Viererpasche werten keine Punkte
 src/items.lua:5386		No Full House	Kein Full House
 src/items.lua:5387		Full House gives no score	Full House wertet keine Punkte
 src/items.lua:5413		No Bonanza	Keine Bonanza
@@ -1054,8 +1054,8 @@ src/powers.lua:480		Take a big bite to regain all busts.	Nimm einen großen Biss
 src/powers.lua:564		Reincarnate	Wiedergeburt
 src/powers.lua:565		Selected die is reborn	Der gewählte Würfel wird wiedergeboren.
 src/states/catalogue.lua:49 (+5 others)		< back	< zurück
-src/states/catalogue.lua:85 (+5 others)		dawn mode	tagmodus
-src/states/catalogue.lua:85 (+5 others)		night mode	nachtmodus
+src/states/catalogue.lua:85 (+5 others)		dawn mode	dämmerung
+src/states/catalogue.lua:85 (+5 others)		night mode	mitternacht
 src/states/credits.lua:43		Created by	Ein Spiel von
 src/states/credits.lua:49		Translation	Übersetzung
 src/states/credits.lua:56		Special Thanks	Besonderer Dank an
@@ -1280,8 +1280,8 @@ src/states/intro_greed.lua:67		destiny	Bestimmung
 src/states/intro_greed.lua:79		Roll to gain Stars.	Wirf den Würfel, um Sterne zu bekommen.
 src/states/intro_greed.lua:80		Roll 1 to lose Stars.	Wirf eine 1, um Sterne zu verlieren.
 src/states/intro_greed.lua:103		This is a game about ${reason}.	Dieses Spiel dreht sich um ${reason}.
-src/states/intro_greed.lua:145		bank and start	banken und starten
-src/states/intro_greed.lua:145		pass and start	passen und starten
+src/states/intro_greed.lua:145		bank and start	sichern und spiel starten
+src/states/intro_greed.lua:145		pass and start	passen und spiel starten
 src/states/options.lua:86		Build ID: ${id}	Build ID: ${id}
 src/states/options.lua:333		audio	audio
 src/states/options.lua:337		master	gesamt
@@ -1356,7 +1356,7 @@ src/states/title.lua:433 (+1 others)		ost	soundtrack
 src/states/title.lua:434		coming soon	kommt bald
 src/states/unlock.lua:79		representations are still solidifying - physical form is meaningless - you're imagining it	darstellungen noch schwammig - form ist bedeutungslos - du bildest es dir ein
 src/states/unlock.lua:93		Upgrades	Upgrades
-src/states/unlock.lua:94		buy upgrades with ¤	kauf upgrades mit ¤
+src/states/unlock.lua:94		buy upgrades with ¤	freischalten mit ¤
 src/states/unlock.lua:112		you have to do something to unlock this :)	du musst etwas tun um dies freizuschalten :)
 src/states/unlock.lua:114		coming in a future update <3	kommt in einem zukünftigen update <3
 src/states/unlock.lua:117		only available in the full game <3	gibt's nur in der vollversion <3
@@ -1416,5 +1416,5 @@ src/ui/level_map.lua:168	ui	Final nightmare level	Letztes Albtraum-Level
 src/ui/level_map.lua:171	ui	Final level	Letztes Level
 src/ui/level_map.lua:174	ui	Nightmare level	Albtraum-Level
 src/ui/level_map.lua:181		- ${points} pts	- ${points} pkt
-src/ui/state_tabs.lua:5 (+2 others)	ui	unlock	freischallten
+src/ui/state_tabs.lua:5 (+2 others)	ui	unlock	freischalten
 src/ui/tooltip.lua:82	ui	tip	tipp
