@@ -633,9 +633,9 @@ src/items.lua:1902		+1 Mult per die scored	+1 Multi pro gewertetem Würfel
 src/items.lua:1918		Powered Claw	Kraftklaue	
 src/items.lua:1921		+5 Mult, uses 1 Power	+5 Multi, benutzt 1 Power	
 src/items.lua:1936		POY SIAN	POY SIAN	
-src/items.lua:1939		+40 Points for each unrolled 4	+40 Punkte bei Wurf für jeden Würfel, der bereits 4 zeigt	is this correct? confirm, better templating - geworfener 4?
+src/items.lua:1939		+40 Points for each unrolled 4	+40 Punkte beim Wurf für jeden Würfel, der bereits 4 zeigt	is this correct? confirm, better templating - geworfener 4?
 src/items.lua:1957		Hold The Ones	Einser Halten	hold the x, drinking metaphor? but it wants the ones
-src/items.lua:1960		+1 Mult for each unrolled 1	+1 Multi bei Wurf für jeden Würfel, der bereits 1 zeigt	
+src/items.lua:1960		+1 Mult for each unrolled 1	+1 Multi beim Wurf für jeden Würfel, der bereits 1 zeigt	
 src/items.lua:1981		Zero Bust Turbo	Null-Bust-Turbo	Zero Dark Thirty?
 src/items.lua:1984		Banking with no Busts starts next turn with 10 Momentum	Ohne Busts In die Bank einzuzahlen startet den nächsten Zug mit 10 Momentum	
 src/items.lua:1999		10 momentum!	10 momentum!	
@@ -644,41 +644,41 @@ src/items.lua:2009		Gain a Bust Shield when banking if last hand was any Straigh
 src/items.lua:2035		Survival Instinct	Überlebensinstinkt	
 src/items.lua:2038		x2 Mult on 1 turn left	x2 Multi wenn nur noch 1 Zug übrig ist	
 src/items.lua:2069		Mandarin Peel	Mandarinenschale	
-src/items.lua:2072		+5 Mult for your first scored hand each turn		
-src/items.lua:2093		Octopus Ting		what is this? misspelled?
+src/items.lua:2072		+5 Mult for your first scored hand each turn	+5 Multi für die erste Wertung pro Zug	
+src/items.lua:2093		Octopus Ting	Oktopus Ting	what is this? misspelled?
 src/items.lua:2096		x3 Mult for your first scored hand each level	x3 Multi für die erste Wertung pro Level	
 src/items.lua:2121		Four Legged Star	Vierbeiniger Stern	
-src/items.lua:2124		+300 Points for a hand containing Four Of A Kind		Is this different to Three Of A Kind?
+src/items.lua:2124		+300 Points for a hand containing Four Of A Kind	+300 Punkte für eine Hand mit einem Vierling	
 src/items.lua:2142		Minnesota Fats	Minnesota Fats	Rudolf Wanderone? lmao
-src/items.lua:2145		+200 Points for any Straight		
+src/items.lua:2145		+200 Points for any Straight	+200 Punkte für jegliche Straße	
 src/items.lua:2158		Bimber	Bimber	Polish Moonshine - Keep OG name
-src/items.lua:2161		+200 Points for a Full House		
+src/items.lua:2161		+200 Points for a Full House	+200 Punkte für ein Full House	
 src/items.lua:2175		Kind Berry Three	Die Drei Beeren	context? Just three berries? bear pun?
-src/items.lua:2178		+200 Points for Three Of A Kind		
+src/items.lua:2178		+200 Points for Three Of A Kind	+200 Punkte für einen Drilling	
 src/items.lua:2192		Two Pair Cat	Zwei-Paar-Katze	visual confirmation, different name maybe?
-src/items.lua:2195		+200 Points for a hand containing Two Pair		
-src/items.lua:2209		Just A Pair	Nur Ein Paar	
-src/items.lua:2212		+100 Points for a Pair		
-src/items.lua:2230		Fifteen Sum		
+src/items.lua:2195		+200 Points for a hand containing Two Pair	+200 Punkte für eine Hand mit zwei Paaren	
+src/items.lua:2209		Just A Pair	Nur Ein Paar	pärchen?
+src/items.lua:2212		+100 Points for a Pair	+100 Punkte für ein Paar	
+src/items.lua:2230		Fifteen Sum	Summe Fünfzehn	what is this visually?
 src/items.lua:2233		x3 Mult if the scored dice sum to 15	x3 Multi wenn die gewerteten Würfel in Summe 15 Augen zeigen	
 src/items.lua:2253		Sumush	Sumush	
 src/items.lua:2256		x2 Mult if the scored dice sum to 10	x2 Multi wenn die gewerteten Würfel in Summe 10 Augen zeigen	
 src/items.lua:2275		Lil' Choy	Lil' Choy	
 src/items.lua:2278		x2 Mult when scoring 3 or fewer dice	x2 Multi wenn 3 oder weniger Würfel gewertet werden	
 src/items.lua:2296		Toad Hut	Krötenhütte	Hut? Hütte?
-src/items.lua:2299		x2 Mult for a hand containing Four Of A Kind		
+src/items.lua:2299		x2 Mult for a hand containing Four Of A Kind	x2 Multi für eine Hand mit einem Vierling	
 src/items.lua:2320		Pink Top	Pinkes Top	Clothing?
 src/items.lua:2323		x2 Mult for any Straight	x2 Multi für jegliche Straße	
 src/items.lua:2338		Absinthe	Absinth	
-src/items.lua:2341		x2 Mult for a Full House		
+src/items.lua:2341		x2 Mult for a Full House	x2 Multi für ein Full House	
 src/items.lua:2356		Three Legged Pirate	Dreibeiniger Pirat	
 src/items.lua:2359		x2 Mult for Three Of A Kind	x2 Multi für einen Drilling	
 src/items.lua:2375 (+1 others)		Two Pair Mult Cat	Zwei-Paar-Multi-Katze	
-src/items.lua:2378		x1.5 Mult for a hand containing Two Pair		
+src/items.lua:2378		x1.5 Mult for a hand containing Two Pair	x1,5 Multi für eine Hand mit zwei Paaren	
 src/items.lua:2394		Pair Mult Dog	Paar-Multi-Hund	
 src/items.lua:2397		x1.5 Mult for Pair, Two Pair and Three Pair	x1,5 Multi für Paar, Zwei Paare und Drei Paare	
 src/items.lua:2414		Poppy	Mohnblume	
-src/items.lua:2417		x2 Mult for a hand containing three 6s		
+src/items.lua:2417		x2 Mult for a hand containing three 6s	x2 Multi für eine Hand mit drei 6ern	
 src/items.lua:2433		Sunnies	Sonnenbrille	
 src/items.lua:2436		+0.5x Mult for each scored 2	+0,5 pro gewertetem Würfel x Multi	0,5 pro gewerteter 2, x Multi
 src/items.lua:2454		Cactus	Kaktus	
@@ -698,7 +698,7 @@ src/items.lua:2561		Snake Eyes hold hand	Behält die Hand, wenn zwei 1 gewertet 
 src/items.lua:2578		The Mask	Die Maske	
 src/items.lua:2581		Hands with 6s hold hand	Behält die Hand, wenn eine 6 gewertet wird	what is this hold?
 src/items.lua:2599		Black Eye	Das Schwarze Auge	
-src/items.lua:2602		Spawn a Black Eyed Pea on Bust		
+src/items.lua:2602		Spawn a Black Eyed Pea on Bust	Erzeugt eine Schwarzaugebohne, wenn ein Bust geworfen wird	"""WEnn ein Bust geworfen wird"" einfach zu ""bei Bust""?"
 src/items.lua:2610		Pea!	Bohne!	technically Erbse but this is about the black eyed pea i think
 src/items.lua:2616		Pain Tolerance	Schmerztoleranz	
 src/items.lua:2619		+1 Mult on Bust	+1 Multi, wenn ein Bust geworfen wird	
@@ -708,7 +708,7 @@ src/items.lua:2645		x2 Mult	x2 Multi
 src/items.lua:2651		Palosanto	Palo Santo	confirm visuals
 src/items.lua:2654		If hand Mult is over 10: +5 Mult	+5 Multi, wenn Hand-Multi höher als 10 ist	what is the hand mult??
 src/items.lua:2667		Chestnut	Kastanie	
-src/items.lua:2670		+50 Points when any item triggers		
+src/items.lua:2670		+50 Points when any item triggers	+50 Punkte wenn ein anderes Item triggert	
 src/items.lua:2683		Dolphin	Delphin	
 src/items.lua:2686		Spawns a random snack each level	Erzeugt jedes Level einen zufälligen Snack	
 src/items.lua:2710 (+1 others)		Snack!	Snack!	
@@ -726,11 +726,11 @@ src/items.lua:2820		+4 Mult for Two Pair	+4 Multi für Zwei Paare
 src/items.lua:2833		Pair Cat	Paarkatze	"maybe make like a ""x-haarkatze"" pun here"
 src/items.lua:2836		+2 Mult for Pair, Two Pair and Three Pair	+2 Multi für Paar, Zwei Paare und Drei Paare	
 src/items.lua:2853		Threes Gobber	Dreier Gobber	visual conf
-src/items.lua:2856		+100 Points for a hand containing Three Of A Kind		
+src/items.lua:2856		+100 Points for a hand containing Three Of A Kind	+100 Punkte für eine Hand mit einem Drilling	
 src/items.lua:2889		Gay Moth	Queere Motte	just gay? in german queer is more inclusive
 src/items.lua:2892		+60 Points for rerolling a 6	+60 Punkte, wenn eine 6 neu geworfen wird	
 src/items.lua:2911		Mini Goob	Mini Goob	what is this, visual conf
-src/items.lua:2914		+0.1 Mult per die rolled		
+src/items.lua:2914		+0.1 Mult per die rolled	+0,1 Multi pro geworfenem Würfel	
 src/items.lua:2929		Faster	Schneller	
 src/items.lua:2932		+1 Momentum	+1 Momentum	
 src/items.lua:2940 (+1 others)		+1 momentum	+1 momentum	
@@ -746,7 +746,7 @@ src/items.lua:3047		Two Pair recharges Power	Power lädt auf, wenn Zwei Paare ge
 src/items.lua:3066		Bump Jug	Beulenfass	VISUAL CONFIRMATION
 src/items.lua:3069		Scoring a Full House recharges Power	Power lädt auf, wenn ein Full House gewertet wird	
 src/items.lua:3086		Full Send	Gib Ihm	
-src/items.lua:3089		Rerolling 5 or more dice recharges Power		
+src/items.lua:3089		Rerolling 5 or more dice recharges Power	Power lädt auf, wenn 5 oder mehr Würfel neu geworfen werden	
 src/items.lua:3106		God Give Me Strength	Gott Gib Mir Kraft	
 src/items.lua:3109		Rerolling a single die recharges Power	Power lädt auf, wenn ein einzelner Würfel neu geworfen wird	
 src/items.lua:3130		High Roller	Hochwurf	German word? Something Kniffel?
@@ -762,12 +762,12 @@ src/items.lua:3216		+2 Mult for each scored 5	+2 Multi für jede gewertete 5
 src/items.lua:3231		Antler	Geweih	
 src/items.lua:3234		+2 Mult for each scored 2	+2 Multi für jede gewertete 2	
 src/items.lua:3249		Evil Eye	Der Böse Blick	
-src/items.lua:3252		+1 Mult for each scored 1		
+src/items.lua:3252		+1 Mult for each scored 1	+1 Multi für jede gewertete 1	
 src/items.lua:3267		Lil Buddy	Kleiner Kumpel	
 src/items.lua:3270		+60 Points for each scored 6	+60 Punkte für jede gewertete 6	
-src/items.lua:3285		Eagle's Claw		
+src/items.lua:3285		Eagle's Claw	Adlerklaue	
 src/items.lua:3288		+100 Points for each scored 1	+100 Punkte für jede gewertete 1	
-src/items.lua:3303		Fast Glasses	Schelle Brille	visual conf?
+src/items.lua:3303		Fast Glasses	Schelle Brille	
 src/items.lua:3306		+100 Points for each scored 2	+100 Punkte für jede gewertete 2	
 src/items.lua:3321		Shard	Scherbe	Splitter?
 src/items.lua:3324		+1 Mult for each scored 3	+1 Multi für jede gewertete 3	
@@ -799,7 +799,7 @@ src/items.lua:3756		Gouda	Gouda
 src/items.lua:3759		Rerolling a Three Of A Kind gives 2¥	+2¥, wenn ein Drilling neu geworfen wird	
 src/items.lua:3781		Pearl	Perle	
 src/items.lua:3784		+1¥ for every two scored 1s	+1¥ je zwei gewerteten 1ern	better?
-src/items.lua:3807		Queen's Jug		jug?
+src/items.lua:3807		Queen's Jug	Damenkrug	jug?
 src/items.lua:3810		+1¥ for a Full House	+1¥ für ein Full House	
 src/items.lua:3827		Star Biscuit	Zimtstern	does it work?
 src/items.lua:3830		Rolling 2+ dice while at 1 Bust gives 2¥	+2¥, wenn 2+ Würfel geworfen werden und nur 1 Bust übrig ist	
@@ -815,8 +815,8 @@ src/items.lua:3921		1 in 6 chance to spawn a coin when rerolling a Pig side	1 in
 src/items.lua:3976		Paw	Pfote	
 src/items.lua:3979		Rolling a single die adds +2 Mult	+2 Multi, wenn ein einzelner Würfel neu geworfen wird	
 src/items.lua:3992		Incel	Incel	
-src/items.lua:3995		Rerolling a hand containing a Pair gives +100 Points and +1 Mult		
-src/items.lua:4022		Ghost Carriage		confirm visual for this. FE?
+src/items.lua:3995		Rerolling a hand containing a Pair gives +100 Points and +1 Mult	+100 Punkte und +1 Multi wenn eine Hand mit einem Paar neu geworfen wird	
+src/items.lua:4022		Ghost Carriage	Geisterkutsche	confirm visual for this. FE?
 src/items.lua:4025		Scoring a Full House spawns a ghost die	Erzeugt einen Geisterwürfel, wenn ein Full House gewertet wird	
 src/items.lua:4039 (+5 others)		Ghost!	Geist!	
 src/items.lua:4045		Ghostanza	Geistanza	
@@ -830,11 +830,11 @@ src/items.lua:4118		Roll exactly 1 die - if it's a 3 or 4, +1 Mult	+1 Multi, wen
 src/items.lua:4136		Flask Of Ghost	Geisterflasche	Flask? Flaschengeist? Already exists right
 src/items.lua:4139		Rerolling a hand that contains a Three Of A Kind creates 2 ghost dice	Erzeugt 2 Geisterwürfel, wenn eine Hand mit einem Drilling neu geworfen wird	
 src/items.lua:4161		Bone	Knochen	
-src/items.lua:4164		Hands containing a ghost die score +100 Points		
+src/items.lua:4164		Hands containing a ghost die score +100 Points	+100 Punkte für eine Hand mit einem Geisterwürfel	
 src/items.lua:4182		Razor	Rasierer	Rasierklinge?
 src/items.lua:4185		1 in 3 chance to spawn a ghost die on Bust	1 in 3 Chance, einen Geisterwürfel zu erstellen, wenn ein Bust geworfen wird	
 src/items.lua:4208		Scared Straight	Geisterstraße	
-src/items.lua:4211		Scoring a Straight spawns a ghost die		"""playing""? scoring better? ""any"" street?"
+src/items.lua:4211		Scoring a Straight spawns a ghost die	Erzeugt einen Geisterwürfel, wenn eine Straße gewertet wird	
 src/items.lua:4234		Cell	Zelle	prison? body?
 src/items.lua:4237		Start each turn with a Bust Shield	Beginne jeden Zug mit einem Bust-Schild	
 src/items.lua:4248		shield!	schild!	
@@ -842,9 +842,9 @@ src/items.lua:4257		Jade Bracelet	Jade-Reif	bracelet as in armreif?
 src/items.lua:4260		3 in 4 chance to block an instant wipe.\n${dynamic} uses left.	3 in 4 Chance, einen Instant Wipe zu blockieren.\n${dynamic} übrig.	"was ist übrig? ""Uses""?"
 src/items.lua:4283		Shattered!	Zerbrochen!	
 src/items.lua:4298		Four Cell	Viererzelle	what is this? visual
-src/items.lua:4301		If you would bust, each unrolled 4 gives a 20% chance to cancel it	Jede bereits geworfene 4 hat eine 20% Chance, einen BUST zu verhindern	unrolled templating here
+src/items.lua:4301		If you would bust, each unrolled 4 gives a 20% chance to cancel it	Jede bereits geworfene 4 hat eine 20% Chance, einen Bust zu verhindern	unrolled templating here
 src/items.lua:4328		Candle	Kerze	
-src/items.lua:4329		1 in 2 chance to turn an instant wipe into a single Bust		
+src/items.lua:4329		1 in 2 chance to turn an instant wipe into a single Bust	1 in 2 Chance, einen Instant Wipe in einen einzelnen Bust zu verwandeln	
 src/items.lua:4340		oof	uff	
 src/items.lua:4352		Reduced!	Reduziert!	
 src/items.lua:4364		Anis Star	Sternanis	
@@ -892,9 +892,9 @@ src/items.lua:4958 (+1 others)		-3 Mult	-3 Multi
 src/items.lua:4971		Mult -5	Multi -5	
 src/items.lua:4972		-5 Mult	-5 Multi	
 src/items.lua:4985		Half Points	Halbe Punkte	
-src/items.lua:4986		Halves the Points		
+src/items.lua:4986		Halves the Points	Halbiert Punkte	
 src/items.lua:5001		Half Mult	Halbe Multi	
-src/items.lua:5002		Halves the Mult		
+src/items.lua:5002		Halves the Mult	Halbiert Multi	
 src/items.lua:5017 (+1 others)		Bad Momentum	Schlechtes Momentum	Fun name? Morgenmuffel? Slow Start?
 src/items.lua:5018 (+1 others)		-1 Momentum	-1 Momentum	
 src/items.lua:5034 (+1 others)		-2 Momentum	-2 Momentum	
@@ -903,7 +903,7 @@ src/items.lua:5051		6s and 4s always reroll into 1s	6er und 4er landen bei Neuwu
 src/items.lua:5081		6s to 1s	6er zu 1er	
 src/items.lua:5082		6s always reroll into 1s	6er landen bei Neuwurf immer auf 1	
 src/items.lua:5113		Minus Max Bust	Minus Max Bust	something more fun?
-src/items.lua:5114		Bust Limit -1		
+src/items.lua:5114		Bust Limit -1	-1 Bust-Limit	
 src/items.lua:5131		Turn Down Power Up	Zug Hoch Power Runter	
 src/items.lua:5132		Turn Limit -1, Power Limit +2	-1 Zug-Limit, +2 Power Limit	
 src/items.lua:5157 (+1 others)		Cursed Score	Verfluchte Punkte	
@@ -931,7 +931,7 @@ src/items.lua:5413		No Bonanza	Keine Bonanza	Ruhestörung? Was ist eine Bonanza 
 src/items.lua:5414		Star Bonanza gives no score	Sternbonanza wertet keine Punkte	
 src/items.lua:5440		Slippery 6s	Scheue Sechser	slippery to shy?
 src/items.lua:5441		Auto-reroll dice that show a 6	Würfel, die auf 6 landen, werden automatisch neu geworfen	
-src/items.lua:5459		Stupid Dice		
+src/items.lua:5459		Stupid Dice	Blöde Würfel	
 src/items.lua:5460		Dice randomly reroll on their own.	Würfel werfen sich zufällig neu.	randomly hier manchmal? ab und zuß
 src/items.lua:5550		Slippery Threes	Scheuer Dreier	
 src/items.lua:5551		Auto-reroll dice that show a 3, score 33 Points for each	Würfel, die auf 3 landen, werden automatisch neu geworfen	
@@ -950,11 +950,11 @@ src/items.lua:5778		Deal 1 damage to all dice.\n5% chance to activate on dice ro
 src/items.lua:5802		Damaged!	Beschädigt!	
 src/items.lua:5808		Deal 2 damage to the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl 2 Schaden nimmt	
 src/items.lua:5830 (+4 others)		Select 1 die	Wähle 1 Würfel	
-src/items.lua:5840		Add 1 Bust side to the selected die.\n5% chance to activate on dice rolls.		
+src/items.lua:5840		Add 1 Bust side to the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl 1 Bust-Seite bekommt	
 src/items.lua:5873 (+2 others)		No free side	Keine freie Seite	
 src/items.lua:5884		Destroy the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl zerstört wird	
-src/items.lua:5916		Add 1 Cracked side to the selected die.\n5% chance to activate on dice rolls.		
-src/items.lua:5960		Add 1 Doom side to the selected die.\n5% chance to activate on dice rolls.		
+src/items.lua:5916		Add 1 Cracked side to the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl 1 Brüchig-Seite bekommt	
+src/items.lua:5960		Add 1 Doom side to the selected die.\n5% chance to activate on dice rolls.	5% Chance, dass bei Würfelwurf ein Würfel deiner Wahl 1 Unheil-Seite bekommt	
 src/items.lua:6004		+1 Bust.\n5% chance to activate on dice rolls.	5% Chance, dass du bei Würfelwurf +1 Bust bekommst	
 src/items.lua:6020		+1 Bust	+1 Bust	
 src/items.lua:6031		+3 Bust.\n5% chance to activate on dice rolls.	5% Chance, dass du bei Würfelwurf +3 Bust bekommst	
@@ -965,7 +965,7 @@ src/items.lua:6088		Fish Bucket	Fischeimer	Angeleimer?
 src/items.lua:6098		No fish power!	Keine Fisch-Power!	
 src/items.lua:6108		+15 Fish!	+15 Fische!	
 src/items.lua:6113		Fish Offering	Fisch-Angebot	
-src/items.lua:6114		-10 §, -5% difficulty		
+src/items.lua:6114		-10 §, -5% difficulty	-10 §, -5% Schwierigkeit	
 src/items.lua:6123		Need 10 fish!	Braucht 10 Fische!	
 src/items.lua:6130		-5% difficulty!	-5% Schwierigkeit!	
 src/items.lua:6135		Option Call	Kaufoption	
@@ -1132,7 +1132,7 @@ src/states/game.lua:135		Cannot Restart Bet Runs	Kein Neustart Für Wetten
 src/states/game.lua:138		Restart	Neustart	
 src/states/game.lua:140		Restart the run from scratch\nand lose all gained stars?	Willst du den Run neu starten\nund alle gesammelten Sterne verlieren?	
 src/states/game.lua:146 (+3 others)		Options	Optionen	
-src/states/game.lua:151 (+2 others)		Quit	Hauptmenü	
+src/states/game.lua:151 (+2 others)		Quit	Beenden	
 src/states/game.lua:153		Quit to menu and lose all gained stars?	Willst du ins Hauptmenü zurückkehren\nund alle gesammelten Sterne verlieren?	
 src/states/game.lua:439		secure the points\nend the turn\nrecharge character power\nclear momentum	sichert die punkte\nbeendet den zug\nlädt charakter power auf\nsetzt momentum zurück	
 src/states/game.lua:510		BANK	BANK	
