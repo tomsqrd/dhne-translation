@@ -395,7 +395,7 @@ src/item_unlocks.lua:222		Degenerate	Degeneriert	yo be veeeery careful with this
 src/item_unlocks.lua:223		as luck would have it	wie es der zufall so will	
 src/item_unlocks.lua:232		Biscuit	Kekse	
 src/item_unlocks.lua:233		worth risking it for	verkrümel dich	
-src/item_unlocks.lua:241		Send It	Gib Ihm	
+src/item_unlocks.lua:241		Send It	Hau Raus	
 src/item_unlocks.lua:242		when in doubt go flat out	im zweifel vollgas	
 src/item_unlocks.lua:251 (+1 others)		Ghost	Geist	
 src/item_unlocks.lua:252		pretty spooky	ziemlich gruselig	
@@ -497,7 +497,7 @@ src/items.lua:613		Snack Bag	Fresstüte
 src/items.lua:616		Spawn 2-3 random snack items	Erzeugt 2-3 zufällige Snacks	
 src/items.lua:636		${amount} foods!	${amount} mal Essen!	kinda lame
 src/items.lua:641		Gambling Bag	Wundertüte	
-src/items.lua:644		Send it	Gib Ihm	is this really the only way lol
+src/items.lua:644		Send it	Hau raus	
 src/items.lua:665		${amount} chances!	${amount} Chancen!	
 src/items.lua:670		Citrus Bag	Zitrus-Tüte	
 src/items.lua:673		Spawn 5 citrus slices	Erzeugt 5 Zitrusscheiben	
