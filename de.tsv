@@ -770,7 +770,7 @@ src/items.lua:3288		+100 Points for each scored 1	+100 Punkte für jede gewertet
 src/items.lua:3303		Fast Glasses	Schnelle Brille
 src/items.lua:3306		+100 Points for each scored 2	+100 Punkte für jede gewertete 2
 src/items.lua:3321		Shard	Splitter
-src/items.lua:3324		+1 Mult for each scored 3	+1 Multi für jede gewertete 3
+src/items.lua:3324		+1 Mult for each scored 3	+1 Multi für jede gewerteteU+00A03
 src/items.lua:3339		Shrimp	Garnele
 src/items.lua:3342		+40 Points for each scored 4	+40 Punkte für jede gewertete 4
 src/items.lua:3380		Stuck Bonus	Klebrig-Bonus
