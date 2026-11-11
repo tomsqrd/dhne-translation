@@ -196,7 +196,7 @@ src/characters/wizard.lua:43		Soucerer	Flexenmeister
 src/characters/wizard.lua:50		Archmogus	Erzmoggier	
 src/characters/wizard.lua:68	dialogue	Get to level 7, and you're free.	Schaffst du es bis Level 7 bist du frei.	
 src/characters/wizard.lua:71	dialogue	Get to level 10, and you're free.	Schaffst du es bis Level 10 bist du frei.	
-src/characters/wizard.lua:192	dialogue	Another chance buddy?	Noch eine Chance, Kumpeline?	gendered but also funny
+src/characters/wizard.lua:192	dialogue	Another chance buddy?	Noch ne Runde, Kumpeline?	gendered but also funny
 src/characters/wizard.lua:194	dialogue	I'll revive you for $cost ¤ and difficulty increase.	Ich belebe dich für $cost ¤ und eine höhere Schwierigkeit wieder.	Too long?
 src/characters/wizard.lua:200	dialogue	Hmpf.	Hmpf.	
 src/characters/wizard.lua:217	dialogue	Tada!	Tada!	
@@ -241,7 +241,7 @@ src/endings/boardroom.lua:164	dialogue	that wasn't very stonks of you	das war ni
 src/endings/boardroom.lua:165	dialogue	but it was brave	aber sehr mutig	
 src/endings/cool_fish.lua:29		lets hit that shit	komm wir ziehen den scheiß	vape again? idk context
 src/endings/cool_fish.lua:132	dialogue	wheels can't take you away from me	reifen können dich nicht von mir reißen	
-src/endings/cool_fish.lua:134	dialogue	pretty sick whip tho ngl	crazy karre brudi	need to delve into cool speak lmao
+src/endings/cool_fish.lua:134	dialogue	pretty sick whip tho ngl	aber geile karre digga	
 src/endings/dog.lua:67		throw that shit	schmeiß den scheiß	
 src/endings/dog.lua:129	dialogue	what a good boy	was ein guter junge	
 src/endings/dog.lua:130	dialogue	i am neither good nor bad	ich bin weder gut noch schlecht	
@@ -262,7 +262,7 @@ src/endings/liz.lua:131	dialogue	we all pass\nin one way or another	wir alle sch
 src/endings/liz.lua:132	dialogue	eventually	irgendwann	
 src/endings/marooned.lua:75	dialogue	i am your salvation	ich bin deine erlösung	
 src/endings/marooned.lua:76	dialogue	you are not drowning	jetzt ertrinkst du	
-src/endings/party.lua:130	dialogue	You finished the Shallows!	Du hast Seichte Gewässer beendet!	SHALLOWS
+src/endings/party.lua:130	dialogue	You finished the Shallows!	Du hast Seichte Gewässer geschafft!	SHALLOWS
 src/endings/party.lua:131	dialogue	Unlock the next Depth from Star Guts for a bigger challenge.	Schalte die nächste Tiefe aus den Sternereien frei für eine größere Herausforderung.	
 src/endings/tooth_fairy.lua:129	dialogue	so the tooth fairy smokes now	die zahnfee raucht also jetzt	
 src/endings/tooth_fairy.lua:130	dialogue	i knew it	ich wusste es	
@@ -364,7 +364,7 @@ src/item_unlocks.lua:73		special numbers are special	ganz besondere zahlen
 src/item_unlocks.lua:81		More Spells	Mehr Zauber	
 src/item_unlocks.lua:82		advanced magic	magie für fortgeschrittene	
 src/item_unlocks.lua:90		More Snacks	Mehr Snacks	
-src/item_unlocks.lua:91		get some variety in your diet	stell deine ernährung um	
+src/item_unlocks.lua:91		get some variety in your diet	ernährungsumstellung	
 src/item_unlocks.lua:100		Diet Culture	Diätkultur	
 src/item_unlocks.lua:101		its real bad for you	tut dir nicht gut	
 src/item_unlocks.lua:108		All In	All-In	
@@ -372,7 +372,7 @@ src/item_unlocks.lua:109		for when youve got nothing to lose	du hast nichts zu v
 src/item_unlocks.lua:118		Lover	Die Liebenden	
 src/item_unlocks.lua:119		everything to do with pairs	für paare mit niveau	
 src/item_unlocks.lua:127		Multipliers	Multiplikatoren	
-src/item_unlocks.lua:128		make number go bigger	mach nummer größer	
+src/item_unlocks.lua:128		make number go bigger	zahl macht brrr	
 src/item_unlocks.lua:136		Maximalist	Maximalist	
 src/item_unlocks.lua:137		more dice more better	mehr würfel mehr besser	
 src/item_unlocks.lua:145		Self Control	Selbstkontrolle	
@@ -400,7 +400,7 @@ src/item_unlocks.lua:242		when in doubt go flat out	im zweifel vollgas
 src/item_unlocks.lua:251 (+1 others)		Ghost	Geist	
 src/item_unlocks.lua:252		pretty spooky	ziemlich gruselig	
 src/item_unlocks.lua:261 (+1 others)		Shield	Schild	
-src/item_unlocks.lua:262		bust protection	schutz vor busts	
+src/item_unlocks.lua:262		bust protection	schützt vor busts	
 src/item_unlocks.lua:271		Slow N Steady	In Der Ruhe	
 src/item_unlocks.lua:272		gets you nowhere	liegt überhaupt nichts	
 src/item_unlocks.lua:280		Patience	Geduld	
@@ -413,7 +413,7 @@ src/item_unlocks.lua:308		Pig	Schwein
 src/item_unlocks.lua:309		get greedy	gierige sau	
 src/item_unlocks.lua:319		Numeracy	Rechnen	
 src/item_unlocks.lua:320		make the numbers behave	damit hast du nicht gerechnet	
-src/item_unlocks.lua:332		Shop Expansion	Shop Erweiterung	
+src/item_unlocks.lua:332		Shop Expansion	Shop-Erweiterung	
 src/item_unlocks.lua:333		more items more good	mehr items mehr gut	
 src/item_unlocks.lua:341		Mega Shop	Mega Shop	
 src/item_unlocks.lua:342		more items more items more items	mehr items mehr items mehr items	
@@ -448,44 +448,44 @@ src/items.lua:134		Bust Shield	Bust-Schild
 src/items.lua:137		Bust Shield On	Bust-Schild Aktiv	
 src/items.lua:147 (+5 others)		Shield!	Schild!	
 src/items.lua:153		Uplift	Aufschwung	
-src/items.lua:156		Nudge all dice +1 pip (no loop)	Kipp alle Würfel +1 hoch (keine Schleife)	
+src/items.lua:156		Nudge all dice +1 pip (no loop)	Kippt alle Würfel +1 Auge\n(ohne Schleife)	
 src/items.lua:169		+1 all	+1 für alle	
 src/items.lua:174		Downshift	Abschwung	
-src/items.lua:177		Nudge all dice -1 pip (no loop)	Kipp alle Würfel -1 runter (keine Schleife)	
+src/items.lua:177		Nudge all dice -1 pip (no loop)	Kippt alle Würfel -1 Auge\n(ohne Schleife)	
 src/items.lua:191		-1 all	-1 für alle	
-src/items.lua:196		Clamp High	Deckelung	is the high important?
-src/items.lua:199		All dice above 4 become 4	Alle Würfel über 4 werden 4	
+src/items.lua:196		Clamp High	Viererdeckel	is the high important?
+src/items.lua:199		All dice above 4 become 4	Alle Würfel über 4 werden 4	
 src/items.lua:217		Clamp 4	4 gedeckelt	context?
 src/items.lua:222		Money Reroll	Geldwurf	Better word? Further down II ver
-src/items.lua:225		Reroll all dice, gain +1¥ per 6 rolled	Wirf alle Würfel neu und bekomme +1¥ pro geworfener 6	
+src/items.lua:225		Reroll all dice, gain +1¥ per 6 rolled	Wirf alle Würfel und bekomme +1¥ pro geworfener 6	Does it only reroll dice or also roll them if blank?
 src/items.lua:256 (+1 others)		Unlucky	Unglück	
 src/items.lua:267		Money Reroll II	Geldwurf II	
-src/items.lua:270		Reroll all dice, gain +2¥ per 1 rolled	Wirf alle Würfel neu und bekomme +2¥ pro geworfener 1	
+src/items.lua:270		Reroll all dice, gain +2¥ per 1 rolled	Wirf alle Würfel und bekomme +2¥ pro geworfener 1	
 src/items.lua:315		Piggy Bank	Sparschwein	
 src/items.lua:318		Gain 1¥ per Momentum and clear it	Bekomme 1¥ pro Momentum und setze es zurück	
 src/items.lua:330		No momentum!	Kein momentum!	
 src/items.lua:342		GOTTA GO FAST	BRUDER MUSS LOS	
 src/items.lua:345		Momentum x2	Momentum x2	
 src/items.lua:354		x2 momentum	x2 momentum	
-src/items.lua:359		Peek	Kurzer Blick	
-src/items.lua:362		Gain 1¥ per die showing 1	Bekomme 1¥ pro Würfel auf 1	"""auf""?"
+src/items.lua:359		Peek	Kurzer Blick	questions.md
+src/items.lua:362		Gain 1¥ per die showing 1	+1¥ pro Würfel,\nder 1 zeigt	
 src/items.lua:384 (+2 others)		No 1s!	Keine Einsen!	
-src/items.lua:390		Peek II	Kurzer Blick II	
-src/items.lua:393		Gain 1¥ per die showing 3	Bekomme 1¥ pro Würfel auf 3	
+src/items.lua:390		Peek II	Kurzer Blick II	questions.md
+src/items.lua:393		Gain 1¥ per die showing 3	+1¥ pro Würfel,\nder 3 zeigt	
 src/items.lua:415		No 3s!	Keine Dreien!	
 src/items.lua:424		-1 Bust per die showing 1	-1 Bust pro Würfel auf 1	
-src/items.lua:450		Scratchie	Rubellos	check that his is what i think it is
+src/items.lua:450		Scratchie	Rubbellos	check that his is what i think it is
 src/items.lua:453		Gain 0-3¥	Gewinne 0-3¥	
 src/items.lua:470 (+1 others)		Nothing!	Nichts!	
-src/items.lua:476		Scratchie II	Rubellos II	
+src/items.lua:476		Scratchie II	Rubbellos II	
 src/items.lua:479		1 in 3 chance to win 6¥	1 in 3 Chance, 6¥ zu gewinnen	
 src/items.lua:495		No luck	Niete	
-src/items.lua:501		Scratchie III	Rubellos III	
+src/items.lua:501		Scratchie III	Rubbellos III	
 src/items.lua:504		Gain 1-4¥	Gewinne 1-4¥	
-src/items.lua:528		Copycat	Nachmacher	
-src/items.lua:531		Repeat the last spell used	Wiederhole den letzten Zauber	
+src/items.lua:528		Copycat	Nachahmer	
+src/items.lua:531		Repeat the last spell used	Wiederhole den\nletzten Zauber	
 src/items.lua:541 (+1 others)		Nothing to copy!	Kein Zauber benutzt!	
-src/items.lua:544 (+1 others)		Copy!	Nachgemacht!	
+src/items.lua:544 (+1 others)		Copy!	Nachgeahmt!	
 src/items.lua:554		Repeat the last spell used, twice	Wiederhole den letzten Zauber zwei mal	
 src/items.lua:573		Heal	Heilung	
 src/items.lua:576		All dice +1 ♥	Alle Würfel +1 ♥	
@@ -493,21 +493,21 @@ src/items.lua:590		Healed!	Geheilt!
 src/items.lua:595		Clutch	Clutch	if its the bag, stay englisch
 src/items.lua:598		Hold your next hand	Behalte deine nächste Hand	
 src/items.lua:607 (+2 others)		Hold!	Behalten!	
-src/items.lua:613		Snack Bag	Snack-Tüte	Fresstüte? Brottüte? Stulle?
-src/items.lua:616		Spawn 2-3 random snack items	Erzeuge 2-3 zufällige Snacks	
-src/items.lua:636		${amount} foods!	${amount} mal Essen!	
+src/items.lua:613		Snack Bag	Fresstüte	
+src/items.lua:616		Spawn 2-3 random snack items	Erzeugt 2-3 zufällige Snacks	
+src/items.lua:636		${amount} foods!	${amount} mal Essen!	kinda lame
 src/items.lua:641		Gambling Bag	Wundertüte	
 src/items.lua:644		Send it	Gib Ihm	is this really the only way lol
 src/items.lua:665		${amount} chances!	${amount} Chancen!	
 src/items.lua:670		Citrus Bag	Zitrus-Tüte	
-src/items.lua:673		Spawn 5 citrus slices	Erzeuge 5 Zitrusscheiben	
+src/items.lua:673		Spawn 5 citrus slices	Erzeugt 5 Zitrusscheiben	
 src/items.lua:687		Citrus!	Zitrus!	
-src/items.lua:692		Butcher's Bag	Metzgerbeutel	tüte? fleischer?
-src/items.lua:695		Spawn 3 pig snacks	Erzeuge 3 Schweine-Snacks	
+src/items.lua:692		Butcher's Bag	Fleischertüte	
+src/items.lua:695		Spawn 3 pig snacks	Erzeugt 3 Schweine-Snacks	
 src/items.lua:708		Rare find!	Seltener Fund!	
 src/items.lua:715		Meet!	Fleisch!	supposed to be meat apparently lol
 src/items.lua:721		Dumpling Bag	Dumpling-Tüte	
-src/items.lua:724		Spawn 3 random dumplings	Erzeuge 3 zufällige Dumplings	
+src/items.lua:724		Spawn 3 random dumplings	Erzeugt 3 zufällige Dumplings	
 src/items.lua:738		3 dumplings!	3 Dumplings!	
 src/items.lua:745		Caffeine Pill	Koffeintablette	Looks more like pill or nah?
 src/items.lua:746		Make a die impatient	Mache einen Würfel ungeduldig	
@@ -516,59 +516,59 @@ src/items.lua:765		Tab	Tab	What type of tab is this?
 src/items.lua:766		Make a die cycle	Mache einen Würfel zyklisch	
 src/items.lua:780		Cycling!	Zyklisch!	
 src/items.lua:785		Bolero	Bolero	
-src/items.lua:786		Add 3 Bonus sides	Füge 3 Bonus-Seiten hinzu	
+src/items.lua:786		Add 3 Bonus sides	Fügt 3 Bonus-Seiten hinzu	
 src/items.lua:804		Bonus Sides Added	Bonus-Seiten Hinzugefügt	
 src/items.lua:809		Eggplant	Aubergine	
-src/items.lua:810		Add 3 Mult sides	Füge 3 Multi-Seiten hinzu	
+src/items.lua:810		Add 3 Mult sides	Fügt 3 Multi-Seiten hinzu	
 src/items.lua:828 (+1 others)		Mult Sides Added	Multi-Seiten Hinzugefügt	
 src/items.lua:833		Mangosteen	Mangostane	
-src/items.lua:834 (+1 others)		Add 1 Mult side	Füge 1 Multi-Seite hinzu	
+src/items.lua:834 (+1 others)		Add 1 Mult side	Fügt 1 Multi-Seite hinzu	
 src/items.lua:858		Har Gow	Ha Cao	or leave as is? it is chinese
-src/items.lua:859 (+1 others)		Add 1 Golden side	Füge 1 Gold-Seite hinzu	
+src/items.lua:859 (+1 others)		Add 1 Golden side	Fügt 1 Gold-Seite hinzu	
 src/items.lua:878		Golden side Added	Gold-Seite Hinzugefügt	
 src/items.lua:883		Pork Chop	Schweinekotelett	
-src/items.lua:884		Add 4 Pig sides	Füge 4 Schwein-Seiten hinzu	
+src/items.lua:884		Add 4 Pig sides	Fügt 4 Schwein-Seiten hinzu	
 src/items.lua:902		Pig Sides Added	Schwein-Seiten Hinzugefügt	
 src/items.lua:907		Hubba Bubba	Hubba Bubba	
-src/items.lua:908 (+1 others)		Add 1 Debust side	Füge 1 Debust-Seite hinzu	
+src/items.lua:908 (+1 others)		Add 1 Debust side	Fügt 1 Debust-Seite hinzu	
 src/items.lua:926 (+1 others)		Debust Side Added	Debust-Seite Hinzugefügt	
 src/items.lua:931		Ritalin	Ritalin	
-src/items.lua:932 (+1 others)		Add 1 Power side	Füge 1 Power-Seite hinzu	
+src/items.lua:932 (+1 others)		Add 1 Power side	Fügt 1 Power-Seite hinzu	
 src/items.lua:951 (+1 others)		Power Side Added	Power-Seite Hinzugefügt	
 src/items.lua:956		Mochi	Mochi	
-src/items.lua:957		Add 5 Stuck sides	Füge 5 Klebrig-Seiten hinzu	
+src/items.lua:957		Add 5 Stuck sides	Fügt 5 Klebrig-Seiten hinzu	
 src/items.lua:975		Stuck Sides Added	Klebrig-Seiten Hinzugefügt	
 src/items.lua:980		Bacon	Speck	
-src/items.lua:981 (+1 others)		Add 1 Pig side	Füge 1 Schweine-Seite hinzu	
-src/items.lua:996 (+1 others)		Pig Side Added	Schweine-Seite Hinzugefügt	
-src/items.lua:1002 (+1 others)		Add 1 Skip side	Füge 1 Skip-Seite hinzu	
+src/items.lua:981 (+1 others)		Add 1 Pig side	Fügt 1 Schwein-Seite hinzu	
+src/items.lua:996 (+1 others)		Pig Side Added	Schwein-Seite Hinzugefügt	
+src/items.lua:1002 (+1 others)		Add 1 Skip side	Fügt 1 Skip-Seite hinzu	
 src/items.lua:1017 (+1 others)		Skip Side Added	Skip-Seite Hinzugefügt	
 src/items.lua:1022		Black Eyed Pea	Schwarzaugenbohne	
-src/items.lua:1023		Block 1s for the next roll	Blockiere 1en für den nächsten Wurf	
-src/items.lua:1040		Grape	Traube	
-src/items.lua:1041 (+1 others)		Add 1 Bonus side	Füge 1 Bonus-Seite hinzu	
+src/items.lua:1023		Block 1s for the next roll	Blockiert 1er für den nächsten Wurf	
+src/items.lua:1040		Grape	Traube	questions.md - not a blueberry?
+src/items.lua:1041 (+1 others)		Add 1 Bonus side	Fügt 1 Bonus-Seite hinzu	
 src/items.lua:1056 (+1 others)		Bonus Side Added	Bonus-Seite Hinzugefügt	
 src/items.lua:1061		pieróg z kapusto	pieróg z kapusto	
 src/items.lua:1079		Crack Candy	Kracher Süßigkeiten	what is this? visual confirmation
-src/items.lua:1080		Add 2 Power sides	Füge 2 Power-Seiten hinzu	
+src/items.lua:1080		Add 2 Power sides	Fügt 2 Power-Seiten hinzu	
 src/items.lua:1098		Power Sides Added	Power-Seiten Hinzugefügt	
 src/items.lua:1103		Lemon	Zitrone	
-src/items.lua:1104		Nudge this die +1 pip	Kippe diesen Würfel +1 hoch	
+src/items.lua:1104		Nudge this die +1 pip	Kippt den Würfel +1 Auge	
 src/items.lua:1119 (+1 others)		+1 pip!	+1 Auge!	
 src/items.lua:1124		Lime	Limette	
-src/items.lua:1125		Nudge this die -1 pip	Kippe diesen Würfel -1 runter	
+src/items.lua:1125		Nudge this die -1 pip	Kippt den Würfel -1 Auge	
 src/items.lua:1141		-1 pip!	-1 Auge!	
 src/items.lua:1146		Pomelo	Pampelmuse	
-src/items.lua:1147		Flip this die to its opposite face	Drehe diesen Würfel auf die gegenüberliegende Seite	
+src/items.lua:1147		Flip this die to its opposite face	Dreht den Würfel auf die gegenüberliegende Seite	
 src/items.lua:1162		Flipped!	Umgedreht!	
 src/items.lua:1167		Orange	Orange	
-src/items.lua:1168		Nudge all other dice one pip towards this die's value	Kippe alle anderen Würfel 1 Auge in Richtung dieses Wertes	
+src/items.lua:1168		Nudge all other dice one pip towards this die's value	Kippt alle Würfel 1 Auge in Richtung des Würfelwerts	
 src/items.lua:1196		Pull!	Zieh!	? what dat
 src/items.lua:1201		Tumor	Tumor	
 src/items.lua:1202		Spawn a ghost clone of this die	Erzeuge einen Geist-Klon dieses Würfels	
 src/items.lua:1244		Cloned!	Geklont!	
 src/items.lua:1249		Eye	Auge	
-src/items.lua:1250		Add 1 pip to the shown side	Füge 1 Auge der Seite hinzu	
+src/items.lua:1250		Add 1 pip to the shown side	Fügt 1 Auge der Seite hinzu	
 src/items.lua:1272		Bonus Puke	Bonus-Kotzen	
 src/items.lua:1292		Mult Puke	Multi-Kotzen	
 src/items.lua:1307		Mult Side Added	Multi-Seite Hinzugefügt	
@@ -576,25 +576,25 @@ src/items.lua:1312		Debust Puke	Debust-Kotzen
 src/items.lua:1332		Pig Puke	Schwein-Kotzen	
 src/items.lua:1352		Power Puke	Power-Kotzen	
 src/items.lua:1373		Stuck Puke	Klebrig-Kotzen	
-src/items.lua:1374		Add 1 Stuck side	Füge 1 Klebrig-Seite hinzu	
+src/items.lua:1374		Add 1 Stuck side	Fügt 1 Klebrig-Seite hinzu	
 src/items.lua:1388		Stuck Side Added	Klebrig-Seite Hinzugefügt	
 src/items.lua:1393		Money Puke	Geld-Kotzen	
 src/items.lua:1408		Golden Side Added	Gold-Seite Hinzugefügt	
 src/items.lua:1413		Skip Puke	Skip-Kotzen	
 src/items.lua:1433		Mirror Puke	Spiegel-Kotzen	
-src/items.lua:1434		Add 1 Mirror side	Füge 1 Spiegel-Seite hinzu	
+src/items.lua:1434		Add 1 Mirror side	Fügt 1 Spiegel-Seite hinzu	
 src/items.lua:1448		Mirror Side Added	Spiegel-Seite Hinzugefügt	
 src/items.lua:1453		Cracked Puke	Brüchig-Kotzen	
-src/items.lua:1454		Add 1 Cracked side	Füge 1 Brüchig-Seite hinzu	
+src/items.lua:1454		Add 1 Cracked side	Fügt 1 Brüchig-Seite hinzu	
 src/items.lua:1468 (+2 others)		Cracked Side Added	Brüchig-Seite Hinzugefügt	
 src/items.lua:1473		Hardy Puke	Zäh-Kotzen	
-src/items.lua:1474		Add 1 Hardy side	Füge 1 Zäh-Seite hinzu	
+src/items.lua:1474		Add 1 Hardy side	Fügt 1 Zäh-Seite hinzu	
 src/items.lua:1488		Hardy Side Added	Zäh-Seite Hinzugefügt	
 src/items.lua:1493		Doom Puke	Unheil-Kotzen	
-src/items.lua:1494		Add 1 Doom side	Füge 1 Unheil-Seite hinzu	
+src/items.lua:1494		Add 1 Doom side	Fügt 1 Unheil-Seite hinzu	
 src/items.lua:1508 (+2 others)		Doom Side Added	Unheil-Seite Hinzugefügt	
 src/items.lua:1513		Bust Puke	Bust-Kotzen	
-src/items.lua:1514		Add 1 Bust side	Füge 1 Bust-Seite hinzu	
+src/items.lua:1514		Add 1 Bust side	Fügt 1 Bust-Seite hinzu	
 src/items.lua:1528 (+2 others)		Bust Side Added	Bust-Seite Hinzugefügt	
 src/items.lua:1533		Finger	Finger	
 src/items.lua:1534		Puke a special effect out	Kotze einen Seiten-Effekt aus	
@@ -665,7 +665,7 @@ src/items.lua:2253		Sumush	Sumush
 src/items.lua:2256		x2 Mult if the scored dice sum to 10	x2 Multi wenn die gewerteten Würfel in Summe 10 Augen zeigen	
 src/items.lua:2275		Lil' Choy	Lil' Choy	
 src/items.lua:2278		x2 Mult when scoring 3 or fewer dice	x2 Multi wenn 3 oder weniger Würfel gewertet werden	
-src/items.lua:2296		Toad Hut	Krötenhütte	Hut? Hütte?
+src/items.lua:2296		Toad Hut	Kröten-Häuschen	
 src/items.lua:2299		x2 Mult for a hand containing Four Of A Kind	x2 Multi für eine Hand mit einem Viererpasch	
 src/items.lua:2320		Pink Top	Pinkes Top	Clothing?
 src/items.lua:2323		x2 Mult for any Straight	x2 Multi für jegliche Straße	
@@ -810,7 +810,7 @@ src/items.lua:3878		Trotter	Schweinsfuß	visual - maybe haxe
 src/items.lua:3881		Pig Points x2	Schweine-Punkte x2	
 src/items.lua:3896		Piglet	Schweinchen	
 src/items.lua:3899		+3 Mult for rerolling 3 or more Pig sides	+3 Multi, wenn 3 oder mehr Schwein-Seiten neu geworfen werden	
-src/items.lua:3918		Chew Toy	Kauknochen	visual conf - toy? Knochen?
+src/items.lua:3918		Chew Toy	Kauspielzeug	
 src/items.lua:3921		1 in 6 chance to spawn a coin when rerolling a Pig side	1 in 6 Chance, eine Münze zu erzeugen, wenn eine Schwein-Seite verworfen wird	
 src/items.lua:3976		Paw	Pfote	
 src/items.lua:3979		Rolling a single die adds +2 Mult	+2 Multi, wenn ein einzelner Würfel verworfen wird	
