@@ -58,8 +58,8 @@ src/characters/business_fish.lua:84		I'll revive you for $cost ¤ and $amount du
 src/characters/business_fish.lua:91	dialogue	Bad investment	Schlecht investiert
 src/characters/business_fish.lua:103	dialogue	Pleasure doing business	War mir ein Vergnügen
 src/characters/cool_fish.lua:2		Cool Fish	Cooler Fisch
-src/characters/cool_fish.lua:34		Good Ol' Harrington	
-src/characters/cool_fish.lua:41		Winter Fit	
+src/characters/cool_fish.lua:34		Good Ol' Harrington	Der Gute Alte Harrington
+src/characters/cool_fish.lua:41		Winter Fit	Winterklamotten
 src/characters/cool_fish.lua:64	dialogue	Oh, this jacket?\nIt was 3000¥	Oh, die Jacke?\nHat 3000¥ gekostet
 src/characters/cool_fish.lua:65	dialogue	It's from Japan yeah	Ist aus Japan, ja
 src/characters/cool_fish.lua:86	dialogue	Nice coins	Coole Münzen
@@ -90,7 +90,7 @@ src/characters/god.lua:253		do you have what it takes?	hast du das zeug dazu?
 src/characters/god.lua:257		you are never getting out of here	du kommst hier nie wieder raus
 src/characters/god.lua:301		i always believed in you	ich hab immer an dich geglaubt
 src/characters/guy.lua:2		Guy	Typ
-src/characters/guy.lua:34		Eye Wide Open	
+src/characters/guy.lua:34		Eye Wide Open	Auge Aufgerissen
 src/characters/guy.lua:52	dialogue	Reach level 7 to break free!	Erreiche Level 7 um dich zu befreien!
 src/characters/guy.lua:54	dialogue	Reach level 10 to break free!	Erreiche Level 10 um dich zu befreien!
 src/characters/guy.lua:82	dialogue	Keep riding?	Weiterreiten?
@@ -103,7 +103,7 @@ src/characters/hotdog.lua:68		I'll revive you for $cost ¤ and a bad tooth	Ich b
 src/characters/hotdog.lua:74	dialogue	More for me	Bleibt mehr für mich übrig
 src/characters/hotdog.lua:85	dialogue	Chew carefully	Langsam kauen
 src/characters/king_fetus.lua:2		King Foetus	König Fötus
-src/characters/king_fetus.lua:38		Prima Ballerina	
+src/characters/king_fetus.lua:38		Prima Ballerina	Prima Ballerina
 src/characters/king_fetus.lua:57	dialogue	Reach level 7 to escape!	Erreiche Level 7 um zu entkommen!
 src/characters/king_fetus.lua:58 (+1 others)	dialogue	goo goo gaa gaa	gu gu ga ga
 src/characters/king_fetus.lua:60	dialogue	Reach level 10 to escape!	Erreiche Level 10 um zu entkommen!
@@ -111,7 +111,7 @@ src/characters/king_fetus.lua:80	dialogue	go more?	noch mehr?
 src/characters/king_fetus.lua:82	dialogue	revive for $cost ¤ and 1 max bust	wiederbeleben für $cost ¤ und 1 max bust
 src/characters/king_fetus.lua:101	dialogue	glob gob	glub glub
 src/characters/liz.lua:2 (+1 others)		Liz	Liz
-src/characters/liz.lua:30		Off Duty	
+src/characters/liz.lua:30		Off Duty	Feierabend
 src/characters/liz.lua:37		Halo	Heiligenschein
 src/characters/liz.lua:71	dialogue	Hey, my love	Hey, mein Schatz
 src/characters/liz.lua:72	dialogue	Remember, ${count} levels and you're out of here!	Denk dran, ${count} Level und du bist hier raus!
@@ -133,7 +133,7 @@ src/characters/shirin.lua:179	dialogue	Feeling lucky?	Versuchst du dein Glück?
 src/characters/shirin.lua:181	dialogue	I'll let you toss a coin to revive you for $cost ¤	Für $cost ¤ lasse ich dich eine Münze werfen zur Wiederbelebung
 src/characters/shirin.lua:187	dialogue	RIP	RIP
 src/characters/shirin.lua:197	dialogue	Bad luck...	Pechvogel...
-src/characters/shirin.lua:205	dialogue	Lucky!	
+src/characters/shirin.lua:205	dialogue	Lucky!	Glückspilz!
 src/characters/tooth_fairy.lua:2		Tooth Fairy	Zahnfee
 src/characters/tooth_fairy.lua:40	dialogue	Reach level 7 and I'll leave your teeth alone.	Erreiche Level 7 und ich lass deine Zähne in Ruhe.
 src/characters/tooth_fairy.lua:42	dialogue	Reach level 10 and I'll leave your teeth alone.	Erreiche Level 10 und ich lass deine Zähne in Ruhe.
@@ -147,7 +147,7 @@ src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BAN
 src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	Du hast ${TURNS} Züge um dein Ziel zu erreichen.\nDie BANK beendet deinen Zug.
 src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	Größere Combos geben dir exponentiell größere Belohnungen.
 src/characters/tutorial_character.lua:69		<- See what combos are available up here	<- Hier siehst du welche Combos es gibt
-src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Mach weiter und wirf die leeren Würfel!
+src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Mach weiter und wirf die blanken Würfel!
 src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select	Achja, du kannst mit langem Linksklick eine Box aufziehen\n um mehrere Würfel gleichzeitig zu wählen
 src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	Jedes mal wenn du in einem Zug Combos wertest,\nbekommst du Momentum
 src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score	Momentum gibt dir extra Punkte und Multi für deine nächste Wertung
@@ -192,8 +192,8 @@ src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	
 src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	Wir sehen uns im echten Spiel.
 src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	Denk dran, Glück kann hilfreich sein.\nEntscheidungen sind wichtiger.
 src/characters/wizard.lua:2		Wizard	Zauberer
-src/characters/wizard.lua:43		Soucerer	
-src/characters/wizard.lua:50		Archmogus	
+src/characters/wizard.lua:43		Soucerer	Flexenmeister
+src/characters/wizard.lua:50		Archmogus	Erzmoggier
 src/characters/wizard.lua:68	dialogue	Get to level 7, and you're free.	Schaffst du es bis Level 7 bist du frei.
 src/characters/wizard.lua:71	dialogue	Get to level 10, and you're free.	Schaffst du es bis Level 10 bist du frei.
 src/characters/wizard.lua:192	dialogue	Another chance buddy?	Noch eine Chance, Kumpeline?
@@ -241,7 +241,7 @@ src/endings/boardroom.lua:164	dialogue	that wasn't very stonks of you	das war ni
 src/endings/boardroom.lua:165	dialogue	but it was brave	aber sehr mutig
 src/endings/cool_fish.lua:29		lets hit that shit	komm wir ziehen den scheiß
 src/endings/cool_fish.lua:132	dialogue	wheels can't take you away from me	reifen können dich nicht von mir reißen
-src/endings/cool_fish.lua:134	dialogue	pretty sick whip tho ngl	crazy karre aber
+src/endings/cool_fish.lua:134	dialogue	pretty sick whip tho ngl	crazy karre brudi
 src/endings/dog.lua:67		throw that shit	schmeiß den scheiß
 src/endings/dog.lua:129	dialogue	what a good boy	was ein guter junge
 src/endings/dog.lua:130	dialogue	i am neither good nor bad	ich bin weder gut noch schlecht
@@ -475,13 +475,13 @@ src/items.lua:393		Gain 1¥ per die showing 3	Bekomme 1¥ pro Würfel auf 3
 src/items.lua:415		No 3s!	Keine Dreien!
 src/items.lua:424		-1 Bust per die showing 1	-1 Bust pro Würfel auf 1
 src/items.lua:450		Scratchie	Rubellos
-src/items.lua:453		Gain 0-3¥	
+src/items.lua:453		Gain 0-3¥	Gewinne 0-3¥
 src/items.lua:470 (+1 others)		Nothing!	Nichts!
 src/items.lua:476		Scratchie II	Rubellos II
-src/items.lua:479		1 in 3 chance to win 6¥	
+src/items.lua:479		1 in 3 chance to win 6¥	1 in 3 Chance, 6¥ zu gewinnen
 src/items.lua:495		No luck	Niete
 src/items.lua:501		Scratchie III	Rubellos III
-src/items.lua:504		Gain 1-4¥	
+src/items.lua:504		Gain 1-4¥	Gewinne 1-4¥
 src/items.lua:528		Copycat	Nachmacher
 src/items.lua:531		Repeat the last spell used	Wiederhole den letzten Zauber
 src/items.lua:541 (+1 others)		Nothing to copy!	Kein Zauber benutzt!
@@ -502,14 +502,14 @@ src/items.lua:665		${amount} chances!	${amount} Chancen!
 src/items.lua:670		Citrus Bag	Zitrus-Tüte
 src/items.lua:673		Spawn 5 citrus slices	Erzeuge 5 Zitrusscheiben
 src/items.lua:687		Citrus!	Zitrus!
-src/items.lua:692		Butcher's Bag	
+src/items.lua:692		Butcher's Bag	Metzgerbeutel
 src/items.lua:695		Spawn 3 pig snacks	Erzeuge 3 Schweine-Snacks
 src/items.lua:708		Rare find!	Seltener Fund!
-src/items.lua:715		Meet!	Triff!
+src/items.lua:715		Meet!	Fleisch!
 src/items.lua:721		Dumpling Bag	Dumpling-Tüte
 src/items.lua:724		Spawn 3 random dumplings	Erzeuge 3 zufällige Dumplings
 src/items.lua:738		3 dumplings!	3 Dumplings!
-src/items.lua:745		Caffeine Pill	
+src/items.lua:745		Caffeine Pill	Koffeintablette
 src/items.lua:746		Make a die impatient	Mache einen Würfel ungeduldig
 src/items.lua:760		Impatient!	Ungeduldig!
 src/items.lua:765		Tab	Tab
@@ -623,7 +623,7 @@ src/items.lua:1802		+${dynamic} Mult, gains +0.1 Mult each time a snack is eaten
 src/items.lua:1817		+0.1 mult	+0,1 multi
 src/items.lua:1835		Worm	Wurm
 src/items.lua:1838 (+1 others)		+1 Mult	+1 Multi
-src/items.lua:1849		Mahjong Tile	
+src/items.lua:1849		Mahjong Tile	Mahjong-Stein
 src/items.lua:1852		+2 Mult	+2 Multi
 src/items.lua:1864		Clam	Muschel
 src/items.lua:1867		+50 Points	+50 Punkte
@@ -643,7 +643,7 @@ src/items.lua:2006		Mushieltador	Mushieltador
 src/items.lua:2009		Gain a Bust Shield when banking if last hand was any Straight	Bekomme bei Bankeinzahlung ein Bust-Schild wenn die letzte Wertung irgendeine Straße war
 src/items.lua:2035		Survival Instinct	Überlebensinstinkt
 src/items.lua:2038		x2 Mult on 1 turn left	x2 Multi wenn nur noch 1 Zug übrig ist
-src/items.lua:2069		Mandarin Peel	
+src/items.lua:2069		Mandarin Peel	Mandarinenschale
 src/items.lua:2072		+5 Mult for your first scored hand each turn	
 src/items.lua:2093		Octopus Ting	
 src/items.lua:2096		x3 Mult for your first scored hand each level	x3 Multi für die erste Wertung pro Level
