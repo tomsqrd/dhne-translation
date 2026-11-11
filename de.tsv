@@ -1244,11 +1244,11 @@ src/states/gameover.lua:248		Maybe next time.	Vielleicht beim nächsten Mal.
 src/states/gameover.lua:288		Bet ${BET}¤	Wette ${BET}¤
 src/states/gameover.lua:296		Death Tax ${STARS}¤	Todessteuer ${STARS}¤
 src/states/gameover.lua:305		GAME OVER	GAME OVER
-src/states/gameover.lua:316		--  Run Summary  --	-- Run-Zusammenfassung --
+src/states/gameover.lua:316		--  Run Summary  --	-- Zusammenfassung --
 src/states/gameover.lua:330		Level reached:	Level erreicht:
 src/states/gameover.lua:331		Points scored:	Punkte gesammelt:
 src/states/gameover.lua:332		Dice rolled:	Würfel geworfen:
-src/states/gameover.lua:333		Ones rolled:	Einser geworfen:
+src/states/gameover.lua:333		Ones rolled:	Einsen geworfen:
 src/states/gameover.lua:335		Run stars:	Run-Sterne:
 src/states/gameover.lua:336		Death tax:	Todessteuer:
 src/states/gameover.lua:352		run info	run infos
@@ -1292,13 +1292,13 @@ src/states/options.lua:355		mute	stumm
 src/states/options.lua:363		display	anzeige
 src/states/options.lua:365		fullscreen	vollbild
 src/states/options.lua:372		vsync	vsync
-src/states/options.lua:379		chromab	farbverschiebung
+src/states/options.lua:379		chromab	chromab
 src/states/options.lua:388		scanlines	scanlines
 src/states/options.lua:397		bulge	wölbung
 src/states/options.lua:407		accessibility	barrierefreiheit
 src/states/options.lua:409		screenshake	screenshake
 src/states/options.lua:418		tips	tipps
-src/states/options.lua:425		slow computer	schn. performance
+src/states/options.lua:425		slow computer	performance
 src/states/options.lua:432		fast animation	schn. animation
 src/states/options.lua:439		scroll bgs	hintergrundscroll
 src/states/options.lua:450		danger zone	gefahrenzone
