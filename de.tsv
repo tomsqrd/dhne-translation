@@ -360,7 +360,7 @@ src/item_unlocks.lua:54		life comes at you fast	man wird zu schnell erwachsen
 src/item_unlocks.lua:61		Hold	Halten
 src/item_unlocks.lua:62		HOLD!!!	HALTEN!!!
 src/item_unlocks.lua:72		Numerology	Numerologie
-src/item_unlocks.lua:73		special numbers are special	ganz besondere nummern
+src/item_unlocks.lua:73		special numbers are special	ganz besondere zahlen
 src/item_unlocks.lua:81		More Spells	Mehr Zauber
 src/item_unlocks.lua:82		advanced magic	magie für fortgeschrittene
 src/item_unlocks.lua:90		More Snacks	Mehr Snacks
@@ -767,10 +767,10 @@ src/items.lua:3267		Lil Buddy	Kleiner Kumpel
 src/items.lua:3270		+60 Points for each scored 6	+60 Punkte für jede gewertete 6
 src/items.lua:3285		Eagle's Claw	Adlerklaue
 src/items.lua:3288		+100 Points for each scored 1	+100 Punkte für jede gewertete 1
-src/items.lua:3303		Fast Glasses	Schelle Brille
+src/items.lua:3303		Fast Glasses	Schnelle Brille
 src/items.lua:3306		+100 Points for each scored 2	+100 Punkte für jede gewertete 2
-src/items.lua:3321		Shard	Scherbe
-src/items.lua:3324		+1 Mult for each scored 3	+1 Multi für jede gewertete 3
+src/items.lua:3321		Shard	Splitter
+src/items.lua:3324		+1 Mult for each scored 3	+1 Multi für jede gewertete 3
 src/items.lua:3339		Shrimp	Garnele
 src/items.lua:3342		+40 Points for each scored 4	+40 Punkte für jede gewertete 4
 src/items.lua:3380		Stuck Bonus	Klebrig-Bonus
