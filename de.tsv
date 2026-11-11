@@ -351,7 +351,7 @@ src/item_unlocks.lua:7		beginner magic	magie für anfänger
 src/item_unlocks.lua:15		Basic Passives	Einfache Glücksbringer
 src/item_unlocks.lua:16		situational benefits	situationsabhängige vorteile
 src/item_unlocks.lua:24		Basic Combos	Einfache Combos
-src/item_unlocks.lua:25		upgrade your faves	verbesserte favoriten
+src/item_unlocks.lua:25		upgrade your faves	deine lieblinge, noch besser
 src/item_unlocks.lua:33		Basic Snacks	Einfache Snacks
 src/item_unlocks.lua:34		tasty treats for hungry dice	leckereien für hungrige würfel
 src/item_unlocks.lua:42		Basic Quests	Einfache Quests
@@ -653,7 +653,7 @@ src/items.lua:2142		Minnesota Fats	Minnesota Fats
 src/items.lua:2145		+200 Points for any Straight	+200 Punkte für jegliche Straße
 src/items.lua:2158		Bimber	Bimber
 src/items.lua:2161		+200 Points for a Full House	+200 Punkte für ein Full House
-src/items.lua:2175		Kind Berry Three	Die Drei Beeren
+src/items.lua:2175		Kind Berry Three	Dreibeerstrauch
 src/items.lua:2178		+200 Points for Three Of A Kind	+200 Punkte für einen Dreierpasch
 src/items.lua:2192		Two Pair Cat	Zwei-Paar-Katze
 src/items.lua:2195		+200 Points for a hand containing Two Pair	+200 Punkte für eine Hand mit zwei Paaren
@@ -718,17 +718,17 @@ src/items.lua:2736		Crowd Pleaser	Publikumshit
 src/items.lua:2739		+50 Points per trinket on board	+50 Punkte pro Glücksbringer im Spiel
 src/items.lua:2756		Double Down	Einsatz Verdoppeln
 src/items.lua:2759		Flipping a single coin x2 Mult	x2 Multi wenn eine einzelne Münze geworfen wird
-src/items.lua:2784		Just An Anxious Guy	Nur Ein Besorgter Typ
+src/items.lua:2784		Just An Anxious Guy	Angsthase
 src/items.lua:2787		+4 Mult for Four Of A Kind	+4 Multi für einen Viererpasch
 src/items.lua:2801		Double Three Blibber	Doppel Dreier Blubber
 src/items.lua:2804		+3 Mult for Three Of A Kind	+3 Multi für einen Dreierpasch
 src/items.lua:2820		+4 Mult for Two Pair	+4 Multi für Zwei Paare
 src/items.lua:2833		Pair Cat	Paarkatze
 src/items.lua:2836		+2 Mult for Pair, Two Pair and Three Pair	+2 Multi für Paar, Zwei Paare und Drei Paare
-src/items.lua:2853		Threes Gobber	Dreier Gobber
+src/items.lua:2853		Threes Gobber	Dreiäugiger Gobber
 src/items.lua:2856		+100 Points for a hand containing Three Of A Kind	+100 Punkte für eine Hand mit einem Dreierpasch
 src/items.lua:2889		Gay Moth	Queere Motte
-src/items.lua:2892		+60 Points for rerolling a 6	+60 Punkte, wenn eine 6 neu geworfen wird
+src/items.lua:2892		+60 Points for rerolling a 6	+60 Punkte, wenn eine 6 verworfen wird
 src/items.lua:2911		Mini Goob	Mini Goob
 src/items.lua:2914		+0.1 Mult per die rolled	+0,1 Multi pro geworfenem Würfel
 src/items.lua:2929		Faster	Schneller
@@ -737,18 +737,18 @@ src/items.lua:2940 (+1 others)		+1 momentum	+1 momentum
 src/items.lua:2945		Spite	Bosheit
 src/items.lua:2948		On Bust, gain +1 Momentum	+1 Momentum, wenn ein Bust geworfen wird
 src/items.lua:2963		Shortbread Biscuit	Butterkeks
-src/items.lua:2966		+100 Points for rerolling a single die	+100 Punkte, wenn ein einzelner Würfel neu geworfen wird
+src/items.lua:2966		+100 Points for rerolling a single die	+100 Punkte, wenn ein einzelner Würfel verworfen wird
 src/items.lua:3024		Banksia	Banksie
-src/items.lua:3027		Rerolling a Pair recharges Power	Power lädt auf, wenn ein Paar neu geworfen wird
+src/items.lua:3027		Rerolling a Pair recharges Power	Power lädt auf, wenn ein Paar verworfen wird
 src/items.lua:3039 (+4 others)		Power Recharged	Power Aufgeladen
 src/items.lua:3046		Lycheye	Litschi
 src/items.lua:3047		Two Pair recharges Power	Power lädt auf, wenn Zwei Paare gewertet wird
-src/items.lua:3066		Bump Jug	Beulenfass
+src/items.lua:3066		Bump Jug	Bump Jug
 src/items.lua:3069		Scoring a Full House recharges Power	Power lädt auf, wenn ein Full House gewertet wird
 src/items.lua:3086		Full Send	Gib Ihm
 src/items.lua:3089		Rerolling 5 or more dice recharges Power	Power lädt auf, wenn 5 oder mehr Würfel neu geworfen werden
 src/items.lua:3106		God Give Me Strength	Gott Gib Mir Kraft
-src/items.lua:3109		Rerolling a single die recharges Power	Power lädt auf, wenn ein einzelner Würfel neu geworfen wird
+src/items.lua:3109		Rerolling a single die recharges Power	Power lädt auf, wenn ein einzelner Würfel verworfen wird
 src/items.lua:3130		High Roller	Hochwurf
 src/items.lua:3133		+1 Mult for each 6 scored	+1 Multi für jede gewertete 6
 src/items.lua:3148		Low Ball	Flachwurf
@@ -796,10 +796,10 @@ src/items.lua:3718		Rerolling a combo upgrades it permanently. Fades with use.	E
 src/items.lua:3722		On Roll	Bei Wurf
 src/items.lua:3743		${combo} Upgraded	${combo} Verbessert
 src/items.lua:3756		Gouda	Gouda
-src/items.lua:3759		Rerolling a Three Of A Kind gives 2¥	+2¥, wenn ein Dreierpasch neu geworfen wird
+src/items.lua:3759		Rerolling a Three Of A Kind gives 2¥	+2¥, wenn ein Dreierpasch verworfen wird
 src/items.lua:3781		Pearl	Perle
 src/items.lua:3784		+1¥ for every two scored 1s	+1¥ je zwei gewerteten 1ern
-src/items.lua:3807		Queen's Jug	Damenkrug
+src/items.lua:3807		Queen's Jug	Königinnenkrug
 src/items.lua:3810		+1¥ for a Full House	+1¥ für ein Full House
 src/items.lua:3827		Star Biscuit	Zimtstern
 src/items.lua:3830		Rolling 2+ dice while at 1 Bust gives 2¥	+2¥, wenn 2+ Würfel geworfen werden und nur 1 Bust übrig ist
@@ -811,11 +811,11 @@ src/items.lua:3881		Pig Points x2	Schweine-Punkte x2
 src/items.lua:3896		Piglet	Schweinchen
 src/items.lua:3899		+3 Mult for rerolling 3 or more Pig sides	+3 Multi, wenn 3 oder mehr Schwein-Seiten neu geworfen werden
 src/items.lua:3918		Chew Toy	Kauknochen
-src/items.lua:3921		1 in 6 chance to spawn a coin when rerolling a Pig side	1 in 6 Chance, eine Münze zu erzeugen, wenn eine Schwein-Seite neu geworfen wird
+src/items.lua:3921		1 in 6 chance to spawn a coin when rerolling a Pig side	1 in 6 Chance, eine Münze zu erzeugen, wenn eine Schwein-Seite verworfen wird
 src/items.lua:3976		Paw	Pfote
-src/items.lua:3979		Rolling a single die adds +2 Mult	+2 Multi, wenn ein einzelner Würfel neu geworfen wird
+src/items.lua:3979		Rolling a single die adds +2 Mult	+2 Multi, wenn ein einzelner Würfel verworfen wird
 src/items.lua:3992		Incel	Incel
-src/items.lua:3995		Rerolling a hand containing a Pair gives +100 Points and +1 Mult	+100 Punkte und +1 Multi wenn eine Hand mit einem Paar neu geworfen wird
+src/items.lua:3995		Rerolling a hand containing a Pair gives +100 Points and +1 Mult	+100 Punkte und +1 Multi wenn eine Hand mit einem Paar verworfen wird
 src/items.lua:4022		Ghost Carriage	Geisterkutsche
 src/items.lua:4025		Scoring a Full House spawns a ghost die	Erzeugt einen Geisterwürfel, wenn ein Full House gewertet wird
 src/items.lua:4039 (+5 others)		Ghost!	Geist!
@@ -828,7 +828,7 @@ src/items.lua:4094		Roll exactly 1 die - if it's a 2, +1¥	+1¥, wenn ein einzel
 src/items.lua:4115		Mult Biscuit	Multi-Keks
 src/items.lua:4118		Roll exactly 1 die - if it's a 3 or 4, +1 Mult	+1 Multi, wenn ein einzelner Würfel geworden wird und auf 3 oder 4 landet
 src/items.lua:4136		Flask Of Ghost	Geisterflasche
-src/items.lua:4139		Rerolling a hand that contains a Three Of A Kind creates 2 ghost dice	Erzeugt 2 Geisterwürfel, wenn eine Hand mit einem Dreierpasch neu geworfen wird
+src/items.lua:4139		Rerolling a hand that contains a Three Of A Kind creates 2 ghost dice	Erzeugt 2 Geisterwürfel, wenn eine Hand mit einem Dreierpasch verworfen wird
 src/items.lua:4161		Bone	Knochen
 src/items.lua:4164		Hands containing a ghost die score +100 Points	+100 Punkte für eine Hand mit einem Geisterwürfel
 src/items.lua:4182		Razor	Rasierer
