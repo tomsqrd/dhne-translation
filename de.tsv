@@ -140,57 +140,57 @@ src/characters/tooth_fairy.lua:42	dialogue	Reach level 10 and I'll leave your te
 src/characters/tutorial_character.lua:38	dialogue	Hi! Welcome!	Hi! Willkommen!
 src/characters/tutorial_character.lua:39	dialogue	You're dead!	Du bist tot!
 src/characters/tutorial_character.lua:40	dialogue	Or asleep!	Oder du träumst gerade!
-src/characters/tutorial_character.lua:41	dialogue	... Either way, you won't remember this :)	...Wie auch immer, du wirst dich an nichts erinnern :)
-src/characters/tutorial_character.lua:42	dialogue	Now let's play.\nRoll the dice.	Lass uns Spielen.\nWirf den Würfel.
+src/characters/tutorial_character.lua:41	dialogue	... Either way, you won't remember this :)	...Wie auch immer,\ndu wirst dich an nichts erinnern können :)
+src/characters/tutorial_character.lua:42	dialogue	Now let's play.\nRoll the dice.	Lass uns Spielen.\nWirf die Würfel.
 src/characters/tutorial_character.lua:59	dialogue	Good. You gained some points.	Gut. Du hast ein paar Punkte bekommen.
-src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BANK them.	Sie sind nicht sicher bis du sie in die BANK einzahlst.
-src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	Du hast ${TURNS} Züge um dein Ziel zu erreichen.\nDie BANK beendet deinen Zug.
-src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	Größere Combos geben dir exponentiell größere Belohnungen.
-src/characters/tutorial_character.lua:69		<- See what combos are available up here	<- Hier siehst du welche Combos es gibt
-src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Mach weiter und wirf die blanken Würfel!
-src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select	Achja, du kannst mit langem Linksklick eine Box aufziehen\n um mehrere Würfel gleichzeitig zu wählen
-src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	Jedes mal wenn du in einem Zug Combos wertest,\nbekommst du Momentum
-src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score	Momentum gibt dir extra Punkte und Multi für deine nächste Wertung
+src/characters/tutorial_character.lua:60	dialogue	They're not safe until you BANK them.	Sie sind nicht sicher,\nbis du sie in die BANK einzahlst.
+src/characters/tutorial_character.lua:61	dialogue	You have ${TURNS} Turns to reach your goal.\nBANKing ends your Turn.	Du hast ${TURNS} Züge, um dein Ziel zu erreichen.\nDie BANK beendet den Zug.
+src/characters/tutorial_character.lua:65	dialogue	Bigger combos give you exponentially bigger rewards.	Höhere Combos geben dir exponentiell höhere Belohnungen.
+src/characters/tutorial_character.lua:69		<- See what combos are available up here	<- Combo-Liste hier
+src/characters/tutorial_character.lua:83	dialogue	Roll blank dice and keep going!	Mach weiter und wirf\ndie blanken Würfel!
+src/characters/tutorial_character.lua:95	dialogue	Oh also, you can hold and drag Left Click to box select	Achja, du kannst auch eine Box aufziehen um mehrere Würfel auszuwählen
+src/characters/tutorial_character.lua:107	dialogue	Each time you Score more Combos in a Turn, you gain Momentum	Jedes Mal, wenn du Combos wertest, bekommst du Momentum
+src/characters/tutorial_character.lua:108	dialogue	Momentum gives you extra Points and Mult on your next Score	Momentum gibt dir mehr Punkte und Multi für deine nächste Wertung
 src/characters/tutorial_character.lua:109	dialogue	Your momentum is reset to zero at the start of each Turn.	Dein Momentum wird am Anfang jedes Zuges zurückgesetzt.
 src/characters/tutorial_character.lua:119	dialogue	You've hit the target!	Du hast das Ziel erreicht!
 src/characters/tutorial_character.lua:120	dialogue	BANK your Points to complete the level.	Zahl deine Punkte in die BANK ein um das Level zu beenden.
 src/characters/tutorial_character.lua:130	dialogue	You made it through the first level!	Du hast das erste Level geschafft!
 src/characters/tutorial_character.lua:131	dialogue	Between levels, you'll visit The Shop, buy Trinkets, Snacks and Spells.\nAll the fun stuff.	Zwischen Levels wirst du den Shop besuchen um Glücksbringer, Snacks und Zauber zu kaufen.
 src/characters/tutorial_character.lua:155		combo	Combo
-src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	Das ist eine ${combo_label} Kombination!
-src/characters/tutorial_character.lua:157	dialogue	Select and score it!	Wähle sie aus und werte sie!
+src/characters/tutorial_character.lua:156	dialogue	That's a ${combo_label}!	Das ist eine\n${combo_label} Kombination!
+src/characters/tutorial_character.lua:157	dialogue	Select and score it!	Wähle sie aus\nund werte sie!
 src/characters/tutorial_character.lua:169	dialogue	Nice, those Points are safe now.	Nice, die Punkte sind jetzt sicher.
 src/characters/tutorial_character.lua:170	dialogue	BANK refilled your Bust meter.	Die BANK hat dein BUST-Meter wieder aufgefüllt.
 src/characters/tutorial_character.lua:173	dialogue	You have $TURNS BANKS left, so make sure you only BANK when you need to!	Du hast $TURNS Züge übrig, also nutze die BANK nur wenn du wirklich musst!
-src/characters/tutorial_character.lua:186	dialogue	Red sides are BUST! If you roll too many, you will WIPE!	Rote Seiten nennt man BUST! Würfelst du zu viele, wirst du WIPEn!
-src/characters/tutorial_character.lua:192		<- BUST meter here	<- Hier ist das BUST-Meter
-src/characters/tutorial_character.lua:206	dialogue	One more BUST and you'll WIPE!	Noch ein BUST und du WIPEst!
-src/characters/tutorial_character.lua:207	dialogue	Consider BANKing your points now to keep them safe.	Überlege jetzt die BANK zu nutzen, um deine Punkte zu behalten.
-src/characters/tutorial_character.lua:219	dialogue	Now that you accumulated some points try banking!	Jetzt da du ein paar Punkte angesammelt hast, probiere die BANK aus!
-src/characters/tutorial_character.lua:220	dialogue	Each time you BANK, you use up a Turn.	Jedes mal wenn du in die BANK einzahlst, ist dein Zug beendet.
+src/characters/tutorial_character.lua:186	dialogue	Red sides are BUST! If you roll too many, you will WIPE!	Rote Seiten sind BUSTS!\nWirfst du zu viele, WIPEST du!
+src/characters/tutorial_character.lua:192		<- BUST meter here	<- BUST-Meter hier
+src/characters/tutorial_character.lua:206	dialogue	One more BUST and you'll WIPE!	Noch ein BUST\nund du WIPEST!
+src/characters/tutorial_character.lua:207	dialogue	Consider BANKing your points now to keep them safe.	Überlege jetzt, die BANK zu nutzen, um deine Punkte zu sichern.
+src/characters/tutorial_character.lua:219	dialogue	Now that you accumulated some points try banking!	Jetzt da du ein paar Punkte gesammelt hast, probiere die BANK aus!
+src/characters/tutorial_character.lua:220	dialogue	Each time you BANK, you use up a Turn.	Jedes Mal, wenn du die BANK benutzt, ist dein Zug vorbei.
 src/characters/tutorial_character.lua:221	dialogue	When you run out of Turns, the game ends.	Wenn du keine Züge mehr hast, ist das Spiel vorbei.
-src/characters/tutorial_character.lua:225		See turns left here ->	Hier sind deine übrigen Züge ->
-src/characters/tutorial_character.lua:231		<- Click here to bank	<- Hier klicken um in die BANK einzuzahlen
-src/characters/tutorial_character.lua:242	dialogue	You rolled too many BUSTs!	Du hast zu viele BUST-Seiten gewürfelt!
-src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked Points gone!	Das ist ein WIPE! Alle Punkte, die nicht in der BANK sind, sind weg!
+src/characters/tutorial_character.lua:225		See turns left here ->	Übrige Züge hier ->
+src/characters/tutorial_character.lua:231		<- Click here to bank	<- Bank benutzen hier
+src/characters/tutorial_character.lua:242	dialogue	You rolled too many BUSTs!	Du hast zu viele BUSTS geworfen!
+src/characters/tutorial_character.lua:244	dialogue	That's a WIPE! All unbanked Points gone!	Das ist ein WIPE!\nDu hast alle Punkte außerhalb der Bank verloren!
 src/characters/tutorial_character.lua:245	dialogue	Don't worry, it happens.	Keine Angst, das passiert den Besten.
-src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)	Nächstes mal solltest du in die BANK einzahlen, bevor das passiert :)
+src/characters/tutorial_character.lua:247	dialogue	Next time you should BANK before that happens :)	Nächstes mal solltest du\ndie BANK benutzen,\nbevor das passiert :)
 src/characters/tutorial_character.lua:260	dialogue	Ah. Yeah...	Ah. Ja...
 src/characters/tutorial_character.lua:261	dialogue	Instant WIPE	Instant WIPE
 src/characters/tutorial_character.lua:262	dialogue	When ALL DICE you rolled roll BUST, your Turn is over straight away.	Wenn ALLE WÜRFEL einen BUST würfeln, ist dein Zug sofort vorbei.
 src/characters/tutorial_character.lua:263	dialogue	Rolling a single die makes that very likely, but it can happen with any roll!	Einen einzelnen Würfel werfen ist daher sehr gefährlich,/naber es kann mit jedem Wurf passieren!
 src/characters/tutorial_character.lua:276	dialogue	This is your last turn.	Dies ist dein letzter Zug.
-src/characters/tutorial_character.lua:277	dialogue	You have to go all in now, no point in BANKing early.	Du musst jetzt alles auf's Spiel setzen, die BANK kann dir nicht mehr helfen.
-src/characters/tutorial_character.lua:278	dialogue	You can still do it!	Du schaffst das noch!
-src/characters/tutorial_character.lua:288	dialogue	Well, you failed the tutorial.	Okay, du hast im Tutorial versagt.
+src/characters/tutorial_character.lua:277	dialogue	You have to go all in now, no point in BANKing early.	Du musst jetzt alles auf's Spiel setzen,\ndie BANK kann dir nicht mehr helfen.
+src/characters/tutorial_character.lua:278	dialogue	You can still do it!	Du kannst das noch schaffen!
+src/characters/tutorial_character.lua:288	dialogue	Well, you failed the tutorial.	Schade, du hast im Tutorial versagt.
 src/characters/tutorial_character.lua:289	dialogue	I'll bring you back this time.	Dieses eine mal bringe ich dich zurück.
 src/characters/tutorial_character.lua:293	dialogue	Be better.	Sei besser.
 src/characters/tutorial_character.lua:302	dialogue	Welp.	Ups.
 src/characters/tutorial_character.lua:303	dialogue	Pretty good for the first go.	Ziemlich gut für dein erstes Mal.
-src/characters/tutorial_character.lua:305	dialogue	I didn't explain it all but you're a smart cookie.	Ich hab nicht alles erklärt aber du bist nicht auf den Kopf gefallen.
-src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	Den Rest findest du selbst heraus.
-src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	Wir sehen uns im echten Spiel.
-src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	Denk dran, Glück kann hilfreich sein.\nEntscheidungen sind wichtiger.
+src/characters/tutorial_character.lua:305	dialogue	I didn't explain it all but you're a smart cookie.	Ich hab nicht alles erklärt, aber du bist nicht auf den Kopf gefallen.
+src/characters/tutorial_character.lua:306	dialogue	You can figure out the rest.	Den Rest findest du\nselbst heraus.
+src/characters/tutorial_character.lua:308	dialogue	I'll see you in the real game.	Wir sehen uns\nim echten Spiel.
+src/characters/tutorial_character.lua:309	dialogue	Remember, luck helps. Judgement matters more.	Denk dran,\nGlück ist hilfreich.\n\nEntscheidungen sind wichtig.
 src/characters/wizard.lua:2		Wizard	Zauberer
 src/characters/wizard.lua:43		Soucerer	Flexenmeister
 src/characters/wizard.lua:50		Archmogus	Erzmoggier
@@ -270,7 +270,7 @@ src/endings/tooth_fairy.lua:132	dialogue	i know everything	ich weiß alles
 src/entities/bad_teeth_mode.lua:35		Bad Teeth: ${count}/${limit}	Schlechte Zähne: ${count}/${limit}
 src/entities/buttons_clump.lua:107 (+1 others)		Score	Werten
 src/entities/buttons_clump.lua:108		Scoring adds points and clears all dice in the combo	Werte die Combo für ihre Punkte.\nAlle Würfel darin werden blank.
-src/entities/buttons_clump.lua:110		Select All	Alle Auswählen
+src/entities/buttons_clump.lua:110		Select All	Alle Wählen
 src/entities/buttons_clump.lua:111		Select your dice to score them or roll them	Wähle Würfel aus um sie zu werten oder zu würfeln
 src/entities/buttons_clump.lua:113		Deselect	Abwählen
 src/entities/buttons_clump.lua:114		Deselect everything to make a new selection	Wähle alles ab
@@ -1200,9 +1200,9 @@ src/states/game.lua:3336		SKIP ${pip}	SKIP ${pip}
 src/states/game.lua:3348		SKIP LOOPED	SKIP SCHLEIFE
 src/states/game.lua:3587		Level Complete	Level Geschafft
 src/states/game.lua:3628		Overshoot! +	Überschuss! +
-src/states/game.lua:3659		Level Coins	Level Münzen
-src/states/game.lua:3670		Extra Turn Coins	Extra-Zug Münzen
-src/states/game.lua:3682		Combine Coins	Münzen Kombinieren
+src/states/game.lua:3659		Level Coins	Level-Münzen
+src/states/game.lua:3670		Extra Turn Coins	Extra-Zug-Münzen
+src/states/game.lua:3682		Combine Coins	Münzen Kombiniert
 src/states/game.lua:3699		Bet bonus! +	Wettgewinn! +
 src/states/game.lua:3749		--  Level ${number} Complete!  --	--  Level ${number} Geschafft!  --
 src/states/game.lua:3765		Score:	Punktzahl:
@@ -1216,7 +1216,7 @@ src/states/game.lua:3862		don't lose it	verlier sie nicht
 src/states/game.lua:3862		Soul on line	Seele auf dem Spiel
 src/states/game.lua:3869		¤${BET} wagered	¤${BET} gewettet
 src/states/game.lua:3873		¤ Banked	¤ in der BANK
-src/states/game.lua:3874		Bank ¤${KEPT}?	¤${KEPT} in der BANK sichern?
+src/states/game.lua:3874		Bank ¤${KEPT}?	¤${KEPT} sichern?
 src/states/game.lua:3875		Win To Bank ¤	Gewinne, um ¤ in der BANK zu sichern
 src/states/game.lua:3876		Bank ¤ in ${LEVELS} lvl	¤ sichern in ${LEVELS} lvl
 src/states/game.lua:3890		Secure your Stars for the run\nyou won't be able to gain more this run	Sichere deine Sterne für diesen Run\ndu kannst diesen Run keine Sterne mehr sammeln
@@ -1293,23 +1293,23 @@ src/states/options.lua:363		display	anzeige
 src/states/options.lua:365		fullscreen	vollbild
 src/states/options.lua:372		vsync	vsync
 src/states/options.lua:379		chromab	farbverschiebung
-src/states/options.lua:388		scanlines	röhren
+src/states/options.lua:388		scanlines	scanlines
 src/states/options.lua:397		bulge	wölbung
 src/states/options.lua:407		accessibility	barrierefreiheit
-src/states/options.lua:409		screenshake	bildschirmwackeln
+src/states/options.lua:409		screenshake	screenshake
 src/states/options.lua:418		tips	tipps
-src/states/options.lua:425		slow computer	schnelle performance
-src/states/options.lua:432		fast animation	schnelle animation
+src/states/options.lua:425		slow computer	schn. performance
+src/states/options.lua:432		fast animation	schn. animation
 src/states/options.lua:439		scroll bgs	hintergrundscroll
 src/states/options.lua:450		danger zone	gefahrenzone
 src/states/options.lua:454		locale	sprache
 src/states/options.lua:458		nuke entire save	spielstand löschen
-src/states/options.lua:463		Delete the entire game's save file\nresetting everything\nand losing all your progress forever?	Willst du deinen ganzen Spielstand löschen,\nAlles zurücksetzen\nund deinen Fortschritt für immer verlieren?
-src/states/options.lua:478		reset options	optionen zurücksetzen
-src/states/options.lua:483		Reset all the game options\nto their default values?	Willst du alle Optionen/nauf ihren Standard zurücksetzen? 
-src/states/options.lua:504		reset tips	tipps zurücksetzen
-src/states/options.lua:509		reset all the hover tooltip counters\nso that all the tips show again?	Willst du alle Tipps/nwieder anzeigen lassen?
-src/states/options.lua:528		replay tutorial	tutorial wiederholen
+src/states/options.lua:463		Delete the entire game's save file\nresetting everything\nand losing all your progress forever?	Willst du deinen ganzen Spielstand löschen,\nAlles zurücksetzen und deinen Fortschritt für immer verlieren?
+src/states/options.lua:478		reset options	optionen rückgängig
+src/states/options.lua:483		Reset all the game options\nto their default values?	Willst du alle Optionen auf ihren Standard zurücksetzen? 
+src/states/options.lua:504		reset tips	tipps rückgängig
+src/states/options.lua:509		reset all the hover tooltip counters\nso that all the tips show again?	Willst du alle Tipps wieder anzeigen lassen?
+src/states/options.lua:528		replay tutorial	tutorial nochmal
 src/states/scoreboard.lua:39		Loading Scores...	Lädt Punkte...
 src/states/scoreboard.lua:109		# player	# spieler
 src/states/scoreboard.lua:175		Your Luck	Dein Glück
