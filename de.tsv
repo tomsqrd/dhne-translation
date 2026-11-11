@@ -1,7 +1,7 @@
 location	extra context	en	de
-gather_strings.lua:1		No	
-gather_strings.lua:1		momentum	
-gather_strings.lua:1		greed	
+gather_strings.lua:1		No	Nein
+gather_strings.lua:1		momentum	momentum
+gather_strings.lua:1		greed	Gier
 src/are_you_sure.lua:14 (+3 others)		Are you sure?	Bist du dir sicher?
 src/are_you_sure.lua:15 (+14 others)		yes	ja
 src/are_you_sure.lua:17		really?	wirklich?
@@ -67,7 +67,7 @@ src/characters/cool_fish.lua:88		I'll revive you for all your $yen ¥ and $cost 
 src/characters/cool_fish.lua:95	dialogue	Uncool	Uncool
 src/characters/cool_fish.lua:108	dialogue	Stay cool	Bleib cool
 src/characters/dog.lua:2		Dog	Hund
-src/characters/dog.lua:34		So Fancy	
+src/characters/dog.lua:34		So Fancy	Ja Fein!
 src/characters/god.lua:11	dialogue	unworthy	unwürdig
 src/characters/god.lua:15	dialogue	fall back	bleib zurück
 src/characters/god.lua:31	dialogue	begone	weiche
@@ -206,7 +206,7 @@ src/coloured_text.lua:14		instant	instant
 src/coloured_text.lua:16		turn	zug
 src/coloured_text.lua:20		turns	züge
 src/coloured_text.lua:24 (+2 others)		bank	bank
-src/coloured_text.lua:27 (+2 others)		stars	
+src/coloured_text.lua:27 (+2 others)		stars	sterne
 src/coloured_text.lua:31 (+5 others)		points	punkte
 src/coloured_text.lua:35 (+9 others)		mult	multi
 src/coloured_text.lua:39 (+8 others)		bonus	bonus
@@ -436,7 +436,7 @@ src/items.lua:50		Power Limit +1!	Power-Limit +1!
 src/items.lua:55		Trinket Limit Up	Glücksbringer-Limit Hoch
 src/items.lua:58		Trinket Limit +1	Glücksbringer-Limit +1
 src/items.lua:67		Trinket Limit +1!	Glücksbringer-Limit +1!
-src/items.lua:72		Dice Limit Up	
+src/items.lua:72		Dice Limit Up	Würfel-Limit Hoch
 src/items.lua:75		Dice Limit +1	Würfel-Limit +1
 src/items.lua:84		Dice Limit +1!	Würfel-Limit +1!
 src/items.lua:90		Coin Burst	Münz-Schub
@@ -451,7 +451,7 @@ src/items.lua:153		Uplift	Aufschwung
 src/items.lua:156		Nudge all dice +1 pip (no loop)	Kipp alle Würfel +1 hoch (keine Schleife)
 src/items.lua:169		+1 all	+1 für alle
 src/items.lua:174		Downshift	Abschwung
-src/items.lua:177		Nudge all dice -1 pip (no loop)	
+src/items.lua:177		Nudge all dice -1 pip (no loop)	Kipp alle Würfel -1 runter (keine Schleife)
 src/items.lua:191		-1 all	-1 für alle
 src/items.lua:196		Clamp High	Deckelung
 src/items.lua:199		All dice above 4 become 4	Alle Würfel über 4 werden 4
@@ -1067,7 +1067,7 @@ src/states/customisation.lua:166		Nothing Available	Nichts Verfügbar
 src/states/customisation.lua:167		sorry sorry	sorry sorry
 src/states/customisation.lua:202		outfit	outfit
 src/states/customisation.lua:202		accessory	accesoire
-src/states/customisation.lua:224		on	
+src/states/customisation.lua:224		on	an
 src/states/customisation.lua:224 (+2 others)		off	aus
 src/states/customisation.lua:358		Distort A	Verzerrung A
 src/states/customisation.lua:359		Distort B	Verzerrung B
@@ -1078,7 +1078,7 @@ src/states/customisation.lua:460		Dye	Färbung
 src/states/customisation.lua:461		recolour	umfärben
 src/states/ending.lua:229 (+10 others)		hit that shit?	zieh den scheiß?
 src/states/ending.lua:287 (+4 others)		play	spielen
-src/states/ending.lua:466 (+4 others)		done	
+src/states/ending.lua:466 (+4 others)		done	fertig
 src/states/ending_bet.lua:56 (+3 others)		star	stern
 src/states/ending_bet.lua:74 (+4 others)		¤ banked	¤ in der bank
 src/states/ending_bet.lua:154 (+1 others)	dialogue	how boring	wie langweilig
@@ -1411,10 +1411,10 @@ src/ui/help_screen.lua:141	ui	BASIC TACTICS	EINFACHE TAKTIKEN
 src/ui/help_screen.lua:142	ui	The more dice you roll at once the bigger chance of any Bust, but smaller chance of All Bust.\n\nRerolling a single die is ballsy! Prioritize rerolling blank dice. Scoring a single big combo is better than few pairs.	Je mehr Würfel du wirfst, desto höher die Chance auf einen BUST, aber desto niedriger die Chance auf instant WIPE.\n\nEinzelne Würfel werfen ist mutig! Wirf erstmal deine blanken Würfel. Eine einzelne große Combo ist besser als kleine Paare.
 src/ui/item_hover.lua:72 (+4 others)	ui	SPELL	ZAUBER
 src/ui/level_map.lua:65	ui	LEVEL MAP	LEVEL KARTE
-src/ui/level_map.lua:165		Level ${level}	
+src/ui/level_map.lua:165		Level ${level}	Level ${level}
 src/ui/level_map.lua:168	ui	Final nightmare level	Letztes Albtraum-Level
 src/ui/level_map.lua:171	ui	Final level	Letztes Level
 src/ui/level_map.lua:174	ui	Nightmare level	Albtraum-Level
-src/ui/level_map.lua:181		- ${points} pts	
+src/ui/level_map.lua:181		- ${points} pts	- ${points} pkt
 src/ui/state_tabs.lua:5 (+2 others)	ui	unlock	freischallten
 src/ui/tooltip.lua:82	ui	tip	tipp
