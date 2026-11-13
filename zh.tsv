@@ -343,8 +343,8 @@ src/entities/shop.lua:1311		bye	溜
 src/entities/shop.lua:1359		Reroll - ${current_cost}¥	刷新 - ${current_cost}¥
 src/entities/tape.lua:455		- web	
 src/entities/title_text.lua:3		DICE HAVE\nNO EYES	骰子\n不长眼
-src/entities/title_text.lua:5		DICE HAVE\nNÕ EYES	
-src/entities/title_text.lua:6		DICE HAVE\nNÖ EYES	
+src/entities/title_text.lua:5		DICE HAVE\nNÕ EYES	骰子\n不长眼
+src/entities/title_text.lua:6		DICE HAVE\nNÖ EYES	骰子\n不长眼
 src/entities/title_text.lua:121		DEMO	DEMO
 src/item_unlocks.lua:6		Basic Spells	基础咒语
 src/item_unlocks.lua:7		beginner magic	新手魔法
